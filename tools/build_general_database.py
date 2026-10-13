@@ -94,6 +94,13 @@ ACCOUNT_TO_CANDIDATE = {
     "01006712": "Steven Washington",
     "01006717": "Carolyn Frank",
     "01006742": "Shane Cavanaugh",
+    "01002289": "Terry L. Pepper",
+    "01004147": "Scott Phillips",
+    "01005478": "Cyndie Romer",
+    "01005582": "Frank Burns",
+    "01006451": "Pamela Salaam",
+    "01006633": "Mike Simpler",
+    "01006732": "Shawn L. Dottery",
 }
 
 
@@ -326,6 +333,10 @@ def recipient_matches(raw_text: str, candidates: list[dict]) -> list[dict]:
         "anne norman": "Annie Norman",
         "rajalakshmi lodhavia": "Nisha Lodhavia",
         "branden fletcher": "Branden Fletcher-Dominguez",
+        "rae krantz": "Rachel \"Rae\" Krantz",
+        "andy gorlich": "Andrew \"Andy\" Gorlich",
+        "alexander green": "Alex Green",
+        "kimberly williams": "Kim Williams",
     }
     by_name = {c["candidate"]: c for c in candidates}
     for alias, official in aliases.items():
@@ -334,14 +345,52 @@ def recipient_matches(raw_text: str, candidates: list[dict]) -> list[dict]:
     return matches
 
 
+DSEA_CANDIDATE_ALIASES = {
+    "moore": "Sherae'a \"Rae\" Moore",
+    "ross levin": "Melanie Ross Levin",
+    "snyder hall": "Claire Snyder-Hall",
+    "berry": "Alonna Berry",
+    "morrison": "Eric Morrison",
+    "mantzavinos": "Spiros Mantzavinos",
+    "gorman": "Mara Gorman",
+    "poore": "Nicole Poore",
+    "hoffner": "Kyra L. Hoffner",
+    "lindner": "Gregg Lindner",
+    "lodhavia": "Nisha Lodhavia",
+    "krantz": "Rachel \"Rae\" Krantz",
+}
+
+
+def dsea_allocations(raw_text: str, candidates: list[dict]) -> list[tuple[dict, float]]:
+    """Extract the candidate-level amounts printed inside DSEA's grouped rows."""
+    by_name = {candidate["candidate"]: candidate for candidate in candidates}
+    allocations = []
+    for label, amount in re.findall(
+        r"([A-Za-z][A-Za-z-]+)\s*(?:\|\s*)?\(([\d,]+(?:\.\d+)?)\)", raw_text
+    ):
+        official = DSEA_CANDIDATE_ALIASES.get(normalized(label))
+        candidate = by_name.get(official or "")
+        if candidate:
+            allocations.append((candidate, float(amount.replace(",", ""))))
+    return allocations
+
+
 def outside_dataset(pdf_dir: Path, candidate_payload: dict) -> dict:
     candidates = candidate_payload["candidates"]
     reports = [parse_report(pdf) for pdf in sorted(pdf_dir.glob("*.pdf"))]
     pac_reports = [r for r in reports if r["account"].startswith(("02", "03"))]
-    tpa_reports = [r for r in reports if r["account"].startswith("04")]
+    ignored_tpa_accounts = {"04006715"}
+    tpa_reports = [
+        r for r in reports
+        if r["account"].startswith("04") and r["account"] not in ignored_tpa_accounts
+    ]
     selected_pac, excluded = choose_reports(pac_reports)
     selected_tpa, excluded_tpa = choose_reports(tpa_reports)
     excluded.extend(excluded_tpa)
+    excluded.extend({
+        "sourceFile": r["sourceFile"],
+        "reason": "Excluded at Spotlight Delaware's direction",
+    } for r in reports if r["account"] in ignored_tpa_accounts)
     allocations = []
     issues = []
     groups = []
@@ -396,6 +445,35 @@ def outside_dataset(pdf_dir: Path, candidate_payload: dict) -> dict:
             excluded.append({"sourceFile": report["sourceFile"], "reason": "third-party advertiser reported no expenditures"})
             continue
         for index, row in enumerate(report["expenditures"]):
+            if report["account"] == "04003188":
+                split_allocations = dsea_allocations(row["rawText"], candidates)
+                if not split_allocations or abs(sum(amount for _, amount in split_allocations) - row["amount"]) > .01:
+                    issues.append({
+                        "account": report["account"], "sourceFile": report["sourceFile"],
+                        "reason": "DSEA candidate allocations did not reconcile to the expenditure and were left unattributed.",
+                        "amount": row["amount"], "rawText": row["rawText"],
+                    })
+                    continue
+                key = hashlib.sha1(report["sourceFile"].encode()).hexdigest()[:8]
+                for split_index, (candidate, amount) in enumerate(split_allocations):
+                    allocations.append({
+                        "id": f"tpa-{report['account']}-{key}-{index}-{split_index}-{candidate['id']}",
+                        "candidateId": candidate["id"],
+                        "candidateName": candidate["candidate"],
+                        "targetCandidateId": None,
+                        "position": "support",
+                        "allocationType": "independent-spending",
+                        "amount": amount,
+                        "date": row["date"],
+                        "organization": report["organization"],
+                        "account": report["account"],
+                        "activity": "Digital advertising, mail and production",
+                        "payee": row["payee"],
+                        "sourceFile": report["sourceFile"],
+                        "reportPeriodEnd": report["periodEnd"],
+                        "note": "Candidate amount printed in the filing's grouped expenditure description.",
+                    })
+                continue
             matches = recipient_matches(row["rawText"], candidates)
             if len(matches) != 1:
                 issues.append({
