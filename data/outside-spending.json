@@ -11,6 +11,14 @@
       "reportCount": 1
     },
     {
+      "account": "03002691",
+      "organization": "11th Representative District Democratic Committee",
+      "entityType": "PAC",
+      "reportedExpenditures": 100.0,
+      "candidateAttributed": 100.0,
+      "reportCount": 1
+    },
+    {
       "account": "03000659",
       "organization": "14th District Democratic Committee",
       "entityType": "PAC",
@@ -43,6 +51,14 @@
       "reportCount": 1
     },
     {
+      "account": "03000647",
+      "organization": "23rd Representative District Democratic Committee",
+      "entityType": "PAC",
+      "reportedExpenditures": 1200.0,
+      "candidateAttributed": 1200.0,
+      "reportCount": 1
+    },
+    {
       "account": "03000682",
       "organization": "29th Republican District Committee",
       "entityType": "PAC",
@@ -56,6 +72,14 @@
       "entityType": "PAC",
       "reportedExpenditures": 200.0,
       "candidateAttributed": 200.0,
+      "reportCount": 1
+    },
+    {
+      "account": "03000655",
+      "organization": "31st Democratic District Committee",
+      "entityType": "PAC",
+      "reportedExpenditures": 880.0,
+      "candidateAttributed": 770.0,
       "reportCount": 1
     },
     {
@@ -80,6 +104,14 @@
       "entityType": "PAC",
       "reportedExpenditures": 222.99,
       "candidateAttributed": 0,
+      "reportCount": 1
+    },
+    {
+      "account": "03000660",
+      "organization": "38th District Democratic Committee",
+      "entityType": "PAC",
+      "reportedExpenditures": 780.77,
+      "candidateAttributed": 600.0,
       "reportCount": 1
     },
     {
@@ -127,7 +159,7 @@
       "organization": "ABC Merit Shop PAC",
       "entityType": "PAC",
       "reportedExpenditures": 4200.0,
-      "candidateAttributed": 1800.0,
+      "candidateAttributed": 2400.0,
       "reportCount": 1
     },
     {
@@ -151,7 +183,7 @@
       "organization": "Asbestos Workers Local 42 Political Action Fund",
       "entityType": "PAC",
       "reportedExpenditures": 3200.0,
-      "candidateAttributed": 600.0,
+      "candidateAttributed": 1200.0,
       "reportCount": 1
     },
     {
@@ -175,7 +207,7 @@
       "organization": "BlueGoldPAC",
       "entityType": "PAC",
       "reportedExpenditures": 5515.0,
-      "candidateAttributed": 4900.0,
+      "candidateAttributed": 5500.0,
       "reportCount": 1
     },
     {
@@ -215,7 +247,7 @@
       "organization": "Correctional Officer's Assn. Of Delaware P.A.C.",
       "entityType": "PAC",
       "reportedExpenditures": 9600.0,
-      "candidateAttributed": 6600.0,
+      "candidateAttributed": 7200.0,
       "reportCount": 1
     },
     {
@@ -230,9 +262,9 @@
       "account": "02000511",
       "organization": "DSEA Advocacy Fund For Children & Public Education",
       "entityType": "PAC",
-      "reportedExpenditures": 57994.23,
+      "reportedExpenditures": 63598.34,
       "candidateAttributed": 0,
-      "reportCount": 1
+      "reportCount": 2
     },
     {
       "account": "02006090",
@@ -247,24 +279,32 @@
       "organization": "Delaware Action Committee For Rural Electric",
       "entityType": "PAC",
       "reportedExpenditures": 6700.0,
-      "candidateAttributed": 6100.0,
+      "candidateAttributed": 6700.0,
+      "reportCount": 1
+    },
+    {
+      "account": "02002704",
+      "organization": "Delaware Asian American Business Association Political Action Committee",
+      "entityType": "PAC",
+      "reportedExpenditures": 1800.0,
+      "candidateAttributed": 1800.0,
       "reportCount": 1
     },
     {
       "account": "02000472",
       "organization": "Delaware Building & Constructon Trades/ PAC (DBTC PAC)",
       "entityType": "PAC",
-      "reportedExpenditures": 27387.78,
-      "candidateAttributed": 0,
-      "reportCount": 1
+      "reportedExpenditures": 31951.78,
+      "candidateAttributed": 600.0,
+      "reportCount": 2
     },
     {
       "account": "02005902",
       "organization": "Delaware Democratic Party Veterans Caucus",
       "entityType": "PAC",
-      "reportedExpenditures": 44.42,
+      "reportedExpenditures": 2788.05,
       "candidateAttributed": 0,
-      "reportCount": 1
+      "reportCount": 2
     },
     {
       "account": "03004174",
@@ -295,7 +335,7 @@
       "organization": "Delaware Multi-Housing PAC (MHS-PAC)",
       "entityType": "PAC",
       "reportedExpenditures": 9103.0,
-      "candidateAttributed": 4600.0,
+      "candidateAttributed": 5200.0,
       "reportCount": 2
     },
     {
@@ -326,25 +366,33 @@
       "account": "02005258",
       "organization": "Delaware Senate Majority Caucus Campaign Committee",
       "entityType": "PAC",
-      "reportedExpenditures": 78096.57,
-      "candidateAttributed": 0,
-      "reportCount": 1
+      "reportedExpenditures": 91507.64,
+      "candidateAttributed": 3000.0,
+      "reportCount": 2
     },
     {
       "account": "02001289",
       "organization": "Delaware Stonewall PAC",
       "entityType": "PAC",
       "reportedExpenditures": 7984.17,
-      "candidateAttributed": 3900.0,
+      "candidateAttributed": 4500.0,
       "reportCount": 2
+    },
+    {
+      "account": "02004094",
+      "organization": "Delaware Veterinary Medical Association PAC",
+      "entityType": "PAC",
+      "reportedExpenditures": 0.66,
+      "candidateAttributed": 0,
+      "reportCount": 1
     },
     {
       "account": "02004402",
       "organization": "DelawareCAN Action Fund PAC",
       "entityType": "PAC",
-      "reportedExpenditures": 60990.8,
+      "reportedExpenditures": 115023.18,
       "candidateAttributed": 0,
-      "reportCount": 1
+      "reportCount": 2
     },
     {
       "account": "03000629",
@@ -358,17 +406,17 @@
       "account": "03000625",
       "organization": "Democratic Legislative Campaign Committee",
       "entityType": "PAC",
-      "reportedExpenditures": 6000.0,
-      "candidateAttributed": 4200.0,
-      "reportCount": 1
+      "reportedExpenditures": 9000.0,
+      "candidateAttributed": 8400.0,
+      "reportCount": 2
     },
     {
       "account": "03000666",
       "organization": "Democrats 2024",
       "entityType": "PAC",
-      "reportedExpenditures": 6000.0,
-      "candidateAttributed": 4200.0,
-      "reportCount": 1
+      "reportedExpenditures": 9000.0,
+      "candidateAttributed": 8400.0,
+      "reportCount": 2
     },
     {
       "account": "02002732",
@@ -383,6 +431,14 @@
       "organization": "Eastern Sussex Democrats",
       "entityType": "PAC",
       "reportedExpenditures": 226.8,
+      "candidateAttributed": 0,
+      "reportCount": 1
+    },
+    {
+      "account": "02002977",
+      "organization": "Empower PAC",
+      "entityType": "PAC",
+      "reportedExpenditures": 500.0,
       "candidateAttributed": 0,
       "reportCount": 1
     },
@@ -423,24 +479,24 @@
       "organization": "General Teamsters Local 326 PAC",
       "entityType": "PAC",
       "reportedExpenditures": 3903.0,
-      "candidateAttributed": 800.0,
+      "candidateAttributed": 1700.0,
       "reportCount": 2
     },
     {
       "account": "02003668",
       "organization": "Greater DE Carpenters PEC",
       "entityType": "PAC",
-      "reportedExpenditures": 65.02,
+      "reportedExpenditures": 26570.51,
       "candidateAttributed": 0,
-      "reportCount": 1
+      "reportCount": 2
     },
     {
       "account": "03000709",
       "organization": "House Democrats",
       "entityType": "PAC",
-      "reportedExpenditures": 66262.42,
-      "candidateAttributed": 3000.0,
-      "reportCount": 1
+      "reportedExpenditures": 78352.08,
+      "candidateAttributed": 5400.0,
+      "reportCount": 2
     },
     {
       "account": "02006443",
@@ -479,7 +535,7 @@
       "organization": "LawPac of Delaware",
       "entityType": "PAC",
       "reportedExpenditures": 34200.0,
-      "candidateAttributed": 31800.0,
+      "candidateAttributed": 34200.0,
       "reportCount": 1
     },
     {
@@ -503,7 +559,7 @@
       "organization": "NCC Chamber of Commerce PAC",
       "entityType": "PAC",
       "reportedExpenditures": 4400.0,
-      "candidateAttributed": 1950.0,
+      "candidateAttributed": 2450.0,
       "reportCount": 1
     },
     {
@@ -511,7 +567,7 @@
       "organization": "New Castle County Democratic Committee",
       "entityType": "PAC",
       "reportedExpenditures": 23831.61,
-      "candidateAttributed": 19900.0,
+      "candidateAttributed": 22900.0,
       "reportCount": 1
     },
     {
@@ -739,6 +795,14 @@
       "reportCount": 1
     },
     {
+      "account": "02001610",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "entityType": "PAC",
+      "reportedExpenditures": 9300.0,
+      "candidateAttributed": 8700.0,
+      "reportCount": 1
+    },
+    {
       "account": "04006666",
       "organization": "DE LEAD",
       "entityType": "Third-party advertiser",
@@ -773,6 +837,23 @@
   ],
   "allocations": [
     {
+      "id": "pac-02000462-467fd22c-8",
+      "candidateId": "sd9-jack-walsh",
+      "candidateName": "Jack Walsh",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 500.0,
+      "date": "09/01/2026",
+      "organization": "General Teamsters Local 326 PAC",
+      "account": "02000462",
+      "activity": "Direct PAC donation",
+      "payee": "Walsh for the 9th",
+      "sourceFile": "CampaignFinanceReport_Prelim_462_1272_e2e748a3-2d92-44ed-8570-0bc535582793.pdf",
+      "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-02000462-467fd22c-3",
       "candidateId": "sd14-kyra-l-hoffner",
       "candidateName": "Kyra L. Hoffner",
@@ -785,6 +866,23 @@
       "account": "02000462",
       "activity": "Direct PAC donation",
       "payee": "Friends to Elect Kyra Hoffner",
+      "sourceFile": "CampaignFinanceReport_Prelim_462_1272_e2e748a3-2d92-44ed-8570-0bc535582793.pdf",
+      "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02000462-467fd22c-4",
+      "candidateId": "trs-ted-lauzen",
+      "candidateName": "Ted Lauzen",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 400.0,
+      "date": "09/03/2026",
+      "organization": "General Teamsters Local 326 PAC",
+      "account": "02000462",
+      "activity": "Direct PAC donation",
+      "payee": "Lauzen for Delaware",
       "sourceFile": "CampaignFinanceReport_Prelim_462_1272_e2e748a3-2d92-44ed-8570-0bc535582793.pdf",
       "reportPeriodEnd": "09/07/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
@@ -804,6 +902,23 @@
       "payee": "Spiros Mantzavinos for the 7th",
       "sourceFile": "CampaignFinanceReport_Prelim_462_1272_e2e748a3-2d92-44ed-8570-0bc535582793.pdf",
       "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02000472-bf052f8a-1",
+      "candidateId": "rd3-branden-fletcher-dominguez",
+      "candidateName": "Branden Fletcher-Dominguez",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/13/2026",
+      "organization": "Delaware Building & Constructon Trades/ PAC (DBTC PAC)",
+      "account": "02000472",
+      "activity": "Direct PAC donation",
+      "payee": "Committe to Elect Branden Fletcher",
+      "sourceFile": "CampaignFinanceReport_Prelim_472_1273_a76a9518-0b6b-4fcd-b404-b5ed031faad3.pdf",
+      "reportPeriodEnd": "10/04/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
@@ -972,6 +1087,23 @@
       "account": "02000473",
       "activity": "Direct PAC donation",
       "payee": "Tim Dukes for State Representative",
+      "sourceFile": "CampaignFinanceReport_Prelim_473_1273_7b6c75a2-24c3-44ed-acf4-e6d714a78580.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02000473-6472e83b-18",
+      "candidateId": "rd34-lyndon-d-yearick",
+      "candidateName": "Lyndon D. Yearick",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/23/2026",
+      "organization": "Delaware Action Committee For Rural Electric",
+      "account": "02000473",
+      "activity": "Direct PAC donation",
+      "payee": "Yearick for Delaware",
       "sourceFile": "CampaignFinanceReport_Prelim_473_1273_7b6c75a2-24c3-44ed-acf4-e6d714a78580.pdf",
       "reportPeriodEnd": "10/04/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
@@ -1810,6 +1942,23 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-02000501-e05ddb9c-45",
+      "candidateId": "trs-ted-lauzen",
+      "candidateName": "Ted Lauzen",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 1200.0,
+      "date": "09/17/2026",
+      "organization": "LawPac of Delaware",
+      "account": "02000501",
+      "activity": "Direct PAC donation",
+      "payee": "Lauzen for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_501_1273_68efea58-26f2-4ff5-9518-fb9ca4a8373b.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-02000501-e05ddb9c-46",
       "candidateId": "rd17-melissa-minor-brown",
       "candidateName": "Melissa Minor Brown",
@@ -1963,6 +2112,40 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-02000501-e05ddb9c-54",
+      "candidateId": "sd9-jack-walsh",
+      "candidateName": "Jack Walsh",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/17/2026",
+      "organization": "LawPac of Delaware",
+      "account": "02000501",
+      "activity": "Direct PAC donation",
+      "payee": "Walsh for the 9th",
+      "sourceFile": "CampaignFinanceReport_Prelim_501_1273_68efea58-26f2-4ff5-9518-fb9ca4a8373b.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02000501-e05ddb9c-55",
+      "candidateId": "sd9-jack-walsh",
+      "candidateName": "Jack Walsh",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/17/2026",
+      "organization": "LawPac of Delaware",
+      "account": "02000501",
+      "activity": "Direct PAC donation",
+      "payee": "Walsh for the 9th",
+      "sourceFile": "CampaignFinanceReport_Prelim_501_1273_68efea58-26f2-4ff5-9518-fb9ca4a8373b.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-02000501-e05ddb9c-6",
       "candidateId": "sd19-brian-g-pettyjohn",
       "candidateName": "Brian G. Pettyjohn",
@@ -2082,6 +2265,23 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-02000503-6f337a27-6",
+      "candidateId": "sd15-emily-a-thompson",
+      "candidateName": "Emily A. Thompson",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "08/27/2026",
+      "organization": "ABC Merit Shop PAC",
+      "account": "02000503",
+      "activity": "Direct PAC donation",
+      "payee": "Thompson For Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_503_1272_130e453d-8266-4aa2-a476-5c7dcbe40696.pdf",
+      "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-02000505-437beb6c-10",
       "candidateId": "sd7-spiros-mantzavinos",
       "candidateName": "Spiros Mantzavinos",
@@ -2094,6 +2294,23 @@
       "account": "02000505",
       "activity": "Direct PAC donation",
       "payee": "Spiros Mantzavinos for the 7th",
+      "sourceFile": "CampaignFinanceReport_Prelim_505_1272_d976c1c0-5a89-4340-afff-c0522efc9adc.pdf",
+      "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02000505-437beb6c-11",
+      "candidateId": "sd9-jack-walsh",
+      "candidateName": "Jack Walsh",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 200.0,
+      "date": "08/24/2026",
+      "organization": "NCC Chamber of Commerce PAC",
+      "account": "02000505",
+      "activity": "Direct PAC donation",
+      "payee": "Walsh for the 9th",
       "sourceFile": "CampaignFinanceReport_Prelim_505_1272_d976c1c0-5a89-4340-afff-c0522efc9adc.pdf",
       "reportPeriodEnd": "09/07/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
@@ -2162,6 +2379,23 @@
       "account": "02000505",
       "activity": "Direct PAC donation",
       "payee": "Krista Griffith For Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_505_1272_d976c1c0-5a89-4340-afff-c0522efc9adc.pdf",
+      "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02000505-437beb6c-9",
+      "candidateId": "trs-ted-lauzen",
+      "candidateName": "Ted Lauzen",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 300.0,
+      "date": "08/24/2026",
+      "organization": "NCC Chamber of Commerce PAC",
+      "account": "02000505",
+      "activity": "Direct PAC donation",
+      "payee": "Lauzen for Delaware",
       "sourceFile": "CampaignFinanceReport_Prelim_505_1272_d976c1c0-5a89-4340-afff-c0522efc9adc.pdf",
       "reportPeriodEnd": "09/07/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
@@ -2388,6 +2622,23 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-02000556-cd8251d3-15",
+      "candidateId": "sd9-jack-walsh",
+      "candidateName": "Jack Walsh",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/02/2026",
+      "organization": "Delaware Multi-Housing PAC (MHS-PAC)",
+      "account": "02000556",
+      "activity": "Direct PAC donation",
+      "payee": "Walsh for the 9th",
+      "sourceFile": "CampaignFinanceReport_Prelim_556_1272_6113709f-f81b-4431-b556-266a662f904c.pdf",
+      "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-02000556-cd8251d3-2",
       "candidateId": "rd36-bryan-william-shupe",
       "candidateName": "Bryan William Shupe",
@@ -2536,6 +2787,23 @@
       "account": "02000589",
       "activity": "Direct PAC donation",
       "payee": "Mike Smith for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_589_1273_237bdc2b-2108-43d1-805b-4af3a204326d.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02000589-1819ee74-14",
+      "candidateId": "sd15-emily-a-thompson",
+      "candidateName": "Emily A. Thompson",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/15/2026",
+      "organization": "Correctional Officer's Assn. Of Delaware P.A.C.",
+      "account": "02000589",
+      "activity": "Direct PAC donation",
+      "payee": "Thompson For Delaware",
       "sourceFile": "CampaignFinanceReport_Prelim_589_1273_237bdc2b-2108-43d1-805b-4af3a204326d.pdf",
       "reportPeriodEnd": "10/04/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
@@ -2711,6 +2979,23 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-02000619-461a5de1-2",
+      "candidateId": "sd9-jack-walsh",
+      "candidateName": "Jack Walsh",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/14/2026",
+      "organization": "Asbestos Workers Local 42 Political Action Fund",
+      "account": "02000619",
+      "activity": "Direct PAC donation",
+      "payee": "Walsh for the 9th",
+      "sourceFile": "CampaignFinanceReport_Prelim_619_1273_e91b94ab-b775-4f52-be9c-9434b4e5495f.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-02001289-671234f1-0",
       "candidateId": "rd3-branden-fletcher-dominguez",
       "candidateName": "Branden Fletcher-Dominguez",
@@ -2830,6 +3115,40 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-02001289-671234f1-7",
+      "candidateId": "trs-ted-lauzen",
+      "candidateName": "Ted Lauzen",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 300.0,
+      "date": "09/17/2026",
+      "organization": "Delaware Stonewall PAC",
+      "account": "02001289",
+      "activity": "Direct PAC donation",
+      "payee": "Lauzen for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_1289_1273_1cea7b60-2a3e-48a8-aca4-f7c454838b14.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001289-671234f1-9",
+      "candidateId": "sd9-jack-walsh",
+      "candidateName": "Jack Walsh",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 300.0,
+      "date": "09/18/2026",
+      "organization": "Delaware Stonewall PAC",
+      "account": "02001289",
+      "activity": "Direct PAC donation",
+      "payee": "Walsh for the 9th",
+      "sourceFile": "CampaignFinanceReport_Prelim_1289_1273_1cea7b60-2a3e-48a8-aca4-f7c454838b14.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-02001437-bb305745-0",
       "candidateId": "rd11-jeffrey-n-spiegelman",
       "candidateName": "Jeffrey N. Spiegelman",
@@ -2860,6 +3179,278 @@
       "activity": "Direct PAC donation",
       "payee": "Friends of Morgan Hudson",
       "sourceFile": "CampaignFinanceReport_Prelim_1437_1273_1488fccd-1a63-47eb-89a4-fad6e3f81951.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-0",
+      "candidateId": "rd9-ayanna-khan-flowers",
+      "candidateName": "Ayanna Khan-Flowers",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "Ayanna Khan-Flowers",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-1",
+      "candidateId": "rd23-dave-redlawsk",
+      "candidateName": "Dave Redlawsk",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "Committee to Elect David Redlawsk",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-10",
+      "candidateId": "rd12-krista-griffith",
+      "candidateName": "Krista Griffith",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "Krista Griffith For Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-11",
+      "candidateId": "trs-ted-lauzen",
+      "candidateName": "Ted Lauzen",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "Lauzen for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-12",
+      "candidateId": "sd7-spiros-mantzavinos",
+      "candidateName": "Spiros Mantzavinos",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "Spiros Mantzavinos for the 7th",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-13",
+      "candidateId": "ncc-rod-david-tackett",
+      "candidateName": "David Tackett",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 300.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "The Committee to Elect David Tackett 312 E. Silver Fox Rd, Newark, Delaware,",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-14",
+      "candidateId": "aud-lydia-york",
+      "candidateName": "Lydia York",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "York for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-2",
+      "candidateId": "sd1-dan-cruce",
+      "candidateName": "Dan Cruce",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "Dan Cruce for State Senate",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-4",
+      "candidateId": "ag-kathy-jennings",
+      "candidateName": "Kathy Jennings",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 1200.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Kathy Jennings",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-5",
+      "candidateId": "rd10-melanie-ross-levin",
+      "candidateName": "Melanie Ross Levin",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Melanie Ross Levin",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-6",
+      "candidateId": "sd12-nicole-poore",
+      "candidateName": "Nicole Poore",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Nicole Poore",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-7",
+      "candidateId": "rd1-nnamdi-o-chukwuocha",
+      "candidateName": "Nnamdi O. Chukwuocha",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Nnamdi Chukwuocha - State P.O. Box 9350, Wilmington, Delaware,",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-8",
+      "candidateId": "sd14-kyra-l-hoffner",
+      "candidateName": "Kyra L. Hoffner",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "Friends to Elect Kyra Hoffner",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02001610-26aaa980-9",
+      "candidateId": "rd19-kim-williams",
+      "candidateName": "Kim Williams",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/25/2026",
+      "organization": "Young Conaway Stargatt & Taylor, LLP Political Action Committee, Inc",
+      "account": "02001610",
+      "activity": "Direct PAC donation",
+      "payee": "Kim Williams for State Representative 23 Weer Circle, Wilmington, Delaware,",
+      "sourceFile": "CampaignFinanceReport_Prelim_1610_1273_00c49557-789e-44fc-b081-efcf8c3aff50.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02002704-9d5dee6d-1",
+      "candidateId": "trs-ted-lauzen",
+      "candidateName": "Ted Lauzen",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 1200.0,
+      "date": "09/29/2026",
+      "organization": "Delaware Asian American Business Association Political Action Committee",
+      "account": "02002704",
+      "activity": "Direct PAC donation",
+      "payee": "Lauzen for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_2704_1273_9de233e4-1728-46ea-a7f0-19a41192550e.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02002704-9d5dee6d-0",
+      "candidateId": "sd14-kyra-l-hoffner",
+      "candidateName": "Kyra L. Hoffner",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/30/2026",
+      "organization": "Delaware Asian American Business Association Political Action Committee",
+      "account": "02002704",
+      "activity": "Direct PAC donation",
+      "payee": "Friends to Elect Kyra Hoffner",
+      "sourceFile": "CampaignFinanceReport_Prelim_2704_1273_9de233e4-1728-46ea-a7f0-19a41192550e.pdf",
       "reportPeriodEnd": "10/04/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
@@ -2927,6 +3518,23 @@
       "account": "02003042",
       "activity": "Direct PAC donation",
       "payee": "Stephen P Ondich For RD-24",
+      "sourceFile": "CampaignFinanceReport_Prelim_335055_1273_ba643ba7-c9ff-4e0c-9d2b-c215ea0344b4.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02003042-49fe3ebc-9",
+      "candidateId": "rd34-lyndon-d-yearick",
+      "candidateName": "Lyndon D. Yearick",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/17/2026",
+      "organization": "BlueGoldPAC",
+      "account": "02003042",
+      "activity": "Direct PAC donation",
+      "payee": "Yearick for Delaware",
       "sourceFile": "CampaignFinanceReport_Prelim_335055_1273_ba643ba7-c9ff-4e0c-9d2b-c215ea0344b4.pdf",
       "reportPeriodEnd": "10/04/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
@@ -3099,6 +3707,91 @@
       "payee": "The Committee to Elect David Tackett 312 E. Silver Fox Rd, Newark, Delaware,",
       "sourceFile": "CampaignFinanceReport_Prelim_557396_1272_79c64469-9a4c-4c3f-969f-2e61c69afa04.pdf",
       "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02005258-40402785-7",
+      "candidateId": "sd14-kyra-l-hoffner",
+      "candidateName": "Kyra L. Hoffner",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/08/2026",
+      "organization": "Delaware Senate Majority Caucus Campaign Committee",
+      "account": "02005258",
+      "activity": "Direct PAC donation",
+      "payee": "Friends to Elect Kyra Hoffner",
+      "sourceFile": "CampaignFinanceReport_Prelim_557983_1273_cbefb66d-3482-4f10-9a7e-c7dbb15a9c12.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02005258-40402785-15",
+      "candidateId": "sd5-shay-frisby",
+      "candidateName": "Shay Frisby",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/01/2026",
+      "organization": "Delaware Senate Majority Caucus Campaign Committee",
+      "account": "02005258",
+      "activity": "Direct PAC donation",
+      "payee": "Shay Frisby for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_557983_1273_cbefb66d-3482-4f10-9a7e-c7dbb15a9c12.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02005258-40402785-16",
+      "candidateId": "sd7-spiros-mantzavinos",
+      "candidateName": "Spiros Mantzavinos",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/01/2026",
+      "organization": "Delaware Senate Majority Caucus Campaign Committee",
+      "account": "02005258",
+      "activity": "Direct PAC donation",
+      "payee": "Spiros Mantzavinos for the 7th",
+      "sourceFile": "CampaignFinanceReport_Prelim_557983_1273_cbefb66d-3482-4f10-9a7e-c7dbb15a9c12.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02005258-40402785-3",
+      "candidateId": "sd1-dan-cruce",
+      "candidateName": "Dan Cruce",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/01/2026",
+      "organization": "Delaware Senate Majority Caucus Campaign Committee",
+      "account": "02005258",
+      "activity": "Direct PAC donation",
+      "payee": "Dan Cruce for State Senate",
+      "sourceFile": "CampaignFinanceReport_Prelim_557983_1273_cbefb66d-3482-4f10-9a7e-c7dbb15a9c12.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02005258-40402785-6",
+      "candidateId": "sd12-nicole-poore",
+      "candidateName": "Nicole Poore",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/01/2026",
+      "organization": "Delaware Senate Majority Caucus Campaign Committee",
+      "account": "02005258",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Nicole Poore",
+      "sourceFile": "CampaignFinanceReport_Prelim_557983_1273_cbefb66d-3482-4f10-9a7e-c7dbb15a9c12.pdf",
+      "reportPeriodEnd": "10/04/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
@@ -3306,6 +3999,125 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-03000625-00a57a6d-7",
+      "candidateId": "rd38-maureen-madden",
+      "candidateName": "Maureen Madden",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "08/17/2026",
+      "organization": "Democratic Legislative Campaign Committee",
+      "account": "03000625",
+      "activity": "Direct PAC donation",
+      "payee": "Madden for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_625_1272_60edc69c-7690-4766-86dd-edd5e974784a.pdf",
+      "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000625-00a57a6d-9",
+      "candidateId": "sd9-jack-walsh",
+      "candidateName": "Jack Walsh",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "08/17/2026",
+      "organization": "Democratic Legislative Campaign Committee",
+      "account": "03000625",
+      "activity": "Direct PAC donation",
+      "payee": "Walsh for the 9th",
+      "sourceFile": "CampaignFinanceReport_Prelim_625_1272_60edc69c-7690-4766-86dd-edd5e974784a.pdf",
+      "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000625-1c920bd9-0",
+      "candidateId": "rd24-ed-osienski",
+      "candidateName": "Ed Osienski",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/10/2026",
+      "organization": "Democratic Legislative Campaign Committee",
+      "account": "03000625",
+      "activity": "Direct PAC donation",
+      "payee": "Campaign to Elect Osienski",
+      "sourceFile": "CampaignFinanceReport_Prelim_625_1273_3c862392-c01c-48c4-b648-aa4a5e40bdfb.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000625-1c920bd9-1",
+      "candidateId": "rd3-branden-fletcher-dominguez",
+      "candidateName": "Branden Fletcher-Dominguez",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/29/2026",
+      "organization": "Democratic Legislative Campaign Committee",
+      "account": "03000625",
+      "activity": "Direct PAC donation",
+      "payee": "Committe to Elect Branden Fletcher",
+      "sourceFile": "CampaignFinanceReport_Prelim_625_1273_3c862392-c01c-48c4-b648-aa4a5e40bdfb.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000625-1c920bd9-2",
+      "candidateId": "sd1-dan-cruce",
+      "candidateName": "Dan Cruce",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/02/2026",
+      "organization": "Democratic Legislative Campaign Committee",
+      "account": "03000625",
+      "activity": "Direct PAC donation",
+      "payee": "Dan Cruce for State Senate",
+      "sourceFile": "CampaignFinanceReport_Prelim_625_1273_3c862392-c01c-48c4-b648-aa4a5e40bdfb.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000625-1c920bd9-3",
+      "candidateId": "rd16-pamela-salaam",
+      "candidateName": "Pamela Salaam",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/02/2026",
+      "organization": "Democratic Legislative Campaign Committee",
+      "account": "03000625",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Pamela Salaam",
+      "sourceFile": "CampaignFinanceReport_Prelim_625_1273_3c862392-c01c-48c4-b648-aa4a5e40bdfb.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000625-1c920bd9-4",
+      "candidateId": "sd7-spiros-mantzavinos",
+      "candidateName": "Spiros Mantzavinos",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/02/2026",
+      "organization": "Democratic Legislative Campaign Committee",
+      "account": "03000625",
+      "activity": "Direct PAC donation",
+      "payee": "Spiros Mantzavinos for the 7th",
+      "sourceFile": "CampaignFinanceReport_Prelim_625_1273_3c862392-c01c-48c4-b648-aa4a5e40bdfb.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-03000626-6e6fa407-0",
       "candidateId": "kc-rod-ramona-bracy",
       "candidateName": "Ramona Bracy",
@@ -3459,7 +4271,58 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
-      "id": "pac-03000654-98247faf-0",
+      "id": "pac-03000647-39befb1c-2",
+      "candidateId": "rd23-dave-redlawsk",
+      "candidateName": "Dave Redlawsk",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/29/2026",
+      "organization": "23rd Representative District Democratic Committee",
+      "account": "03000647",
+      "activity": "Direct PAC donation",
+      "payee": "Committee to Elect David Redlawsk",
+      "sourceFile": "CampaignFinanceReport_Prelim_647_1273_32f92ba5-92ae-40c0-8ebc-98a68059fb87.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000647-39befb1c-0",
+      "candidateId": "rd22-alex-green",
+      "candidateName": "Alex Green",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 200.0,
+      "date": "09/30/2026",
+      "organization": "23rd Representative District Democratic Committee",
+      "account": "03000647",
+      "activity": "Direct PAC donation",
+      "payee": "Alexander Green for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_647_1273_32f92ba5-92ae-40c0-8ebc-98a68059fb87.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000647-39befb1c-1",
+      "candidateId": "rd3-branden-fletcher-dominguez",
+      "candidateName": "Branden Fletcher-Dominguez",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 400.0,
+      "date": "10/02/2026",
+      "organization": "23rd Representative District Democratic Committee",
+      "account": "03000647",
+      "activity": "Direct PAC donation",
+      "payee": "Committe to Elect Branden Fletcher",
+      "sourceFile": "CampaignFinanceReport_Prelim_647_1273_32f92ba5-92ae-40c0-8ebc-98a68059fb87.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000654-8f3fcf6f-0",
       "candidateId": "kc-rod-ramona-bracy",
       "candidateName": "Ramona Bracy",
       "targetCandidateId": null,
@@ -3471,7 +4334,143 @@
       "account": "03000654",
       "activity": "Direct PAC donation",
       "payee": "Committee for Ramona Bracy Election 714 W Birdiane, Magnolia, Delaware,",
-      "sourceFile": "CampaignFinanceReport_Prelim_654_1273_57a63438-56f4-444b-aba7-6d71a95b569f.pdf",
+      "sourceFile": "CampaignFinance_8f1ffa63-31b4-449d-93e3-45e164ad76c2.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000655-ab107f14-0",
+      "candidateId": "us-sen-chris-coons",
+      "candidateName": "Chris Coons",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 110.0,
+      "date": "09/29/2026",
+      "organization": "31st Democratic District Committee",
+      "account": "03000655",
+      "activity": "Direct PAC donation",
+      "payee": "Chris Coons for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_655_1273_45301e37-2593-40e6-8e22-e41962185674.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000655-ab107f14-1",
+      "candidateId": "kc-rod-ramona-bracy",
+      "candidateName": "Ramona Bracy",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 110.0,
+      "date": "09/29/2026",
+      "organization": "31st Democratic District Committee",
+      "account": "03000655",
+      "activity": "Direct PAC donation",
+      "payee": "Committee for Ramona Bracy Election 714 W Birdiane, Magnolia, Delaware,",
+      "sourceFile": "CampaignFinanceReport_Prelim_655_1273_45301e37-2593-40e6-8e22-e41962185674.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000655-ab107f14-2",
+      "candidateId": "ag-kathy-jennings",
+      "candidateName": "Kathy Jennings",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 110.0,
+      "date": "09/29/2026",
+      "organization": "31st Democratic District Committee",
+      "account": "03000655",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Kathy Jennings",
+      "sourceFile": "CampaignFinanceReport_Prelim_655_1273_45301e37-2593-40e6-8e22-e41962185674.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000655-ab107f14-3",
+      "candidateId": "rd31-sean-m-lynn",
+      "candidateName": "Sean M. Lynn",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 110.0,
+      "date": "09/29/2026",
+      "organization": "31st Democratic District Committee",
+      "account": "03000655",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Sean Lynn",
+      "sourceFile": "CampaignFinanceReport_Prelim_655_1273_45301e37-2593-40e6-8e22-e41962185674.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000655-ab107f14-4",
+      "candidateId": "kc-al-terry-l-pepper",
+      "candidateName": "Terry L. Pepper",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 110.0,
+      "date": "09/29/2026",
+      "organization": "31st Democratic District Committee",
+      "account": "03000655",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Terry Pepper for Levy Court 104 Captain Davis Drive, Camden,",
+      "sourceFile": "CampaignFinanceReport_Prelim_655_1273_45301e37-2593-40e6-8e22-e41962185674.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000655-ab107f14-5",
+      "candidateId": "trs-ted-lauzen",
+      "candidateName": "Ted Lauzen",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 110.0,
+      "date": "09/29/2026",
+      "organization": "31st Democratic District Committee",
+      "account": "03000655",
+      "activity": "Direct PAC donation",
+      "payee": "Lauzen for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_655_1273_45301e37-2593-40e6-8e22-e41962185674.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000655-ab107f14-7",
+      "candidateId": "aud-lydia-york",
+      "candidateName": "Lydia York",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 110.0,
+      "date": "09/29/2026",
+      "organization": "31st Democratic District Committee",
+      "account": "03000655",
+      "activity": "Direct PAC donation",
+      "payee": "York for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_655_1273_45301e37-2593-40e6-8e22-e41962185674.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000660-ea0532d9-2",
+      "candidateId": "sd20-harry-s-gold",
+      "candidateName": "Harry S. Gold",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/09/2026",
+      "organization": "38th District Democratic Committee",
+      "account": "03000660",
+      "activity": "Direct PAC donation",
+      "payee": "HarryGold4Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_660_1273_9952179f-bc03-4d93-bbb1-f1b0abd3534c.pdf",
       "reportPeriodEnd": "10/04/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
@@ -3612,6 +4611,125 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-03000666-691e311b-7",
+      "candidateId": "rd38-maureen-madden",
+      "candidateName": "Maureen Madden",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "08/17/2026",
+      "organization": "Democrats 2024",
+      "account": "03000666",
+      "activity": "Direct PAC donation",
+      "payee": "Madden for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_666_1272_5275a0c2-5200-4e4c-a9d4-346677e965f7.pdf",
+      "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000666-691e311b-9",
+      "candidateId": "sd9-jack-walsh",
+      "candidateName": "Jack Walsh",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "08/17/2026",
+      "organization": "Democrats 2024",
+      "account": "03000666",
+      "activity": "Direct PAC donation",
+      "payee": "Walsh for the 9th",
+      "sourceFile": "CampaignFinanceReport_Prelim_666_1272_5275a0c2-5200-4e4c-a9d4-346677e965f7.pdf",
+      "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000666-eb4fde98-0",
+      "candidateId": "rd24-ed-osienski",
+      "candidateName": "Ed Osienski",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/10/2026",
+      "organization": "Democrats 2024",
+      "account": "03000666",
+      "activity": "Direct PAC donation",
+      "payee": "Campaign to Elect Osienski",
+      "sourceFile": "CampaignFinanceReport_Prelim_666_1273_cf513899-6875-45e8-ac03-83a117d1e829.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000666-eb4fde98-1",
+      "candidateId": "rd3-branden-fletcher-dominguez",
+      "candidateName": "Branden Fletcher-Dominguez",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/29/2026",
+      "organization": "Democrats 2024",
+      "account": "03000666",
+      "activity": "Direct PAC donation",
+      "payee": "Committe to Elect Branden Fletcher",
+      "sourceFile": "CampaignFinanceReport_Prelim_666_1273_cf513899-6875-45e8-ac03-83a117d1e829.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000666-eb4fde98-2",
+      "candidateId": "sd1-dan-cruce",
+      "candidateName": "Dan Cruce",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/02/2026",
+      "organization": "Democrats 2024",
+      "account": "03000666",
+      "activity": "Direct PAC donation",
+      "payee": "Dan Cruce for State Senate",
+      "sourceFile": "CampaignFinanceReport_Prelim_666_1273_cf513899-6875-45e8-ac03-83a117d1e829.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000666-eb4fde98-3",
+      "candidateId": "rd16-pamela-salaam",
+      "candidateName": "Pamela Salaam",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/02/2026",
+      "organization": "Democrats 2024",
+      "account": "03000666",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Pamela Salaam",
+      "sourceFile": "CampaignFinanceReport_Prelim_666_1273_cf513899-6875-45e8-ac03-83a117d1e829.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000666-eb4fde98-4",
+      "candidateId": "sd7-spiros-mantzavinos",
+      "candidateName": "Spiros Mantzavinos",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/02/2026",
+      "organization": "Democrats 2024",
+      "account": "03000666",
+      "activity": "Direct PAC donation",
+      "payee": "Spiros Mantzavinos for the 7th",
+      "sourceFile": "CampaignFinanceReport_Prelim_666_1273_cf513899-6875-45e8-ac03-83a117d1e829.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-03000670-14d73b52-0",
       "candidateId": "rd22-alex-green",
       "candidateName": "Alex Green",
@@ -3692,6 +4810,23 @@
       "account": "03000670",
       "activity": "Direct PAC donation",
       "payee": "Friends of Rachel Krantz",
+      "sourceFile": "CampaignFinanceReport_Prelim_670_1273_95dbcce7-668a-4675-a0a9-61bf6ca8b985.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000670-14d73b52-6",
+      "candidateId": "rd11-tori-parker",
+      "candidateName": "Tori Parker",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 3000.0,
+      "date": "09/29/2026",
+      "organization": "New Castle County Democratic Committee",
+      "account": "03000670",
+      "activity": "Direct PAC donation",
+      "payee": "Parker for Delaware",
       "sourceFile": "CampaignFinanceReport_Prelim_670_1273_95dbcce7-668a-4675-a0a9-61bf6ca8b985.pdf",
       "reportPeriodEnd": "10/04/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
@@ -3850,6 +4985,23 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-03000709-d7a78730-10",
+      "candidateId": "rd38-maureen-madden",
+      "candidateName": "Maureen Madden",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "08/17/2026",
+      "organization": "House Democrats",
+      "account": "03000709",
+      "activity": "Direct PAC donation",
+      "payee": "Madden for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_709_1272_288a7c04-337c-460a-a60a-573573ff7520.pdf",
+      "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-03000709-d7a78730-2",
       "candidateId": "rd14-claire-snyder-hall",
       "candidateName": "Claire Snyder-Hall",
@@ -3918,6 +5070,57 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-03000709-671e8b89-1",
+      "candidateId": "rd24-ed-osienski",
+      "candidateName": "Ed Osienski",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/10/2026",
+      "organization": "House Democrats",
+      "account": "03000709",
+      "activity": "Direct PAC donation",
+      "payee": "Campaign to Elect Osienski",
+      "sourceFile": "CampaignFinanceReport_Prelim_709_1273_ccbcd760-1dcc-46d5-bcb4-c8fe2e99f675.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000709-671e8b89-2",
+      "candidateId": "rd3-branden-fletcher-dominguez",
+      "candidateName": "Branden Fletcher-Dominguez",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "09/29/2026",
+      "organization": "House Democrats",
+      "account": "03000709",
+      "activity": "Direct PAC donation",
+      "payee": "Committe to Elect Branden Fletcher",
+      "sourceFile": "CampaignFinanceReport_Prelim_709_1273_ccbcd760-1dcc-46d5-bcb4-c8fe2e99f675.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000709-671e8b89-6",
+      "candidateId": "rd16-pamela-salaam",
+      "candidateName": "Pamela Salaam",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/02/2026",
+      "organization": "House Democrats",
+      "account": "03000709",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Pamela Salaam",
+      "sourceFile": "CampaignFinanceReport_Prelim_709_1273_ccbcd760-1dcc-46d5-bcb4-c8fe2e99f675.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-03000710-cbb09b4e-0",
       "candidateId": "aud-april-callaway",
       "candidateName": "April Callaway",
@@ -3965,6 +5168,23 @@
       "activity": "Direct PAC donation",
       "payee": "Friends of David Carter",
       "sourceFile": "CampaignFinanceReport_Prelim_2367_1273_13b79639-d27b-4d04-a29d-27d187b87ac5.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03002691-aa52d284-0",
+      "candidateId": "kc-rod-ramona-bracy",
+      "candidateName": "Ramona Bracy",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 100.0,
+      "date": "09/20/2026",
+      "organization": "11th Representative District Democratic Committee",
+      "account": "03002691",
+      "activity": "Direct PAC donation",
+      "payee": "Committee for Ramona Bracy Election 714 W Birdiane, Magnolia, Delaware,",
+      "sourceFile": "CampaignFinanceReport_Prelim_2691_1273_d1f6b73f-9f7e-4daf-affb-e0915ae3e4f3.pdf",
       "reportPeriodEnd": "10/04/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
@@ -4945,6 +6165,14 @@
       "reason": "superseded by amended report"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_654_1273_57a63438-56f4-444b-aba7-6d71a95b569f.pdf",
+      "reason": "superseded by amended report"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_694108_1273_60fa6c86-0acf-4132-854e-a5393fe35bf6.pdf",
+      "reason": "superseded by amended report"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_425033_315_c3ca6cbe-528a-4f0c-adfb-df29b4d3a292 (1).pdf",
       "reason": "duplicate report download"
     },
@@ -5061,6 +6289,10 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_341925_1273_60e14a93-4c7f-44da-822d-77b98ae4bb35.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_342828_1272_24810e9c-a765-45b3-b2a2-1c8d0fcd3386.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
@@ -5102,6 +6334,10 @@
     },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_409570_1272_d30ef906-e8cd-473f-80b2-a9bc4db9e3d3.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_409570_1273_6c03c122-aeb1-4bbe-88b7-6afbea1bf3a2.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
@@ -5154,6 +6390,10 @@
     },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_475_1273_b5f63aa8-0672-48fe-b404-093e9655bf03.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_476595_1273_9c7f028c-b792-48e2-ae91-fc7afd68b1d8.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
@@ -5221,6 +6461,10 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_500910_1273_2b200f5d-527c-4cf7-b3d6-8bea7296caa7.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_501775_1273_7edcff4b-5341-43ec-89b9-ec28cd8a62dd.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
@@ -5241,6 +6485,10 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_521089_1273_659f03da-41d5-4d13-ab25-d70169e7bad5.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_521_1272_877a19e9-92f7-455f-ad5f-be45ff0b56f1.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
@@ -5258,6 +6506,10 @@
     },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_538967_1272_f303e5d5-64f3-4f15-89ee-cc1a25b33451.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_538967_1273_174d5c46-45a5-409a-babf-c2d19cc886a3.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
@@ -5293,6 +6545,14 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_580_1273_70d035fc-aabc-4c4c-a0ba-233b9512a183.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_582_1273_aaa95686-33f3-40d3-a64a-a373217b554e.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_589_1272_857dba51-a1e9-4464-8697-cfc591ff9f8c.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
@@ -5301,7 +6561,15 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_611_1273_f3166784-3613-43f9-81e6-425ef80b3606.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_616510_1273_72513334-3ec9-4b0f-843a-eefdd0165d6d.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_623_1273_177cc49a-3b5d-403c-aae2-80febcb9b9b2.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
@@ -5325,6 +6593,10 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_641675_1273_b991cc6a-c2a7-419f-bc3c-9b19aac47e9a.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_641780_1272_ce210f02-1b55-4abb-bd50-cf1ca6ff09c5.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
@@ -5338,6 +6610,10 @@
     },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_644195_1273_0a59fa44-87a7-42dc-b39b-9037a28d0655.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_644799_1273_c52d60e2-2570-4b2e-928b-889b77600385.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
@@ -5357,7 +6633,15 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_658_1273_bf8f08ab-fbae-43f0-b1e3-5c10b219d36c.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_661_1273_d4190515-8609-45f9-8666-1f4b3b3ffd85.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_672_1273_651ccac3-4078-4246-81e1-1e9cf1a94c33.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
@@ -5366,6 +6650,10 @@
     },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_683_1273_7bcbf933-132c-49d0-bdb7-05f710aebdcc.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_684_1273_69f11b04-be90-495b-a76e-04c0a1eaed6f.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
