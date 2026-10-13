@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09",
+  "generated": "2026-10-13",
   "methodology": "General-election third-party spending and PAC direct donations are reported separately from candidate fundraising.",
   "groups": [
     {
@@ -15,6 +15,14 @@
       "organization": "14th District Democratic Committee",
       "entityType": "PAC",
       "reportedExpenditures": 8695.07,
+      "candidateAttributed": 0,
+      "reportCount": 1
+    },
+    {
+      "account": "03005622",
+      "organization": "15th-29th Democratic Club",
+      "entityType": "PAC",
+      "reportedExpenditures": 15.0,
       "candidateAttributed": 0,
       "reportCount": 1
     },
@@ -96,6 +104,14 @@
       "entityType": "PAC",
       "reportedExpenditures": 600.0,
       "candidateAttributed": 600.0,
+      "reportCount": 1
+    },
+    {
+      "account": "03000637",
+      "organization": "7th Representative District Democratic Committee",
+      "entityType": "PAC",
+      "reportedExpenditures": 169.9,
+      "candidateAttributed": 0,
       "reportCount": 1
     },
     {
@@ -190,9 +206,9 @@
       "account": "02006722",
       "organization": "Coalition for Government Transparency and Integrity, LLC",
       "entityType": "PAC",
-      "reportedExpenditures": 10450.28,
+      "reportedExpenditures": 20900.56,
       "candidateAttributed": 0,
-      "reportCount": 1
+      "reportCount": 2
     },
     {
       "account": "02000589",
@@ -256,6 +272,14 @@
       "entityType": "PAC",
       "reportedExpenditures": 3905.0,
       "candidateAttributed": 2000.0,
+      "reportCount": 1
+    },
+    {
+      "account": "02006061",
+      "organization": "Delaware Healthcare Association Political Action Committee (DHAPAC)",
+      "entityType": "PAC",
+      "reportedExpenditures": 4500.0,
+      "candidateAttributed": 450.0,
       "reportCount": 1
     },
     {
@@ -335,7 +359,7 @@
       "organization": "Democratic Legislative Campaign Committee",
       "entityType": "PAC",
       "reportedExpenditures": 6000.0,
-      "candidateAttributed": 3600.0,
+      "candidateAttributed": 4200.0,
       "reportCount": 1
     },
     {
@@ -343,7 +367,7 @@
       "organization": "Democrats 2024",
       "entityType": "PAC",
       "reportedExpenditures": 6000.0,
-      "candidateAttributed": 3600.0,
+      "candidateAttributed": 4200.0,
       "reportCount": 1
     },
     {
@@ -415,7 +439,7 @@
       "organization": "House Democrats",
       "entityType": "PAC",
       "reportedExpenditures": 66262.42,
-      "candidateAttributed": 2400.0,
+      "candidateAttributed": 3000.0,
       "reportCount": 1
     },
     {
@@ -487,7 +511,7 @@
       "organization": "New Castle County Democratic Committee",
       "entityType": "PAC",
       "reportedExpenditures": 23831.61,
-      "candidateAttributed": 16900.0,
+      "candidateAttributed": 19900.0,
       "reportCount": 1
     },
     {
@@ -619,6 +643,14 @@
       "reportCount": 2
     },
     {
+      "account": "02004248",
+      "organization": "Small Beverage License Council, Inc.",
+      "entityType": "PAC",
+      "reportedExpenditures": 3250.0,
+      "candidateAttributed": 0,
+      "reportCount": 1
+    },
+    {
       "account": "02005702",
       "organization": "Sussex County Association of REALTORS Political Action Committee",
       "entityType": "PAC",
@@ -632,6 +664,14 @@
       "entityType": "PAC",
       "reportedExpenditures": 6079.57,
       "candidateAttributed": 0,
+      "reportCount": 1
+    },
+    {
+      "account": "03000634",
+      "organization": "Sussex County Republican Committee",
+      "entityType": "PAC",
+      "reportedExpenditures": 7344.14,
+      "candidateAttributed": 5231.2,
       "reportCount": 1
     },
     {
@@ -702,9 +742,33 @@
       "account": "04006666",
       "organization": "DE LEAD",
       "entityType": "Third-party advertiser",
-      "reportedExpenditures": 13000.0,
-      "candidateAttributed": 13000.0,
-      "reportCount": 2
+      "reportedExpenditures": 29637.23,
+      "candidateAttributed": 29637.23,
+      "reportCount": 4
+    },
+    {
+      "account": "04003188",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "entityType": "Third-party advertiser",
+      "reportedExpenditures": 195355.79,
+      "candidateAttributed": 195355.79,
+      "reportCount": 1
+    },
+    {
+      "account": "04006720",
+      "organization": "House Democrats Third-Party Advertiser",
+      "entityType": "Third-party advertiser",
+      "reportedExpenditures": 42000.0,
+      "candidateAttributed": 42000.0,
+      "reportCount": 1
+    },
+    {
+      "account": "04006739",
+      "organization": "Sussex County Association of REALTORS Political Action Committee Third Party Advertising Committee",
+      "entityType": "Third-party advertiser",
+      "reportedExpenditures": 19694.0,
+      "candidateAttributed": 19694.0,
+      "reportCount": 1
     }
   ],
   "allocations": [
@@ -3055,6 +3119,23 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-02006061-726c91a9-1",
+      "candidateId": "rd1-nnamdi-o-chukwuocha",
+      "candidateName": "Nnamdi O. Chukwuocha",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 450.0,
+      "date": "09/14/2026",
+      "organization": "Delaware Healthcare Association Political Action Committee (DHAPAC)",
+      "account": "02006061",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Nnamdi Chukwuocha - State P.O. Box 9350, Wilmington, Delaware,",
+      "sourceFile": "CampaignFinance_c8f5a6de-e2ef-4fce-b0ed-a75ac85aac85.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-02006403-49ce7840-0",
       "candidateId": "rd24-ed-osienski",
       "candidateName": "Ed Osienski",
@@ -3102,6 +3183,23 @@
       "activity": "Direct PAC donation",
       "payee": "Friends of Nnamdi Chukwuocha - State P.O. Box 9350, Wilmington, Delaware,",
       "sourceFile": "CampaignFinanceReport_Prelim_695311_1272_36583a61-f559-4e68-9d0b-287d152ca576.pdf",
+      "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000625-00a57a6d-0",
+      "candidateId": "rd36-andrew-andy-gorlich",
+      "candidateName": "Andrew \"Andy\" Gorlich",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "08/17/2026",
+      "organization": "Democratic Legislative Campaign Committee",
+      "account": "03000625",
+      "activity": "Direct PAC donation",
+      "payee": "Friends for Andy Gorlich",
+      "sourceFile": "CampaignFinanceReport_Prelim_625_1272_60edc69c-7690-4766-86dd-edd5e974784a.pdf",
       "reportPeriodEnd": "09/07/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
@@ -3293,6 +3391,57 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-03000634-be3118ef-6",
+      "candidateId": "rd4-dan-zitofsky",
+      "candidateName": "Dan Zitofsky",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 3000.0,
+      "date": "09/15/2026",
+      "organization": "Sussex County Republican Committee",
+      "account": "03000634",
+      "activity": "Direct PAC donation",
+      "payee": "Friends For Dan Zitofsky",
+      "sourceFile": "CampaignFinanceReport_Prelim_634_1273_584e7791-ba6c-49b5-bff9-6addb0c565a0.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000634-be3118ef-7",
+      "candidateId": "rd38-carlie-carey",
+      "candidateName": "Carlie Carey",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 2000.0,
+      "date": "09/30/2026",
+      "organization": "Sussex County Republican Committee",
+      "account": "03000634",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Carlie Carey",
+      "sourceFile": "CampaignFinanceReport_Prelim_634_1273_584e7791-ba6c-49b5-bff9-6addb0c565a0.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000634-be3118ef-8",
+      "candidateId": "sc4-douglas-b-hudson",
+      "candidateName": "Douglas B. Hudson",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 231.2,
+      "date": "10/01/2026",
+      "organization": "Sussex County Republican Committee",
+      "account": "03000634",
+      "activity": "Direct PAC donation",
+      "payee": "Friends To Elect Doug Hudson",
+      "sourceFile": "CampaignFinanceReport_Prelim_634_1273_584e7791-ba6c-49b5-bff9-6addb0c565a0.pdf",
+      "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-03000645-60142b55-0",
       "candidateId": "rd20-alonna-berry",
       "candidateName": "Alonna Berry",
@@ -3341,6 +3490,23 @@
       "payee": "41st Representative District",
       "sourceFile": "CampaignFinanceReport_Prelim_662_1273_09f3f356-3627-4f16-962a-d0b7f27307a2.pdf",
       "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000666-691e311b-0",
+      "candidateId": "rd36-andrew-andy-gorlich",
+      "candidateName": "Andrew \"Andy\" Gorlich",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "08/17/2026",
+      "organization": "Democrats 2024",
+      "account": "03000666",
+      "activity": "Direct PAC donation",
+      "payee": "Friends for Andy Gorlich",
+      "sourceFile": "CampaignFinanceReport_Prelim_666_1272_5275a0c2-5200-4e4c-a9d4-346677e965f7.pdf",
+      "reportPeriodEnd": "09/07/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
@@ -3443,6 +3609,23 @@
       "payee": "Lindner4Delaware",
       "sourceFile": "CampaignFinanceReport_Prelim_666_1272_5275a0c2-5200-4e4c-a9d4-346677e965f7.pdf",
       "reportPeriodEnd": "09/07/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000670-14d73b52-0",
+      "candidateId": "rd22-alex-green",
+      "candidateName": "Alex Green",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 3000.0,
+      "date": "09/29/2026",
+      "organization": "New Castle County Democratic Committee",
+      "account": "03000670",
+      "activity": "Direct PAC donation",
+      "payee": "Alexander Green for Delaware",
+      "sourceFile": "CampaignFinanceReport_Prelim_670_1273_95dbcce7-668a-4675-a0a9-61bf6ca8b985.pdf",
+      "reportPeriodEnd": "10/04/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
@@ -3647,6 +3830,23 @@
       "payee": "Committee to Elect Bryan Shupe",
       "sourceFile": "CampaignFinanceReport_Prelim_693_1273_0e40dd9e-1507-4430-a0ab-df6f5b7582df.pdf",
       "reportPeriodEnd": "10/04/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-03000709-d7a78730-1",
+      "candidateId": "rd36-andrew-andy-gorlich",
+      "candidateName": "Andrew \"Andy\" Gorlich",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "08/17/2026",
+      "organization": "House Democrats",
+      "account": "03000709",
+      "activity": "Direct PAC donation",
+      "payee": "Friends for Andy Gorlich",
+      "sourceFile": "CampaignFinanceReport_Prelim_709_1272_288a7c04-337c-460a-a60a-573573ff7520.pdf",
+      "reportPeriodEnd": "09/07/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
@@ -3973,6 +4173,278 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "tpa-04003188-0e3f9148-0-0-rd8-sherae-a-rae-moore",
+      "candidateId": "rd8-sherae-a-rae-moore",
+      "candidateName": "Sherae'a \"Rae\" Moore",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 7500.0,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-0-1-rd10-melanie-ross-levin",
+      "candidateId": "rd10-melanie-ross-levin",
+      "candidateName": "Melanie Ross Levin",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 7500.0,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-0-2-rd14-claire-snyder-hall",
+      "candidateId": "rd14-claire-snyder-hall",
+      "candidateName": "Claire Snyder-Hall",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 8500.0,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-0-3-rd20-alonna-berry",
+      "candidateId": "rd20-alonna-berry",
+      "candidateName": "Alonna Berry",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 8500.0,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-0-4-rd27-eric-morrison",
+      "candidateId": "rd27-eric-morrison",
+      "candidateName": "Eric Morrison",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 8500.0,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-0-5-sd7-spiros-mantzavinos",
+      "candidateId": "sd7-spiros-mantzavinos",
+      "candidateName": "Spiros Mantzavinos",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 10000.0,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-0-6-sd8-mara-gorman",
+      "candidateId": "sd8-mara-gorman",
+      "candidateName": "Mara Gorman",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 10000.0,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-0-7-sd12-nicole-poore",
+      "candidateId": "sd12-nicole-poore",
+      "candidateName": "Nicole Poore",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 10000.0,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-0-8-sd14-kyra-l-hoffner",
+      "candidateId": "sd14-kyra-l-hoffner",
+      "candidateName": "Kyra L. Hoffner",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 13000.0,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-1-0-rd4-gregg-lindner",
+      "candidateId": "rd4-gregg-lindner",
+      "candidateName": "Gregg Lindner",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 17064.68,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-1-1-rd14-claire-snyder-hall",
+      "candidateId": "rd14-claire-snyder-hall",
+      "candidateName": "Claire Snyder-Hall",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 15198.2,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-1-2-rd20-alonna-berry",
+      "candidateId": "rd20-alonna-berry",
+      "candidateName": "Alonna Berry",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 15181.96,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-1-3-sd14-kyra-l-hoffner",
+      "candidateId": "sd14-kyra-l-hoffner",
+      "candidateName": "Kyra L. Hoffner",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 20934.52,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-1-4-sd15-nisha-lodhavia",
+      "candidateId": "sd15-nisha-lodhavia",
+      "candidateName": "Nisha Lodhavia",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 27593.96,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04003188-0e3f9148-1-5-rd6-rachel-rae-krantz",
+      "candidateId": "rd6-rachel-rae-krantz",
+      "candidateName": "Rachel \"Rae\" Krantz",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 15882.47,
+      "date": "10/08/2026",
+      "organization": "DSEA Advocacy Fund for Children & Public Education (3rd Party Advertiser)",
+      "account": "04003188",
+      "activity": "Digital advertising, mail and production",
+      "payee": "Threshold Group, Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_361995_315_3edc05a4-6677-4d27-88a6-2dda43342226.pdf",
+      "reportPeriodEnd": "10/09/2026",
+      "note": "Candidate amount printed in the filing's grouped expenditure description."
+    },
+    {
+      "id": "tpa-04006666-914a74ea-0-sd15-nisha-lodhavia",
+      "candidateId": "sd15-nisha-lodhavia",
+      "candidateName": "Nisha Lodhavia",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 7000.0,
+      "date": "09/18/2026",
+      "organization": "DE LEAD",
+      "account": "04006666",
+      "activity": "Digital advertising",
+      "payee": "Threshold Group Inc.",
+      "sourceFile": "CampaignFinanceReport_Prelim_734633_315_5d214690-a58f-4461-b9c6-29baaa09eb3e.pdf",
+      "reportPeriodEnd": "09/18/2026",
+      "note": ""
+    },
+    {
       "id": "tpa-04006666-7e7ace8d-0-rd9-ayanna-khan-flowers",
       "candidateId": "rd9-ayanna-khan-flowers",
       "candidateName": "Ayanna Khan-Flowers",
@@ -4022,10 +4494,476 @@
       "sourceFile": "CampaignFinanceReport_Prelim_734633_315_4413bf21-dce5-479f-aedc-6bdfd55b3eb2.pdf",
       "reportPeriodEnd": "10/02/2026",
       "note": ""
+    },
+    {
+      "id": "tpa-04006666-6668b050-0-rd38-carlie-carey",
+      "candidateId": "rd38-carlie-carey",
+      "candidateName": "Carlie Carey",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 9637.23,
+      "date": "10/12/2026",
+      "organization": "DE LEAD",
+      "account": "04006666",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Majority Strategies LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_734633_315_9ae1c8c0-412b-4a9d-b308-5033aa70401e.pdf",
+      "reportPeriodEnd": "10/12/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-0-rd38-maureen-madden",
+      "candidateId": "rd38-maureen-madden",
+      "candidateName": "Maureen Madden",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1000.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-1-rd36-andrew-andy-gorlich",
+      "candidateId": "rd36-andrew-andy-gorlich",
+      "candidateName": "Andrew \"Andy\" Gorlich",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1000.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-10-rd28-tyeisha-tye-grier",
+      "candidateId": "rd28-tyeisha-tye-grier",
+      "candidateName": "Tyeisha \"Tye\" Grier",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1500.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-11-rd27-eric-morrison",
+      "candidateId": "rd27-eric-morrison",
+      "candidateName": "Eric Morrison",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1500.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-12-rd24-ed-osienski",
+      "candidateId": "rd24-ed-osienski",
+      "candidateName": "Ed Osienski",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1500.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-13-rd23-dave-redlawsk",
+      "candidateId": "rd23-dave-redlawsk",
+      "candidateName": "Dave Redlawsk",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1500.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-14-rd19-kim-williams",
+      "candidateId": "rd19-kim-williams",
+      "candidateName": "Kim Williams",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1500.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-15-rd14-claire-snyder-hall",
+      "candidateId": "rd14-claire-snyder-hall",
+      "candidateName": "Claire Snyder-Hall",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1500.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-16-rd10-melanie-ross-levin",
+      "candidateId": "rd10-melanie-ross-levin",
+      "candidateName": "Melanie Ross Levin",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1500.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-17-rd6-rachel-rae-krantz",
+      "candidateId": "rd6-rachel-rae-krantz",
+      "candidateName": "Rachel \"Rae\" Krantz",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1500.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-18-rd34-annie-norman",
+      "candidateId": "rd34-annie-norman",
+      "candidateName": "Annie Norman",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 3000.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-19-rd22-alex-green",
+      "candidateId": "rd22-alex-green",
+      "candidateName": "Alex Green",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 3000.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-2-rd33-joshua-pennington",
+      "candidateId": "rd33-joshua-pennington",
+      "candidateName": "Joshua Pennington",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1000.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-20-rd4-gregg-lindner",
+      "candidateId": "rd4-gregg-lindner",
+      "candidateName": "Gregg Lindner",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 3000.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-21-rd20-alonna-berry",
+      "candidateId": "rd20-alonna-berry",
+      "candidateName": "Alonna Berry",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 5000.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-22-rd9-ayanna-khan-flowers",
+      "candidateId": "rd9-ayanna-khan-flowers",
+      "candidateName": "Ayanna Khan-Flowers",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 5000.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-3-rd16-pamela-salaam",
+      "candidateId": "rd16-pamela-salaam",
+      "candidateName": "Pamela Salaam",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1000.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-4-rd11-tori-parker",
+      "candidateId": "rd11-tori-parker",
+      "candidateName": "Tori Parker",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1000.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-5-rd7-larry-lambert",
+      "candidateId": "rd7-larry-lambert",
+      "candidateName": "Larry Lambert",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1000.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-6-rd3-branden-fletcher-dominguez",
+      "candidateId": "rd3-branden-fletcher-dominguez",
+      "candidateName": "Branden Fletcher-Dominguez",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1000.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-7-rd1-nnamdi-o-chukwuocha",
+      "candidateId": "rd1-nnamdi-o-chukwuocha",
+      "candidateName": "Nnamdi O. Chukwuocha",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1000.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-8-rd41-ryan-stuckey",
+      "candidateId": "rd41-ryan-stuckey",
+      "candidateName": "Ryan Stuckey",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1500.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-134869bb-9-rd31-sean-m-lynn",
+      "candidateId": "rd31-sean-m-lynn",
+      "candidateName": "Sean M. Lynn",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 1500.0,
+      "date": "10/11/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Digital advertising",
+      "payee": "Foundation Blue , LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_752266_315_7fb5f954-8ca8-43c9-94f3-3995962a8eb2.pdf",
+      "reportPeriodEnd": "10/11/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006739-4eca227c-0-sc4-douglas-b-hudson",
+      "candidateId": "sc4-douglas-b-hudson",
+      "candidateName": "Douglas B. Hudson",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 10064.0,
+      "date": "10/07/2026",
+      "organization": "Sussex County Association of REALTORS Political Action Committee Third Party Advertising Committee",
+      "account": "04006739",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Bridge Impact, LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_757492_315_4d40c730-ac7f-4cd7-8d42-d610da65a523 (1).pdf",
+      "reportPeriodEnd": "10/07/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006739-4eca227c-1-sc5-john-l-rieley",
+      "candidateId": "sc5-john-l-rieley",
+      "candidateName": "John L. Rieley",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 9630.0,
+      "date": "10/07/2026",
+      "organization": "Sussex County Association of REALTORS Political Action Committee Third Party Advertising Committee",
+      "account": "04006739",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Bridge Impact, LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_757492_315_4d40c730-ac7f-4cd7-8d42-d610da65a523 (1).pdf",
+      "reportPeriodEnd": "10/07/2026",
+      "note": ""
     }
   ],
   "reviewIssues": [],
   "excludedReports": [
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_641575_1273_df5c8b44-4332-4f8c-8add-6f8ecdaf1937.pdf",
+      "reason": "superseded by amended report"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_425033_315_c3ca6cbe-528a-4f0c-adfb-df29b4d3a292 (1).pdf",
+      "reason": "duplicate report download"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_734633_315_3110460d-1fc6-4782-b92c-20d3eeb66ccb (1).pdf",
+      "reason": "duplicate report download"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_734633_315_414d50e8-c7c0-4105-ba51-6d5acbb284b0 (1).pdf",
+      "reason": "duplicate report download"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_734633_315_4413bf21-dce5-479f-aedc-6bdfd55b3eb2 (1).pdf",
+      "reason": "duplicate report download"
+    },
+    {
+      "sourceFile": "CampaignFinance_7e8a771a-21c8-482e-8075-4ee339169688.pdf",
+      "reason": "Excluded at Spotlight Delaware's direction"
+    },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_1278_1273_a53b6dd3-74c0-49de-a3d5-9ada030eb087.pdf",
       "reason": "PAC or political committee reported no expenditures"
@@ -4095,6 +5033,14 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_2640_1273_cc4203cd-93ed-4ed2-accb-2566ceaae83f.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_2801_1273_5e22028a-2e90-402e-a8a8-22b6257e18f0.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_2813_1273_c560aabe-a171-44c2-a936-9e4ee7bf8734.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
@@ -4143,6 +5089,10 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_392034_1273_4091a735-599d-4780-942f-6daf1b0e7e2f.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_407753_1272_a466ada8-a6bd-4346-a0cd-dbe27689bc37.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
@@ -4156,6 +5106,10 @@
     },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_409934_1272_d9983f79-3e34-4e4d-a520-f734ad2bf942.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_409934_1273_55e193a1-35fd-4a99-a240-f2375b0f6804.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
@@ -4180,6 +5134,14 @@
     },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_465416_1272_49f83ff4-b144-449a-9167-9ad6361342fe.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_470_1273_c4b1901a-b374-4645-8f23-92893fbe1574.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_473691_1273_ab65fb0f-15ca-41a3-bc7d-405149297446.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
@@ -4243,6 +5205,10 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_497_1273_5adc6463-0d83-4471-8898-7c1912371332.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_499981_1273_5891ebe9-07c8-4aa4-a728-60301fd4917c.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
@@ -4264,6 +5230,10 @@
     },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_505_1273_a93c81ae-ef47-4f11-8f17-2a48f1239b57.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_509_1273_181037d0-bdd8-40b9-8764-75fd3dd18294.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
@@ -4299,7 +5269,15 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_559127_1273_f9dd29c2-79ff-48a8-b365-bc9036479548.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_574564_1273_717d400e-7b1f-4495-b120-ba64edf3bfe9.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_574801_1273_9c83e4e2-1ae6-4630-820a-426f02f9d0d0.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
@@ -4323,7 +5301,15 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_616510_1273_72513334-3ec9-4b0f-843a-eefdd0165d6d.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_628_1273_d0f8d01c-dae4-4e93-a94b-8e13555e7bc2.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_638_1273_f8ddf8bb-cb95-4d83-9839-0d10ed65f7a4.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
@@ -4340,6 +5326,10 @@
     },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_641780_1272_ce210f02-1b55-4abb-bd50-cf1ca6ff09c5.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_642338_1273_bf800165-6f86-4979-802c-61edce541e25.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
@@ -4379,6 +5369,10 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_691_1273_4742d83e-c04d-4cef-ab4a-ca20b09f4745.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_693183_1272_76da9cfa-2200-440d-858f-406ee3015a52.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
@@ -4408,6 +5402,10 @@
     },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_698467_1272_c14a9ea5-aafd-4447-a3c9-2761dab6ae2f.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_698467_1273_62fce7de-c80f-4de0-8f71-da26631eeeac.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
