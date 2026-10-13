@@ -42,4 +42,4 @@ The builder:
 - strips street addresses and ZIP codes from contributor locations; and
 - reports unmatched candidate accounts and outside-spending review issues for editorial review.
 
-The source archive used for this edition contains 30-day general-election filings. Candidate pages identify the exact period covered by each supplied report. PAC profiles combine supplied filings covering August 17 through October 4, 2026. Third-party advertiser data includes DE LEAD reports through October 5, 2026; its $13,000 in reported independent spending is assigned only where the filing names a candidate and amount.
+The source archive used for this edition contains 30-day general-election filings. Candidate pages identify the exact period covered by each supplied report. PAC profiles combine supplied filings covering August 17 through October 4, 2026. Third-party advertiser data includes supplied reports through October 12, 2026. Candidate-level amounts from grouped expenditures are published only when the filing prints those allocations and they reconcile to the payment total.
