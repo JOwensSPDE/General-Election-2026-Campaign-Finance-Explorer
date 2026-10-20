@@ -23,6 +23,44 @@ from extract_outside_spending import choose_reports, parse_report
 
 
 ACCOUNT_TO_CANDIDATE = {
+    "01005567": "Paul Hertz",
+    "01005575": "Valerie George",
+    "01006706": "Alison T. Gibbs",
+    "01001986": "Kim Williams",
+    "01002709": "Nicole Poore",
+    "01003090": "Lyndon D. Yearick",
+    "01003091": "Sean M. Lynn",
+    "01003160": "Mike Smith",
+    "01003818": "Jack Walsh",
+    "01004199": "Kathy Jennings",
+    "01004213": "Kendra Johnson",
+    "01004274": "Bryan William Shupe",
+    "01004409": "John L. Rieley",
+    "01004772": "Spiros Mantzavinos",
+    "01005348": "Kerri Evelyn Harris",
+    "01005517": "Sophie Phillips",
+    "01005540": "Lydia York",
+    "01006174": "Steve Pickering",
+    "01006187": "Shay Frisby",
+    "01006227": "Dan Cruce",
+    "01006391": "Maureen Madden",
+    "01006437": "Ramona Bracy",
+    "01006444": "Rachel \"Rae\" Krantz",
+    "01006445": "Jason Hoover",
+    "01006453": "Ryan Stuckey",
+    "01006457": "Ted Lauzen",
+    "01006466": "Morgan Hudson",
+    "01006529": "Emily A. Thompson",
+    "01006541": "Gary Taylor",
+    "01006607": "Joshua Pennington",
+    "01006672": "Jamar Money",
+    "01006677": "Alex Green",
+    "01006679": "Mary \"Penny\" Kubin",
+    "01006684": "Gene Dvornick",
+    "01006685": "Andrew \"Andy\" Gorlich",
+    "01006696": "Michael Ramone",
+    "01006711": "Austin Cassidy",
+    "01006738": "Tori Parker",
     "01001340": "Daniel B. Short",
     "01002132": "Ed Osienski",
     "01002266": "Ciro Poppiti",
@@ -360,6 +398,15 @@ DSEA_CANDIDATE_ALIASES = {
     "krantz": "Rachel \"Rae\" Krantz",
 }
 
+COMMON_GROUND_UNALLOCATED_SUPPORT = [
+    "Mark Pugh",
+    "Shane Cavanaugh",
+    "Gary Taylor",
+    "Jamar Money",
+    "Gene Dvornick",
+    'Mary "Penny" Kubin',
+]
+
 
 def dsea_allocations(raw_text: str, candidates: list[dict]) -> list[tuple[dict, float]]:
     """Extract the candidate-level amounts printed inside DSEA's grouped rows."""
@@ -475,6 +522,11 @@ def outside_dataset(pdf_dir: Path, candidate_payload: dict) -> dict:
                     })
                 continue
             matches = recipient_matches(row["rawText"], candidates)
+            if report["account"] == "04006743" and len(matches) > 1:
+                # The filing names the candidates associated with each grouped
+                # expenditure but does not allocate a dollar amount among them.
+                # Preserve the association without inventing candidate totals.
+                continue
             if len(matches) != 1:
                 issues.append({
                     "account": report["account"], "sourceFile": report["sourceFile"],
@@ -514,6 +566,15 @@ def outside_dataset(pdf_dir: Path, candidate_payload: dict) -> dict:
             })
     for group in groups:
         group["candidateAttributed"] = round(sum(a["amount"] for a in allocations if a["account"] == group["account"]), 2)
+        if group["account"] == "04006743":
+            by_name = {candidate["candidate"]: candidate for candidate in candidates}
+            group["unallocatedCandidateSupport"] = [
+                by_name[name]["id"] for name in COMMON_GROUND_UNALLOCATED_SUPPORT
+            ]
+            group["unallocatedSupportNote"] = (
+                "The filings name six candidates in grouped expenditures totaling $75,032.20 "
+                "but do not provide candidate-level amounts."
+            )
     groups.sort(key=lambda g: (g["entityType"], g["organization"]))
     allocations.sort(key=lambda a: (a["account"], a["date"], a["id"]))
     return {
