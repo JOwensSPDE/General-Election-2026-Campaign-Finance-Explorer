@@ -13,7 +13,7 @@ const normalize = value => String(value ?? '').toLowerCase().normalize('NFD').re
 async function init() {
   try {
     const [response, outsideResponse] = await Promise.all([
-      fetch('data/campaign-finance.json?v=7'), fetch('data/outside-spending.json?v=7')
+      fetch('data/campaign-finance.json?v=8'), fetch('data/outside-spending.json?v=8')
     ]);
     if (!response.ok || !outsideResponse.ok) throw new Error(`Data request failed`);
     const [payload, outside] = await Promise.all([response.json(), outsideResponse.json()]);
@@ -183,10 +183,12 @@ function renderCandidate(c) {
     ? `${exactMoney(candidateOutside)}${unallocatedSupport.length ? '*' : ''}`
     : unallocatedSupport.length ? 'Undetermined' : exactMoney(0);
   const outsideMax = Math.max(...rivals.map(x => outsideTotal(x.id)), 1);
-  const known = c.delawareTotal + c.outsideTotal;
+  const delawareAmount = Math.max(0, Number(c.delawareTotal) || 0);
+  const outsideAmount = Math.max(0, Number(c.outsideTotal) || 0);
+  const known = delawareAmount + outsideAmount;
   const circumference = 2 * Math.PI * 70;
-  const deShare = known ? c.delawareTotal / known : 0;
-  const outShare = known ? c.outsideTotal / known : 0;
+  const deShare = known ? delawareAmount / known : 0;
+  const outShare = known ? outsideAmount / known : 0;
   view.innerHTML = `
     <button class="back-button" id="back-overview">← All candidates</button>
     <div class="candidate-header"><div class="eyebrow">${esc(c.race)} · ${esc(c.party)}</div><h1>${esc(c.candidate)}</h1><p>${c.reportAvailable ? `${esc(c.committee)} · Reporting period ${esc(c.periodStart)}–${esc(c.periodEnd)}` : 'No candidate-committee report was supplied for this filing period.'}</p></div>
@@ -206,8 +208,8 @@ function renderCandidate(c) {
             <circle cx="90" cy="90" r="70" stroke="var(--orange)" stroke-dasharray="${outShare*circumference} ${circumference}" stroke-dashoffset="${-deShare*circumference}"/>
           </svg>
           <div class="legend">
-            ${legendRow('var(--blue)', 'Delaware / contributions not exceeding $100', c.delawareTotal, deShare)}
-            ${legendRow('var(--orange)', 'Outside Delaware', c.outsideTotal, outShare)}
+            ${legendRow('var(--blue)', 'Delaware / contributions not exceeding $100', delawareAmount, deShare)}
+            ${legendRow('var(--orange)', 'Outside Delaware', outsideAmount, outShare)}
             ${c.unitemizedOrOther > .01 ? legendRow('#b6b4ad', 'Not itemized / other receipts', c.unitemizedOrOther, c.totalReceipts ? c.unitemizedOrOther/c.totalReceipts : 0) : ''}
           </div>
         </div>
