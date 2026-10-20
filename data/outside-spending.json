@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13",
+  "generated": "2026-10-20",
   "methodology": "General-election third-party spending and PAC direct donations are reported separately from candidate fundraising.",
   "groups": [
     {
@@ -297,6 +297,14 @@
       "reportedExpenditures": 31951.78,
       "candidateAttributed": 600.0,
       "reportCount": 2
+    },
+    {
+      "account": "03005407",
+      "organization": "Delaware Colonial Region Republicans",
+      "entityType": "PAC",
+      "reportedExpenditures": 3940.51,
+      "candidateAttributed": 0,
+      "reportCount": 1
     },
     {
       "account": "02005902",
@@ -603,6 +611,14 @@
       "reportCount": 2
     },
     {
+      "account": "02000513",
+      "organization": "Plumbers & Pipefitters Local No. 74 PAC",
+      "entityType": "PAC",
+      "reportedExpenditures": 16.0,
+      "candidateAttributed": 0,
+      "reportCount": 1
+    },
+    {
       "account": "02006441",
       "organization": "Private Property Rights PAC",
       "entityType": "PAC",
@@ -803,6 +819,39 @@
       "reportCount": 1
     },
     {
+      "account": "04005042",
+      "organization": "American Civil Liberties Union of Delaware Action Fund",
+      "entityType": "Third-party advertiser",
+      "reportedExpenditures": 80999.42,
+      "candidateAttributed": 0,
+      "reportCount": 2
+    },
+    {
+      "account": "04006103",
+      "organization": "Citizens for a New Delaware Way 3rd Party Advertiser",
+      "entityType": "Third-party advertiser",
+      "reportedExpenditures": 14298.4,
+      "candidateAttributed": 14298.4,
+      "reportCount": 1
+    },
+    {
+      "account": "04006743",
+      "organization": "Common Ground Delaware Action, LLC 3rd party ads",
+      "entityType": "Third-party advertiser",
+      "reportedExpenditures": 75032.2,
+      "candidateAttributed": 0,
+      "reportCount": 2,
+      "unallocatedCandidateSupport": [
+        "sd14-mark-pugh",
+        "sd8-shane-cavanaugh",
+        "rd8-gary-taylor",
+        "rd9-jamar-money",
+        "rd20-gene-dvornick",
+        "rd27-mary-penny-kubin"
+      ],
+      "unallocatedSupportNote": "The filings name six candidates in grouped expenditures totaling $75,032.20 but do not provide candidate-level amounts."
+    },
+    {
       "account": "04006666",
       "organization": "DE LEAD",
       "entityType": "Third-party advertiser",
@@ -819,12 +868,44 @@
       "reportCount": 1
     },
     {
+      "account": "04006439",
+      "organization": "Delaware REALTORS PAC Third Party Advertising Committee",
+      "entityType": "Third-party advertiser",
+      "reportedExpenditures": 33517.0,
+      "candidateAttributed": 33442.0,
+      "reportCount": 1
+    },
+    {
+      "account": "04004463",
+      "organization": "DelawareCAN Action Fund PAC (3rd Party Advertiser)",
+      "entityType": "Third-party advertiser",
+      "reportedExpenditures": 18156.0,
+      "candidateAttributed": 18156.0,
+      "reportCount": 1
+    },
+    {
       "account": "04006720",
       "organization": "House Democrats Third-Party Advertiser",
       "entityType": "Third-party advertiser",
-      "reportedExpenditures": 42000.0,
-      "candidateAttributed": 42000.0,
+      "reportedExpenditures": 53806.96,
+      "candidateAttributed": 53806.96,
+      "reportCount": 2
+    },
+    {
+      "account": "04003885",
+      "organization": "NRA Political Victory Fund - 3rd Party Advertiser",
+      "entityType": "Third-party advertiser",
+      "reportedExpenditures": 1711.7,
+      "candidateAttributed": 1711.7,
       "reportCount": 1
+    },
+    {
+      "account": "04006745",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "entityType": "Third-party advertiser",
+      "reportedExpenditures": 24445.13,
+      "candidateAttributed": 24445.13,
+      "reportCount": 2
     },
     {
       "account": "04006739",
@@ -4475,7 +4556,7 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
-      "id": "pac-03000662-1fac06d0-0",
+      "id": "pac-03000662-39c6892a-0",
       "candidateId": "sd20-harry-s-gold",
       "candidateName": "Harry S. Gold",
       "targetCandidateId": null,
@@ -4487,7 +4568,7 @@
       "account": "03000662",
       "activity": "Direct PAC donation",
       "payee": "41st Representative District",
-      "sourceFile": "CampaignFinanceReport_Prelim_662_1273_09f3f356-3627-4f16-962a-d0b7f27307a2.pdf",
+      "sourceFile": "CampaignFinance_b6a47ad2-5718-4754-82ba-ad1d145870dc.pdf",
       "reportPeriodEnd": "10/04/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
@@ -5648,6 +5729,278 @@
       "note": "Candidate amount printed in the filing's grouped expenditure description."
     },
     {
+      "id": "tpa-04003885-6f21b6dc-0-rd4-dan-zitofsky",
+      "candidateId": "rd4-dan-zitofsky",
+      "candidateName": "Dan Zitofsky",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 4.44,
+      "date": "10/16/2026",
+      "organization": "NRA Political Victory Fund - 3rd Party Advertiser",
+      "account": "04003885",
+      "activity": "Candidate-associated expenditure",
+      "payee": "C2 Imaging LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_446295_315_2c840ce3-d6c0-44fa-832b-0ab2747981db.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04003885-6f21b6dc-1-rd11-jeffrey-n-spiegelman",
+      "candidateId": "rd11-jeffrey-n-spiegelman",
+      "candidateName": "Jeffrey N. Spiegelman",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 4.62,
+      "date": "10/16/2026",
+      "organization": "NRA Political Victory Fund - 3rd Party Advertiser",
+      "account": "04003885",
+      "activity": "Candidate-associated expenditure",
+      "payee": "C2 Imaging LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_446295_315_2c840ce3-d6c0-44fa-832b-0ab2747981db.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04003885-6f21b6dc-2-rd30-wm-shannon-morris",
+      "candidateId": "rd30-wm-shannon-morris",
+      "candidateName": "Wm Shannon Morris",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 4.65,
+      "date": "10/16/2026",
+      "organization": "NRA Political Victory Fund - 3rd Party Advertiser",
+      "account": "04003885",
+      "activity": "Candidate-associated expenditure",
+      "payee": "C2 Imaging LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_446295_315_2c840ce3-d6c0-44fa-832b-0ab2747981db.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04003885-6f21b6dc-3-sd19-brian-g-pettyjohn",
+      "candidateId": "sd19-brian-g-pettyjohn",
+      "candidateName": "Brian G. Pettyjohn",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 8.92,
+      "date": "10/16/2026",
+      "organization": "NRA Political Victory Fund - 3rd Party Advertiser",
+      "account": "04003885",
+      "activity": "Candidate-associated expenditure",
+      "payee": "C2 Imaging LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_446295_315_2c840ce3-d6c0-44fa-832b-0ab2747981db.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04003885-6f21b6dc-4-sd20-gerald-w-hocker",
+      "candidateId": "sd20-gerald-w-hocker",
+      "candidateName": "Gerald W. Hocker",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 8.44,
+      "date": "10/16/2026",
+      "organization": "NRA Political Victory Fund - 3rd Party Advertiser",
+      "account": "04003885",
+      "activity": "Candidate-associated expenditure",
+      "payee": "C2 Imaging LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_446295_315_2c840ce3-d6c0-44fa-832b-0ab2747981db.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04003885-6f21b6dc-5-rd30-wm-shannon-morris",
+      "candidateId": "rd30-wm-shannon-morris",
+      "candidateName": "Wm Shannon Morris",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 253.86,
+      "date": "10/16/2026",
+      "organization": "NRA Political Victory Fund - 3rd Party Advertiser",
+      "account": "04003885",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Moore, a Series",
+      "sourceFile": "CampaignFinanceReport_Prelim_446295_315_2c840ce3-d6c0-44fa-832b-0ab2747981db.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04003885-6f21b6dc-6-sd19-brian-g-pettyjohn",
+      "candidateId": "sd19-brian-g-pettyjohn",
+      "candidateName": "Brian G. Pettyjohn",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 464.59,
+      "date": "10/16/2026",
+      "organization": "NRA Political Victory Fund - 3rd Party Advertiser",
+      "account": "04003885",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Moore, a Series",
+      "sourceFile": "CampaignFinanceReport_Prelim_446295_315_2c840ce3-d6c0-44fa-832b-0ab2747981db.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04003885-6f21b6dc-7-sd20-gerald-w-hocker",
+      "candidateId": "sd20-gerald-w-hocker",
+      "candidateName": "Gerald W. Hocker",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 440.8,
+      "date": "10/16/2026",
+      "organization": "NRA Political Victory Fund - 3rd Party Advertiser",
+      "account": "04003885",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Moore, a Series",
+      "sourceFile": "CampaignFinanceReport_Prelim_446295_315_2c840ce3-d6c0-44fa-832b-0ab2747981db.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04003885-6f21b6dc-8-rd4-dan-zitofsky",
+      "candidateId": "rd4-dan-zitofsky",
+      "candidateName": "Dan Zitofsky",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 268.65,
+      "date": "10/16/2026",
+      "organization": "NRA Political Victory Fund - 3rd Party Advertiser",
+      "account": "04003885",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Moore, a Series",
+      "sourceFile": "CampaignFinanceReport_Prelim_446295_315_2c840ce3-d6c0-44fa-832b-0ab2747981db.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04003885-6f21b6dc-9-rd11-jeffrey-n-spiegelman",
+      "candidateId": "rd11-jeffrey-n-spiegelman",
+      "candidateName": "Jeffrey N. Spiegelman",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 252.73,
+      "date": "10/16/2026",
+      "organization": "NRA Political Victory Fund - 3rd Party Advertiser",
+      "account": "04003885",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Moore, a Series",
+      "sourceFile": "CampaignFinanceReport_Prelim_446295_315_2c840ce3-d6c0-44fa-832b-0ab2747981db.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04004463-b92f2c4b-0-rd41-ryan-stuckey",
+      "candidateId": "rd41-ryan-stuckey",
+      "candidateName": "Ryan Stuckey",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 7360.0,
+      "date": "10/14/2026",
+      "organization": "DelawareCAN Action Fund PAC (3rd Party Advertiser)",
+      "account": "04004463",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Balduzzi Group",
+      "sourceFile": "CampaignFinanceReport_Prelim_478960_315_5ba74340-1c53-4863-8ce1-3cc892e27180.pdf",
+      "reportPeriodEnd": "10/15/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04004463-b92f2c4b-1-sd15-nisha-lodhavia",
+      "candidateId": "sd15-nisha-lodhavia",
+      "candidateName": "Nisha Lodhavia",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 10796.0,
+      "date": "10/14/2026",
+      "organization": "DelawareCAN Action Fund PAC (3rd Party Advertiser)",
+      "account": "04004463",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Balduzzi Group",
+      "sourceFile": "CampaignFinanceReport_Prelim_478960_315_5ba74340-1c53-4863-8ce1-3cc892e27180.pdf",
+      "reportPeriodEnd": "10/15/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006103-46948990-0-sd14-kyra-l-hoffner",
+      "candidateId": "sd14-kyra-l-hoffner",
+      "candidateName": "Kyra L. Hoffner",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 14298.4,
+      "date": "10/14/2026",
+      "organization": "Citizens for a New Delaware Way 3rd Party Advertiser",
+      "account": "04006103",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Fells Group",
+      "sourceFile": "CampaignFinanceReport_Prelim_642221_315_a2246d6c-a606-4bd4-9a97-5ec49923b2ca.pdf",
+      "reportPeriodEnd": "10/14/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006439-7b48196c-0-rd22-mike-smith",
+      "candidateId": "rd22-mike-smith",
+      "candidateName": "Mike Smith",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 10920.0,
+      "date": "10/19/2026",
+      "organization": "Delaware REALTORS PAC Third Party Advertising Committee",
+      "account": "04006439",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Bridge Impact, LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_693186_315_a8dcf6cd-8abf-4ce7-88cf-4f6910e4f145.pdf",
+      "reportPeriodEnd": "10/19/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006439-7b48196c-1-rd4-dan-zitofsky",
+      "candidateId": "rd4-dan-zitofsky",
+      "candidateName": "Dan Zitofsky",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 11729.0,
+      "date": "10/19/2026",
+      "organization": "Delaware REALTORS PAC Third Party Advertising Committee",
+      "account": "04006439",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Bridge Impact, LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_693186_315_a8dcf6cd-8abf-4ce7-88cf-4f6910e4f145.pdf",
+      "reportPeriodEnd": "10/19/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006439-7b48196c-2-rd20-gene-dvornick",
+      "candidateId": "rd20-gene-dvornick",
+      "candidateName": "Gene Dvornick",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 10793.0,
+      "date": "10/19/2026",
+      "organization": "Delaware REALTORS PAC Third Party Advertising Committee",
+      "account": "04006439",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Bridge Impact, LLC",
+      "sourceFile": "CampaignFinanceReport_Prelim_693186_315_a8dcf6cd-8abf-4ce7-88cf-4f6910e4f145.pdf",
+      "reportPeriodEnd": "10/19/2026",
+      "note": ""
+    },
+    {
       "id": "tpa-04006666-914a74ea-0-sd15-nisha-lodhavia",
       "candidateId": "sd15-nisha-lodhavia",
       "candidateName": "Nisha Lodhavia",
@@ -5730,6 +6083,57 @@
       "payee": "Majority Strategies LLC",
       "sourceFile": "CampaignFinanceReport_Prelim_734633_315_9ae1c8c0-412b-4a9d-b308-5033aa70401e.pdf",
       "reportPeriodEnd": "10/12/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-06fe9558-0-rd1-nnamdi-o-chukwuocha",
+      "candidateId": "rd1-nnamdi-o-chukwuocha",
+      "candidateName": "Nnamdi O. Chukwuocha",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 4833.2,
+      "date": "08/29/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Candidate-associated expenditure",
+      "payee": "The Pivot Group , Inc",
+      "sourceFile": "CampaignFinance_3beaa69c-4bef-4235-a743-81dd4f63815f.pdf",
+      "reportPeriodEnd": "08/29/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-06fe9558-1-rd20-alonna-berry",
+      "candidateId": "rd20-alonna-berry",
+      "candidateName": "Alonna Berry",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 3976.01,
+      "date": "08/29/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Candidate-associated expenditure",
+      "payee": "The Pivot Group , Inc",
+      "sourceFile": "CampaignFinance_3beaa69c-4bef-4235-a743-81dd4f63815f.pdf",
+      "reportPeriodEnd": "08/29/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006720-06fe9558-2-rd27-eric-morrison",
+      "candidateId": "rd27-eric-morrison",
+      "candidateName": "Eric Morrison",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 2997.75,
+      "date": "08/29/2026",
+      "organization": "House Democrats Third-Party Advertiser",
+      "account": "04006720",
+      "activity": "Candidate-associated expenditure",
+      "payee": "The Pivot Group , Inc",
+      "sourceFile": "CampaignFinance_3beaa69c-4bef-4235-a743-81dd4f63815f.pdf",
+      "reportPeriodEnd": "08/29/2026",
       "note": ""
     },
     {
@@ -6124,7 +6528,7 @@
       "note": ""
     },
     {
-      "id": "tpa-04006739-4eca227c-0-sc4-douglas-b-hudson",
+      "id": "tpa-04006739-a6407516-0-sc4-douglas-b-hudson",
       "candidateId": "sc4-douglas-b-hudson",
       "candidateName": "Douglas B. Hudson",
       "targetCandidateId": null,
@@ -6136,12 +6540,12 @@
       "account": "04006739",
       "activity": "Candidate-associated expenditure",
       "payee": "Bridge Impact, LLC",
-      "sourceFile": "CampaignFinanceReport_Prelim_757492_315_4d40c730-ac7f-4cd7-8d42-d610da65a523 (1).pdf",
+      "sourceFile": "CampaignFinanceReport_Prelim_757492_315_4d40c730-ac7f-4cd7-8d42-d610da65a523 (2).pdf",
       "reportPeriodEnd": "10/07/2026",
       "note": ""
     },
     {
-      "id": "tpa-04006739-4eca227c-1-sc5-john-l-rieley",
+      "id": "tpa-04006739-a6407516-1-sc5-john-l-rieley",
       "candidateId": "sc5-john-l-rieley",
       "candidateName": "John L. Rieley",
       "targetCandidateId": null,
@@ -6153,19 +6557,321 @@
       "account": "04006739",
       "activity": "Candidate-associated expenditure",
       "payee": "Bridge Impact, LLC",
-      "sourceFile": "CampaignFinanceReport_Prelim_757492_315_4d40c730-ac7f-4cd7-8d42-d610da65a523 (1).pdf",
+      "sourceFile": "CampaignFinanceReport_Prelim_757492_315_4d40c730-ac7f-4cd7-8d42-d610da65a523 (2).pdf",
       "reportPeriodEnd": "10/07/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-e566612c-0-sc5-jill-hicks",
+      "candidateId": "sc5-jill-hicks",
+      "candidateName": "Jill Hicks",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 450.0,
+      "date": "10/10/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Bay to Bay News Independent News",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_75d84788-d4e9-40cb-8659-d765ae3b5ae0.pdf",
+      "reportPeriodEnd": "10/14/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-e566612c-1-sc4-justine-cuccia",
+      "candidateId": "sc4-justine-cuccia",
+      "candidateName": "Justine Cuccia",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 450.0,
+      "date": "10/10/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Bay to Bay News Independent News",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_75d84788-d4e9-40cb-8659-d765ae3b5ae0.pdf",
+      "reportPeriodEnd": "10/14/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-e566612c-2-sc5-jill-hicks",
+      "candidateId": "sc5-jill-hicks",
+      "candidateName": "Jill Hicks",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 3346.56,
+      "date": "10/10/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Cape Gazette Cape Gazette",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_75d84788-d4e9-40cb-8659-d765ae3b5ae0.pdf",
+      "reportPeriodEnd": "10/14/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-e566612c-3-sc4-justine-cuccia",
+      "candidateId": "sc4-justine-cuccia",
+      "candidateName": "Justine Cuccia",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 1482.0,
+      "date": "10/10/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Coastal Point Coastal Point",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_75d84788-d4e9-40cb-8659-d765ae3b5ae0.pdf",
+      "reportPeriodEnd": "10/14/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-e566612c-4-sc5-jill-hicks",
+      "candidateId": "sc5-jill-hicks",
+      "candidateName": "Jill Hicks",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 2079.42,
+      "date": "10/10/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Meta Platforms, Inc. Meta Platforms,",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_75d84788-d4e9-40cb-8659-d765ae3b5ae0.pdf",
+      "reportPeriodEnd": "10/14/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-e566612c-5-sc4-justine-cuccia",
+      "candidateId": "sc4-justine-cuccia",
+      "candidateName": "Justine Cuccia",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 845.02,
+      "date": "10/10/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Meta Platforms, Inc. Meta Platforms,",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_75d84788-d4e9-40cb-8659-d765ae3b5ae0.pdf",
+      "reportPeriodEnd": "10/14/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-e566612c-6-rd41-ryan-stuckey",
+      "candidateId": "rd41-ryan-stuckey",
+      "candidateName": "Ryan Stuckey",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 525.83,
+      "date": "10/10/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Meta Platforms, Inc. Meta Platforms,",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_75d84788-d4e9-40cb-8659-d765ae3b5ae0.pdf",
+      "reportPeriodEnd": "10/14/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-e566612c-7-sc5-jill-hicks",
+      "candidateId": "sc5-jill-hicks",
+      "candidateName": "Jill Hicks",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 6661.2,
+      "date": "10/10/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Print Coast 2 Coast Print Coast 2 Coast 33073 E. Light Street, Lewes, Delaware,",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_75d84788-d4e9-40cb-8659-d765ae3b5ae0.pdf",
+      "reportPeriodEnd": "10/14/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-e566612c-8-sc4-justine-cuccia",
+      "candidateId": "sc4-justine-cuccia",
+      "candidateName": "Justine Cuccia",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 7268.1,
+      "date": "10/10/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Print Coast 2 Coast Print Coast 2 Coast 33073 E. Light Street, Lewes, Delaware,",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_75d84788-d4e9-40cb-8659-d765ae3b5ae0.pdf",
+      "reportPeriodEnd": "10/14/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-92a6ef99-5-sc4-justine-cuccia",
+      "candidateId": "sc4-justine-cuccia",
+      "candidateName": "Justine Cuccia",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 27.5,
+      "date": "10/15/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Print Coast 2 Coast Print Coast 2 Coast 33073 E. Light Street, Lewes, Delaware,",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_bdb9638f-7c88-40ce-811f-ca338dbd5106.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-92a6ef99-6-sc5-jill-hicks",
+      "candidateId": "sc5-jill-hicks",
+      "candidateName": "Jill Hicks",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 27.5,
+      "date": "10/15/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Print Coast 2 Coast Print Coast 2 Coast 33073 E. Light Street, Lewes, Delaware,",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_bdb9638f-7c88-40ce-811f-ca338dbd5106.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-92a6ef99-0-rd41-ryan-stuckey",
+      "candidateId": "rd41-ryan-stuckey",
+      "candidateName": "Ryan Stuckey",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 195.0,
+      "date": "10/16/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Coastal Point Coastal Point",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_bdb9638f-7c88-40ce-811f-ca338dbd5106.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-92a6ef99-1-rd38-maureen-madden",
+      "candidateId": "rd38-maureen-madden",
+      "candidateName": "Maureen Madden",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 195.0,
+      "date": "10/16/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Coastal Point Coastal Point",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_bdb9638f-7c88-40ce-811f-ca338dbd5106.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-92a6ef99-2-sc4-justine-cuccia",
+      "candidateId": "sc4-justine-cuccia",
+      "candidateName": "Justine Cuccia",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 502.0,
+      "date": "10/16/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Coastal Point Coastal Point",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_bdb9638f-7c88-40ce-811f-ca338dbd5106.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-92a6ef99-3-rd4-gregg-lindner",
+      "candidateId": "rd4-gregg-lindner",
+      "candidateName": "Gregg Lindner",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 195.0,
+      "date": "10/16/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Coastal Point Coastal Point",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_bdb9638f-7c88-40ce-811f-ca338dbd5106.pdf",
+      "reportPeriodEnd": "10/16/2026",
+      "note": ""
+    },
+    {
+      "id": "tpa-04006745-92a6ef99-4-sc4-justine-cuccia",
+      "candidateId": "sc4-justine-cuccia",
+      "candidateName": "Justine Cuccia",
+      "targetCandidateId": null,
+      "position": "associated",
+      "allocationType": "independent-spending",
+      "amount": 195.0,
+      "date": "10/16/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Coastal Point Coastal Point",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_bdb9638f-7c88-40ce-811f-ca338dbd5106.pdf",
+      "reportPeriodEnd": "10/16/2026",
       "note": ""
     }
   ],
-  "reviewIssues": [],
+  "reviewIssues": [
+    {
+      "account": "04005042",
+      "sourceFile": "CampaignFinanceReport_Prelim_535953_315_2e103ed1-24bb-4f14-84f2-ad74b8ade673.pdf",
+      "reason": "Independent expenditure could not be matched to exactly one qualified candidate.",
+      "amount": 22999.71,
+      "rawText": "10/16/2026 Pivot Group, Inc. The 712 H Street NE, Unit #606, Washington, $118,220.64 $22,999.71 | District Of Columbia, 20002"
+    },
+    {
+      "account": "04005042",
+      "sourceFile": "CampaignFinanceReport_Prelim_535953_315_36ede313-8e9d-4438-ae6c-d82ce79c2e3c.pdf",
+      "reason": "Independent expenditure could not be matched to exactly one qualified candidate.",
+      "amount": 35000.0,
+      "rawText": "10/15/2026 McKenna Media 3000 Chestnut Ave, Suite 101, Baltimore, $136,993.00 $35,000.00 | Maryland, 21211"
+    },
+    {
+      "account": "04005042",
+      "sourceFile": "CampaignFinanceReport_Prelim_535953_315_36ede313-8e9d-4438-ae6c-d82ce79c2e3c.pdf",
+      "reason": "Independent expenditure could not be matched to exactly one qualified candidate.",
+      "amount": 22999.71,
+      "rawText": "10/15/2026 Pivot Group, Inc. The 712 H Street NE, Unit #606, Washington, $95,220.93 $22,999.71 | District Of Columbia, 20002"
+    }
+  ],
   "excludedReports": [
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_608502_1273_37d05c0e-9b0f-4073-ad79-448fbd95fd6f.pdf",
+      "reason": "superseded by amended report"
+    },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_641575_1273_df5c8b44-4332-4f8c-8add-6f8ecdaf1937.pdf",
       "reason": "superseded by amended report"
     },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_654_1273_57a63438-56f4-444b-aba7-6d71a95b569f.pdf",
+      "reason": "superseded by amended report"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_662_1273_09f3f356-3627-4f16-962a-d0b7f27307a2.pdf",
       "reason": "superseded by amended report"
     },
     {
@@ -6187,6 +6893,34 @@
     {
       "sourceFile": "CampaignFinanceReport_Prelim_734633_315_4413bf21-dce5-479f-aedc-6bdfd55b3eb2 (1).pdf",
       "reason": "duplicate report download"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_757492_315_4d40c730-ac7f-4cd7-8d42-d610da65a523 (1).pdf",
+      "reason": "duplicate report download"
+    },
+    {
+      "sourceFile": "CampaignFinance_e3545702-5ba1-4a70-a8fa-53babb5d38ed.pdf",
+      "reason": "duplicate report download"
+    },
+    {
+      "sourceFile": "CampaignFinance_e2c800df-c278-4fc4-a4e2-fda7274a1c78.pdf",
+      "reason": "duplicate report download"
+    },
+    {
+      "sourceFile": "CampaignFinance_72f74a37-7593-459f-a909-063610f8c71f.pdf",
+      "reason": "duplicate report download"
+    },
+    {
+      "sourceFile": "CampaignFinance_28a54928-d421-4be3-bf1f-2a6360c0a8ac.pdf",
+      "reason": "duplicate report download"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_69515893-f17b-43af-bb01-731472343802.pdf",
+      "reason": "superseded by amended report"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_ca426529-2cdc-45c2-b34b-237e231bdec2.pdf",
+      "reason": "superseded by amended report"
     },
     {
       "sourceFile": "CampaignFinance_7e8a771a-21c8-482e-8075-4ee339169688.pdf",
@@ -6365,11 +7099,19 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_464_1273_93339961-01fb-4f18-bc2f-a82fccade7a2.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_465338_1272_726e35aa-06aa-4197-9f48-e83576863481.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
       "sourceFile": "CampaignFinanceReport_Prelim_465416_1272_49f83ff4-b144-449a-9167-9ad6361342fe.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_465416_1273_7def9304-a3b4-4734-872b-3f8fdacf62bf.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
     {
@@ -6565,6 +7307,10 @@
       "reason": "PAC or political committee reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_615840_1273_ed91779d-9da2-461e-9eb9-00bec5d2094a.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_616510_1273_72513334-3ec9-4b0f-843a-eefdd0165d6d.pdf",
       "reason": "PAC or political committee reported no expenditures"
     },
@@ -6737,7 +7483,15 @@
       "reason": "third-party advertiser reported no expenditures"
     },
     {
+      "sourceFile": "CampaignFinanceReport_Prelim_535953_315_ee828245-0c58-42bb-8b27-64183545d496 (1).pdf",
+      "reason": "third-party advertiser reported no expenditures"
+    },
+    {
       "sourceFile": "CampaignFinanceReport_Prelim_734633_315_3110460d-1fc6-4782-b92c-20d3eeb66ccb.pdf",
+      "reason": "third-party advertiser reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinance_eda7021d-e861-400f-b405-301b490fc885.pdf",
       "reason": "third-party advertiser reported no expenditures"
     }
   ]
