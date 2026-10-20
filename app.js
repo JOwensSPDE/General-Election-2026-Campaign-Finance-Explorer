@@ -13,7 +13,7 @@ const normalize = value => String(value ?? '').toLowerCase().normalize('NFD').re
 async function init() {
   try {
     const [response, outsideResponse] = await Promise.all([
-      fetch('data/campaign-finance.json?v=4'), fetch('data/outside-spending.json?v=4')
+      fetch('data/campaign-finance.json?v=7'), fetch('data/outside-spending.json?v=7')
     ]);
     if (!response.ok || !outsideResponse.ok) throw new Error(`Data request failed`);
     const [payload, outside] = await Promise.all([response.json(), outsideResponse.json()]);
@@ -191,14 +191,14 @@ function renderCandidate(c) {
     <button class="back-button" id="back-overview">← All candidates</button>
     <div class="candidate-header"><div class="eyebrow">${esc(c.race)} · ${esc(c.party)}</div><h1>${esc(c.candidate)}</h1><p>${c.reportAvailable ? `${esc(c.committee)} · Reporting period ${esc(c.periodStart)}–${esc(c.periodEnd)}` : 'No candidate-committee report was supplied for this filing period.'}</p></div>
     <div class="metric-grid five">
-      <div class="metric"><span>Total receipts</span><strong>${c.reportAvailable ? exactMoney(c.totalReceipts) : 'Not available'}</strong><small>${c.reportAvailable ? 'Supplied 30-day general-election report' : 'No supplied report'}</small></div>
+      <div class="metric"><span>Total receipts</span><strong>${c.reportAvailable ? exactMoney(c.totalReceipts) : 'Not available'}</strong><small>${c.reportAvailable ? esc(c.reportLabel || 'Supplied 30-day general-election report') : 'No supplied report'}</small></div>
       <div class="metric"><span>Candidate loans</span><strong>${c.reportAvailable ? exactMoney(c.candidateLoans) : 'Not available'}</strong><small>Schedule D-1 loans from the candidate</small></div>
       <div class="metric"><span>Total expenditures</span><strong>${c.reportAvailable ? exactMoney(c.totalExpenditures) : 'Not available'}</strong></div>
       <div class="metric"><span>Ending balance</span><strong>${c.reportAvailable ? exactMoney(c.endingBalance) : 'Not available'}</strong></div>
       <div class="metric outside-metric"><span>Additional Outside Spending Tied To Candidate</span><strong>${candidateOutsideDisplay}</strong>${unallocatedSupport.length ? '<small>* Additional support was reported without a candidate-level dollar amount.</small>' : ''}</div>
     </div>
     <div class="charts">
-      <article class="chart-card"><h3>Where reported money came from</h3><p class="chart-deck">Based on reported Schedule A mailing addresses, with aggregate contributions not exceeding $100 classified as in-state.</p>
+      <article class="chart-card"><h3>Where reported money came from</h3><p class="chart-deck">${esc(c.locationChartNote || 'Based on reported Schedule A mailing addresses, with aggregate contributions not exceeding $100 classified as in-state.')}</p>
         <div class="donut-wrap">
           <svg class="donut" viewBox="0 0 180 180" role="img" aria-label="${Math.round(deShare*100)} percent Delaware, ${Math.round(outShare*100)} percent outside Delaware">
             <circle class="base" cx="90" cy="90" r="70"/>
