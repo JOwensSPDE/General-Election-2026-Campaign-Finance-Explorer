@@ -35,7 +35,7 @@
       "reportedItemizedTotal": 36920.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 26765.0,
-      "outsideTotal": 10155.0,
+      "outsideTotal": 10500,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -370,7 +370,7 @@
       "reportedItemizedTotal": 5101.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 4801.0,
-      "outsideTotal": 300.0,
+      "outsideTotal": 300,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -467,7 +467,7 @@
       "reportedItemizedTotal": 23063.0,
       "itemizedReconciliationGap": 2800.0,
       "delawareTotal": 14489.0,
-      "outsideTotal": 5774.0,
+      "outsideTotal": 5774,
       "unitemizedOrOther": 2800.0,
       "donors": [
         {
@@ -1201,7 +1201,7 @@
       "reportedItemizedTotal": 2100.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 2100.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -1249,7 +1249,7 @@
       "reportedItemizedTotal": 1775.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 1775.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -1332,7 +1332,7 @@
       "reportedItemizedTotal": 15190.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 13990.0,
-      "outsideTotal": 1200.0,
+      "outsideTotal": 1200,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -1655,7 +1655,7 @@
       "reportedItemizedTotal": 3650.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 3700.0,
-      "outsideTotal": -50.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -1745,7 +1745,7 @@
       "reportedItemizedTotal": 600.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 600.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -1818,7 +1818,7 @@
       "reportedItemizedTotal": 2330.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 2330.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -1889,7 +1889,7 @@
       "reportedItemizedTotal": 8025.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 2644.0,
-      "outsideTotal": 5381.0,
+      "outsideTotal": 6525,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -3606,7 +3606,7 @@
       "reportedItemizedTotal": 0.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 0.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [],
       "excludedRows": 0,
@@ -3639,7 +3639,7 @@
       "reportedItemizedTotal": 0.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 0.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [],
       "excludedRows": 0,
@@ -3672,7 +3672,7 @@
       "reportedItemizedTotal": 0.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 0.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [],
       "excludedRows": 0,
@@ -3705,7 +3705,7 @@
       "reportedItemizedTotal": 32445.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 25955.0,
-      "outsideTotal": 6490.0,
+      "outsideTotal": 6490,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -4663,7 +4663,7 @@
       "reportedItemizedTotal": 7450.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 7450.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -4767,7 +4767,7 @@
       "reportedItemizedTotal": 3108.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 2253.0,
-      "outsideTotal": 855.0,
+      "outsideTotal": 855,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -4934,7 +4934,7 @@
       "reportedItemizedTotal": 1300.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 1300.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -4989,7 +4989,7 @@
       "reportedItemizedTotal": 19675.0,
       "itemizedReconciliationGap": 2.0,
       "delawareTotal": 19573.0,
-      "outsideTotal": 100.0,
+      "outsideTotal": 100,
       "unitemizedOrOther": 2.0,
       "donors": [
         {
@@ -6054,7 +6054,7 @@
       "reportedItemizedTotal": 1970.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 2810.0,
-      "outsideTotal": -840.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -6123,7 +6123,7 @@
       "reportedItemizedTotal": 1100.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 800.0,
-      "outsideTotal": 300.0,
+      "outsideTotal": 300,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -6178,7 +6178,7 @@
       "reportedItemizedTotal": 9400.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 8000.0,
-      "outsideTotal": 1400.0,
+      "outsideTotal": 1400,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -6401,7 +6401,7 @@
       "reportedItemizedTotal": 12280.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 10230.0,
-      "outsideTotal": 2050.0,
+      "outsideTotal": 2050,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -6799,7 +6799,7 @@
       "reportedItemizedTotal": 6200.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 5750.0,
-      "outsideTotal": 450.0,
+      "outsideTotal": 450,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -6938,7 +6938,7 @@
       "reportedItemizedTotal": 0.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 0.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [],
       "excludedRows": 0,
@@ -6971,7 +6971,7 @@
       "reportedItemizedTotal": 24531.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 18105.0,
-      "outsideTotal": 6426.0,
+      "outsideTotal": 6426,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -8223,7 +8223,7 @@
       "reportedItemizedTotal": 0.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 0.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [],
       "excludedRows": 0,
@@ -8256,7 +8256,7 @@
       "reportedItemizedTotal": 748.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 748.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -8318,7 +8318,7 @@
       "reportedItemizedTotal": 17625.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 15975.0,
-      "outsideTotal": 1650.0,
+      "outsideTotal": 1650,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -8655,7 +8655,7 @@
       "reportedItemizedTotal": 18125.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 14750.0,
-      "outsideTotal": 3375.0,
+      "outsideTotal": 3425,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -9304,7 +9304,7 @@
       "reportedItemizedTotal": 3269.4,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 2969.4,
-      "outsideTotal": 300.0,
+      "outsideTotal": 300,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -9443,7 +9443,7 @@
       "reportedItemizedTotal": 68896.5,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 59685.5,
-      "outsideTotal": 9211.0,
+      "outsideTotal": 9211,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -13067,7 +13067,7 @@
       "reportedItemizedTotal": 5260.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 3550.0,
-      "outsideTotal": 1710.0,
+      "outsideTotal": 1710,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -13248,7 +13248,7 @@
       "reportedItemizedTotal": 7531.53,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 7531.53,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -13382,7 +13382,7 @@
       "reportedItemizedTotal": 670.25,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 742.25,
-      "outsideTotal": -72.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -13437,7 +13437,7 @@
       "reportedItemizedTotal": 40600.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 36300.0,
-      "outsideTotal": 4300.0,
+      "outsideTotal": 4300,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -14395,7 +14395,7 @@
       "reportedItemizedTotal": 1285.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 685.0,
-      "outsideTotal": 600.0,
+      "outsideTotal": 600,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -14450,7 +14450,7 @@
       "reportedItemizedTotal": 8202.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 5602.0,
-      "outsideTotal": 2600.0,
+      "outsideTotal": 2600,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -14652,7 +14652,7 @@
       "reportedItemizedTotal": 2925.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 2725.0,
-      "outsideTotal": 200.0,
+      "outsideTotal": 200,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -14735,7 +14735,7 @@
       "reportedItemizedTotal": 2332.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 2332.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -14841,7 +14841,7 @@
       "reportedItemizedTotal": 19226.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 16952.0,
-      "outsideTotal": 2274.0,
+      "outsideTotal": 3530,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -15351,7 +15351,7 @@
       "reportedItemizedTotal": 21155.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 20455.0,
-      "outsideTotal": 700.0,
+      "outsideTotal": 700,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -16043,7 +16043,7 @@
       "reportedItemizedTotal": 2766.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 2740.0,
-      "outsideTotal": 26.0,
+      "outsideTotal": 26,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -16266,7 +16266,7 @@
       "reportedItemizedTotal": 8520.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 7870.0,
-      "outsideTotal": 650.0,
+      "outsideTotal": 650,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -16517,7 +16517,7 @@
       "reportedItemizedTotal": 33970.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 30920.0,
-      "outsideTotal": 3050.0,
+      "outsideTotal": 3050,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -17482,7 +17482,7 @@
       "reportedItemizedTotal": 8560.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 8310.0,
-      "outsideTotal": 250.0,
+      "outsideTotal": 250,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -17642,7 +17642,7 @@
       "reportedItemizedTotal": 15972.48,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 11372.48,
-      "outsideTotal": 4600.0,
+      "outsideTotal": 4600,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -17997,7 +17997,7 @@
       "reportedItemizedTotal": 15645.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 14712.0,
-      "outsideTotal": 933.0,
+      "outsideTotal": 2450,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -18516,7 +18516,7 @@
       "reportedItemizedTotal": 9351.25,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 8658.35,
-      "outsideTotal": 692.9,
+      "outsideTotal": 1441.25,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -19159,7 +19159,7 @@
       "reportedItemizedTotal": 5934.82,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 5869.82,
-      "outsideTotal": 65.0,
+      "outsideTotal": 65,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -19482,7 +19482,7 @@
       "reportedItemizedTotal": 17573.02,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 16036.96,
-      "outsideTotal": 1536.06,
+      "outsideTotal": 1671.06,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -20118,7 +20118,7 @@
       "reportedItemizedTotal": 4770.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 4770.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -20236,7 +20236,7 @@
       "reportedItemizedTotal": 14250.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 5750.0,
-      "outsideTotal": 8500.0,
+      "outsideTotal": 8500,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -20643,7 +20643,7 @@
       "reportedItemizedTotal": 7250.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 7477.0,
-      "outsideTotal": -227.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -20796,7 +20796,7 @@
       "reportedItemizedTotal": 0.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 0.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [],
       "excludedRows": 0,
@@ -20829,7 +20829,7 @@
       "reportedItemizedTotal": 5200.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 4600.0,
-      "outsideTotal": 600.0,
+      "outsideTotal": 600,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -20905,7 +20905,7 @@
       "reportedItemizedTotal": 4451.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 4101.0,
-      "outsideTotal": 350.0,
+      "outsideTotal": 350,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -21100,7 +21100,7 @@
       "reportedItemizedTotal": 7210.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 6160.0,
-      "outsideTotal": 1050.0,
+      "outsideTotal": 1050,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -21316,7 +21316,7 @@
       "reportedItemizedTotal": 2420.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 1800.0,
-      "outsideTotal": 620.0,
+      "outsideTotal": 620,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -21420,7 +21420,7 @@
       "reportedItemizedTotal": 1700.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 1400.0,
-      "outsideTotal": 300.0,
+      "outsideTotal": 300,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -21908,7 +21908,7 @@
       "reportedItemizedTotal": 14350.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 14350.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -22026,7 +22026,7 @@
       "reportedItemizedTotal": 11152.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 9152.0,
-      "outsideTotal": 2000.0,
+      "outsideTotal": 2000,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -22223,7 +22223,7 @@
       "reportedItemizedTotal": 21400.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 22056.0,
-      "outsideTotal": -656.0,
+      "outsideTotal": 1700,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -22593,7 +22593,7 @@
       "reportedItemizedTotal": 2250.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 1800.0,
-      "outsideTotal": 450.0,
+      "outsideTotal": 450,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -22727,7 +22727,7 @@
       "reportedItemizedTotal": 7350.75,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 6724.0,
-      "outsideTotal": 626.75,
+      "outsideTotal": 662.75,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -22922,7 +22922,7 @@
       "reportedItemizedTotal": 6494.68,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 5894.68,
-      "outsideTotal": 600.0,
+      "outsideTotal": 600,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -23089,7 +23089,7 @@
       "reportedItemizedTotal": 3000.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 2550.0,
-      "outsideTotal": 450.0,
+      "outsideTotal": 450,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -23223,7 +23223,7 @@
       "reportedItemizedTotal": 34804.78,
       "itemizedReconciliationGap": 25.0,
       "delawareTotal": 33251.0,
-      "outsideTotal": 1528.78,
+      "outsideTotal": 3128.78,
       "unitemizedOrOther": 25.0,
       "donors": [
         {
@@ -24033,7 +24033,7 @@
         },
         {
           "date": "06/12/2026",
-          "name": "John D\u00e2\u20ac\u2122Agostino",
+          "name": "John Dâ€™Agostino",
           "address": "Selbyville, Delaware",
           "aggregate": 100.0,
           "amount": 100.0
@@ -25260,7 +25260,7 @@
       "reportedItemizedTotal": 5150.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 5200.0,
-      "outsideTotal": -50.0,
+      "outsideTotal": 350,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -25385,7 +25385,7 @@
       "reportedItemizedTotal": 21597.78,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 20197.78,
-      "outsideTotal": 1400.0,
+      "outsideTotal": 1400,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -26429,7 +26429,7 @@
       "reportedItemizedTotal": 25217.77,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 18760.0,
-      "outsideTotal": 6457.77,
+      "outsideTotal": 7057.77,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -26981,7 +26981,7 @@
       "reportedItemizedTotal": 9550.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 6350.0,
-      "outsideTotal": 3200.0,
+      "outsideTotal": 3200,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -27868,7 +27868,7 @@
       "reportedItemizedTotal": 1200.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 1200.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -27916,7 +27916,7 @@
       "reportedItemizedTotal": 6650.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 3500.0,
-      "outsideTotal": 3150.0,
+      "outsideTotal": 3150,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -28062,7 +28062,7 @@
       "reportedItemizedTotal": 5837.54,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 4377.54,
-      "outsideTotal": 1460.0,
+      "outsideTotal": 1460,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -28306,7 +28306,7 @@
       "reportedItemizedTotal": 850.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 850.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -28363,7 +28363,7 @@
       "reportedItemizedTotal": 2660.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 2733.82,
-      "outsideTotal": -73.82,
+      "outsideTotal": 250,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -28485,7 +28485,7 @@
       "reportedItemizedTotal": 800.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 800.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -28540,7 +28540,7 @@
       "reportedItemizedTotal": 4275.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 4025.0,
-      "outsideTotal": 250.0,
+      "outsideTotal": 250,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -28700,7 +28700,7 @@
       "reportedItemizedTotal": 10249.36,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 9949.36,
-      "outsideTotal": 300.0,
+      "outsideTotal": 300,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -29063,7 +29063,7 @@
       "reportedItemizedTotal": 9725.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 9425.0,
-      "outsideTotal": 300.0,
+      "outsideTotal": 300,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -29265,7 +29265,7 @@
       "reportedItemizedTotal": 12350.19,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 11750.19,
-      "outsideTotal": 600.0,
+      "outsideTotal": 600,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -29481,7 +29481,7 @@
       "reportedItemizedTotal": 300.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 300.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -29543,7 +29543,7 @@
       "reportedItemizedTotal": 0.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 0.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [],
       "excludedRows": 0,
@@ -29576,7 +29576,7 @@
       "reportedItemizedTotal": 7100.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 6200.0,
-      "outsideTotal": 900.0,
+      "outsideTotal": 900,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -29740,7 +29740,7 @@
       "reportedItemizedTotal": 1350.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 1350.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -29816,7 +29816,7 @@
       "reportedItemizedTotal": 8570.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 7970.0,
-      "outsideTotal": 600.0,
+      "outsideTotal": 600,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -29962,7 +29962,7 @@
       "reportedItemizedTotal": 33526.4,
       "itemizedReconciliationGap": 100.0,
       "delawareTotal": 33026.4,
-      "outsideTotal": 400.0,
+      "outsideTotal": 400,
       "unitemizedOrOther": 100.0,
       "donors": [
         {
@@ -31055,7 +31055,7 @@
       "reportedItemizedTotal": 76712.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 90358.7,
-      "outsideTotal": -13646.7,
+      "outsideTotal": 10460,
       "unitemizedOrOther": -0.0,
       "donors": [
         {
@@ -32274,7 +32274,7 @@
       "reportedItemizedTotal": 49785.0,
       "itemizedReconciliationGap": 165.0,
       "delawareTotal": 47975.0,
-      "outsideTotal": 1645.0,
+      "outsideTotal": 2025,
       "unitemizedOrOther": 165.0,
       "donors": [
         {
@@ -33575,7 +33575,7 @@
       "reportedItemizedTotal": 12300.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 9475.0,
-      "outsideTotal": 2825.0,
+      "outsideTotal": 2825,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -33854,7 +33854,7 @@
       "reportedItemizedTotal": 12057.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 11207.0,
-      "outsideTotal": 850.0,
+      "outsideTotal": 850,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -34301,7 +34301,7 @@
       "reportedItemizedTotal": 400.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 100.0,
-      "outsideTotal": 300.0,
+      "outsideTotal": 300,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -34358,7 +34358,7 @@
       "reportedItemizedTotal": 9981.82,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 9995.53,
-      "outsideTotal": -13.71,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -34672,7 +34672,7 @@
       "reportedItemizedTotal": 1105.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 1105.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -34755,7 +34755,7 @@
       "reportedItemizedTotal": 2100.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 1800.0,
-      "outsideTotal": 300.0,
+      "outsideTotal": 300,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -34817,7 +34817,7 @@
       "reportedItemizedTotal": 14390.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 10890.0,
-      "outsideTotal": 3500.0,
+      "outsideTotal": 3500,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -35061,7 +35061,7 @@
       "reportedItemizedTotal": 11360.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 10760.0,
-      "outsideTotal": 600.0,
+      "outsideTotal": 600,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -35256,7 +35256,7 @@
       "reportedItemizedTotal": 22403.82,
       "itemizedReconciliationGap": 225.0,
       "delawareTotal": 18928.82,
-      "outsideTotal": 3250.0,
+      "outsideTotal": 3250,
       "unitemizedOrOther": 225.0,
       "donors": [
         {
@@ -36752,7 +36752,7 @@
       "reportedItemizedTotal": 7800.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 4800.0,
-      "outsideTotal": 3000.0,
+      "outsideTotal": 3000,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -37256,7 +37256,7 @@
       "reportedItemizedTotal": 16165.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 16175.0,
-      "outsideTotal": -10.0,
+      "outsideTotal": 450,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -37537,7 +37537,7 @@
       "reportedItemizedTotal": 34396.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 28596.0,
-      "outsideTotal": 5800.0,
+      "outsideTotal": 6215,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -38810,7 +38810,7 @@
       "reportedItemizedTotal": 4031.2,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 4031.2,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -38900,7 +38900,7 @@
       "reportedItemizedTotal": 42920.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 39995.0,
-      "outsideTotal": 2925.0,
+      "outsideTotal": 2925,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -40362,7 +40362,7 @@
       "reportedItemizedTotal": 2400.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 2400.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -40480,7 +40480,7 @@
       "reportedItemizedTotal": 0.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 0.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [],
       "excludedRows": 0,
@@ -40513,7 +40513,7 @@
       "reportedItemizedTotal": 17860.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 17560.0,
-      "outsideTotal": 300.0,
+      "outsideTotal": 300,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -41163,7 +41163,7 @@
       "reportedItemizedTotal": 0.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 0.0,
-      "outsideTotal": 0.0,
+      "outsideTotal": 0,
       "unitemizedOrOther": 0.0,
       "donors": [],
       "excludedRows": 0,
