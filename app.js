@@ -13,7 +13,7 @@ const normalize = value => String(value ?? '').toLowerCase().normalize('NFD').re
 async function init() {
   try {
     const [response, outsideResponse] = await Promise.all([
-      fetch('data/campaign-finance.json?v=8'), fetch('data/outside-spending.json?v=8')
+      fetch('data/campaign-finance.json?v=10'), fetch('data/outside-spending.json?v=10')
     ]);
     if (!response.ok || !outsideResponse.ok) throw new Error(`Data request failed`);
     const [payload, outside] = await Promise.all([response.json(), outsideResponse.json()]);
@@ -196,7 +196,7 @@ function renderCandidate(c) {
       <div class="metric"><span>Total receipts</span><strong>${c.reportAvailable ? exactMoney(c.totalReceipts) : 'Not available'}</strong><small>${c.reportAvailable ? esc(c.reportLabel || 'Supplied 30-day general-election report') : 'No supplied report'}</small></div>
       <div class="metric"><span>Candidate loans</span><strong>${c.reportAvailable ? exactMoney(c.candidateLoans) : 'Not available'}</strong><small>Schedule D-1 loans from the candidate</small></div>
       <div class="metric"><span>Total expenditures</span><strong>${c.reportAvailable ? exactMoney(c.totalExpenditures) : 'Not available'}</strong></div>
-      <div class="metric"><span>Ending balance</span><strong>${c.reportAvailable ? exactMoney(c.endingBalance) : 'Not available'}</strong></div>
+      <div class="metric"><span>Ending balance</span><strong>${c.reportAvailable ? exactMoney(c.endingBalance) : 'Not available'}</strong>${c.endingBalanceDate ? `<small>As of ${esc(c.endingBalanceDate)}</small>` : ''}</div>
       <div class="metric outside-metric"><span>Additional Outside Spending Tied To Candidate</span><strong>${candidateOutsideDisplay}</strong>${unallocatedSupport.length ? '<small>* Additional support was reported without a candidate-level dollar amount.</small>' : ''}</div>
     </div>
     <div class="charts">
