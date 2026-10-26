@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20",
+  "generated": "2026-10-26",
   "election": "2026 General Election",
   "reportType": "30-day general-election reports",
   "candidateSource": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html",
@@ -24033,7 +24033,7 @@
         },
         {
           "date": "06/12/2026",
-          "name": "John Dâ€™Agostino",
+          "name": "John D\u00e2\u20ac\u2122Agostino",
           "address": "Selbyville, Delaware",
           "aggregate": 100.0,
           "amount": 100.0
@@ -41188,15 +41188,15 @@
       "committee": "McBride for Delaware Inc.",
       "account": "FEC C00843763",
       "reportAvailable": true,
-      "reportDate": "10/15/2026",
+      "reportDate": "10/25/2026",
       "periodStart": "01/01/2025",
-      "periodEnd": "09/30/2026",
-      "totalReceipts": 5175017.5,
+      "periodEnd": "10/23/2026",
+      "totalReceipts": 5317407.0,
       "candidateLoans": 0.0,
-      "totalExpenditures": 2482182.19,
-      "endingBalance": 2620950.39,
-      "itemizedTotal": 3765538.0,
-      "smallContributionsTotal": 1409479.5,
+      "totalExpenditures": 2891026.12,
+      "endingBalance": 2326039.16,
+      "itemizedTotal": 3869612.78,
+      "smallContributionsTotal": 1447794.22,
       "smallContributionRows": [
         {
           "date": "03/31/2025",
@@ -41261,12 +41261,20 @@
           "aggregate": 89791.15,
           "amount": 89791.15,
           "receiptType": "aggregate-fec-unitemized-contributions"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "TOTAL OF UNITEMIZED FEC CONTRIBUTIONS",
+          "address": "Location unavailable",
+          "aggregate": 38314.72,
+          "amount": 38314.72,
+          "receiptType": "aggregate-fec-unitemized-contributions"
         }
       ],
-      "reportedItemizedTotal": 3765538.0,
+      "reportedItemizedTotal": 3869612.78,
       "itemizedReconciliationGap": 0.0,
-      "delawareTotal": 871615.05,
-      "outsideTotal": 2893922.95,
+      "delawareTotal": 905963.38,
+      "outsideTotal": 2963649.4,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -150948,13 +150956,3841 @@
           "aggregate": 5000.0,
           "amount": 5000.0,
           "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Samuel Beard",
+          "address": "Wilmington, DE",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Joseph T. Conaway",
+          "address": "Georgetown, DE",
+          "aggregate": 200.0,
+          "amount": 200.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Arthur G III Connolly",
+          "address": "Wilmington, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Kathleen B Connolly",
+          "address": "Wilmington, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Lois Glading",
+          "address": "Dover, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Sarah Gore",
+          "address": "Hockessin, DE",
+          "aggregate": 2000.0,
+          "amount": 2000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Heather S. Haaga",
+          "address": "Pasadena, CA",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Paul Haaga",
+          "address": "Pasadena, CA",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Caroline Jones",
+          "address": "Newark, DE",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Kevin Kelly",
+          "address": "Wilmington, DE",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Lewis H. Lazarus",
+          "address": "Wilmington, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Ben Logan",
+          "address": "La Canada Flintridge, CA",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Virginia Sue Lunger",
+          "address": "Wilmington, DE",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "John A. Mancus",
+          "address": "Dover, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Donald Mell",
+          "address": "Wilmington, DE",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Morongo Band of Mission Indians",
+          "address": "Banning, CA",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "H. Lee Noble",
+          "address": "Ocean View, DE",
+          "aggregate": 300.0,
+          "amount": 300.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Elizabeth Purzycki",
+          "address": "Wilmington, DE",
+          "aggregate": 300.0,
+          "amount": 300.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Lee Tashjian",
+          "address": "Rockland, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Michael Weiss",
+          "address": "Wilmington, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "John Abeel",
+          "address": "Orlando, FL",
+          "aggregate": 300.0,
+          "amount": 300.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Elizabeth Abuschinow",
+          "address": "Milton, DE",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Jay Ach",
+          "address": "Ashland, OR",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Kristine Acker",
+          "address": "Bethany Beach, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Chris Anderson",
+          "address": "Dover, DE",
+          "aggregate": 2000.0,
+          "amount": 2000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Renee Anderson",
+          "address": "Wilmington, DE",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Betsy Archer",
+          "address": "New Castle, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Betsy Archer",
+          "address": "New Castle, DE",
+          "aggregate": 6.0,
+          "amount": 6.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Kevin Arnold",
+          "address": "Minneapolis, MN",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Melissa Ashabranner",
+          "address": "Washington, DC",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Jeffrey Auch",
+          "address": "Harbeson, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Rosemary Aument",
+          "address": "New Castle, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Gwendolyn Baba",
+          "address": "Los Angeles, CA",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Penni Bacheler",
+          "address": "Media, PA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Allan Bahrs",
+          "address": "Jersey City, NJ",
+          "aggregate": 35.0,
+          "amount": 35.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "J.C. Barker",
+          "address": "Wilmington, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Barbara Beal",
+          "address": "Lake Dallas, TX",
+          "aggregate": 9.0,
+          "amount": 9.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "John Beckley",
+          "address": "Wilmington, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Bob Beichner",
+          "address": "Wilmington, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Jeffrey Benedick",
+          "address": "Laguna Beach, CA",
+          "aggregate": 45.45,
+          "amount": 45.45,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Sarah Bennett",
+          "address": "Crestone, CO",
+          "aggregate": 12.0,
+          "amount": 12.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Heidi Bhutt",
+          "address": "Chicago, IL",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Lesley Birch",
+          "address": "Santa Clara, CA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Naomi Black",
+          "address": "El Cerrito, CA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Leslie Blanchard",
+          "address": "Fairfax, CA",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Suzanne Blick",
+          "address": "Sioux Falls, SD",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Suzanne Blick",
+          "address": "Sioux Falls, SD",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Brenda Blow",
+          "address": "Salem, OR",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Mary K. Bonanno",
+          "address": "Millville, DE",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Jeanne Boswell",
+          "address": "Smyrna, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Harriet Boxer",
+          "address": "East Amherst, NY",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Susan Boyce",
+          "address": "Rumson, NJ",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Katherine Boyd Nungesser",
+          "address": "New York, NY",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Anne M. Boylan",
+          "address": "Newark, DE",
+          "aggregate": 150.0,
+          "amount": 150.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Judith Bro",
+          "address": "Weehawken, NJ",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Judith Bro",
+          "address": "Weehawken, NJ",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Helen Bronston",
+          "address": "Burlingame, CA",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Kristen Browde",
+          "address": "Miami, FL",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Robin Bryson",
+          "address": "Claymont, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Judith Buchanan",
+          "address": "Richmond, VA",
+          "aggregate": 200.0,
+          "amount": 200.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Linda Butler",
+          "address": "Shelton, CT",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Sarah Buttner",
+          "address": "Newark, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Ellen Caamano",
+          "address": "Parsippany, NJ",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Caron Cadle",
+          "address": "Gainesville, FL",
+          "aggregate": 40.0,
+          "amount": 40.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Victoria Cairns",
+          "address": "Selbyville, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Patrick Callinan",
+          "address": "New York, NY",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Leslie Calman",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "James Camp",
+          "address": "Baltimore, MD",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Linda Campbell",
+          "address": "Howell, NJ",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Joyce Carnall",
+          "address": "Mt Pleasant Mills, PA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Catherine Carpenter",
+          "address": "Evanston, IL",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Patrick Carroll",
+          "address": "Wilmington, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Michael Carrozza",
+          "address": "Dover, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Michael Carrozza",
+          "address": "Dover, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Pamela Casale",
+          "address": "Lewes, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Maureen T. Cassidy",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Denis Chandler",
+          "address": "Lewes, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Michael Chapman",
+          "address": "Troy, OH",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Terrence Cheeseman",
+          "address": "Cincinnati, OH",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "William Christopher",
+          "address": "Wilmington, DE",
+          "aggregate": 90.0,
+          "amount": 90.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Elizabeth Clapham",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "David Clarke",
+          "address": "Wellington, FL",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "David Clarke",
+          "address": "Wellington, FL",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Eileen Coffee",
+          "address": "Aberdeen, MD",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Daniel M. Cole",
+          "address": "Rockland, DE",
+          "aggregate": 400.0,
+          "amount": 400.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Patrick Coleman",
+          "address": "Oakland, CA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Alicia Coll",
+          "address": "Seattle, WA",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Alan Collins",
+          "address": "Trego, MT",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Sheila Collins",
+          "address": "Seneca Falls, NY",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Sheila Collins",
+          "address": "Seneca Falls, NY",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "James Conrad",
+          "address": "Ivoryton, CT",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Carole Corcoran",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Gary Cordingley",
+          "address": "Athens, OH",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Susan Covino Buell",
+          "address": "Southwest Harbor, ME",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Sarah Crabtree",
+          "address": "Concord, NH",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Michael Crager",
+          "address": "Menlo Park, CA",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Peggy Cruder",
+          "address": "Aurora, CO",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Peggy Cruder",
+          "address": "Aurora, CO",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Peggy Cruder",
+          "address": "Aurora, CO",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Peggy Cruder",
+          "address": "Aurora, CO",
+          "aggregate": 2.0,
+          "amount": 2.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Rachel Da Silva",
+          "address": "Olympia, WA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Barbara Dantonio",
+          "address": "Goldsboro, NC",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Paul Davis",
+          "address": "Los Angeles, CA",
+          "aggregate": 4.0,
+          "amount": 4.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Katherine Davison",
+          "address": "Lewes, DE",
+          "aggregate": 290.0,
+          "amount": 290.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Margaret Debell",
+          "address": "Washington, DC",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Nachi Del Sol",
+          "address": "Teaneck, NJ",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Jay Dietrichs",
+          "address": "Portland, OR",
+          "aggregate": 30.0,
+          "amount": 30.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "David M. Dimston",
+          "address": "Alexandria, VA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "James DiPaula",
+          "address": "Palm Beach, FL",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Timothy Disney",
+          "address": "Los Angeles, CA",
+          "aggregate": 1500.0,
+          "amount": 1500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Denise Dockendorf",
+          "address": "Saint Louis, MO",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Michael Dockery",
+          "address": "Michigan City, IN",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Edward Doherty",
+          "address": "Boston, MA",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Alfred Domian",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Alexandra Du Pont",
+          "address": "Mclean, VA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Mary Dupont",
+          "address": "Milton, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Lyle Dykstra",
+          "address": "Newark, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Carleton Eastlake",
+          "address": "Beverly Hills, CA",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Christine Ebert",
+          "address": "Watersmeet, MI",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Shirley Edwards",
+          "address": "Lewes, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Sharon Epstein",
+          "address": "Chapel Hill, NC",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Lynn Evans",
+          "address": "Wilmington, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Patrick Everett",
+          "address": "Washington, DC",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Alison Eyth",
+          "address": "Morrisville, NC",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Alison Eyth",
+          "address": "Morrisville, NC",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Cynthia Farrell",
+          "address": "Lafayette Hill, PA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Cynthia Farrell",
+          "address": "Lafayette Hill, PA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Cynthia Farrell",
+          "address": "Lafayette Hill, PA",
+          "aggregate": 6.0,
+          "amount": 6.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Susan Feiner",
+          "address": "Yarmouth, ME",
+          "aggregate": 75.0,
+          "amount": 75.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Drewry N. Fennell",
+          "address": "Wilmington, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Brendan Fennessy",
+          "address": "Florence, MT",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Stephen Ferris",
+          "address": "Newport, RI",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Stephen Ferris",
+          "address": "Newport, RI",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Stephen Ferris",
+          "address": "Newport, RI",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Joanna Fiori",
+          "address": "Blawenburg, NJ",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Nina Fisher",
+          "address": "Pittsburgh, PA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Susan Fisher",
+          "address": "Fort Bragg, CA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Jennifer Fitzpatrick",
+          "address": "Mount Kisco, NY",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Robert Floe",
+          "address": "Pasadena, CA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Kathleen Folliard",
+          "address": "Frankford, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Elisabeth Fonseca",
+          "address": "New Marlborough, MA",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Campbell Forrester",
+          "address": "Laguna Woods, CA",
+          "aggregate": 51.0,
+          "amount": 51.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Stephanie Fossan",
+          "address": "La Canada Flintridge, CA",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Maria Fout",
+          "address": "Mims, FL",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Karen Fox",
+          "address": "Mountain View, CA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Catherine B. Freedberg",
+          "address": "Washington, DC",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Matthew Freedman",
+          "address": "Baltimore, MD",
+          "aggregate": 12.5,
+          "amount": 12.5,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Mark Freeman",
+          "address": "Wilmington, DE",
+          "aggregate": 11.0,
+          "amount": 11.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Sandra Freeman",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Kathleen Frey",
+          "address": "New Hope, PA",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Jessica Frye",
+          "address": "Fort Collins, CO",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "William Fuchs",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Susan Fulton",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Milana Gallen",
+          "address": "Sparks, NV",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Steve Gardepie",
+          "address": "San Diego, CA",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "John Garnett",
+          "address": "Los Angeles, CA",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Rena Geckle",
+          "address": "Bear, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Eric Geusz",
+          "address": "San Francisco, CA",
+          "aggregate": 20.25,
+          "amount": 20.25,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "David Gifford",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Mitchell Gilberg",
+          "address": "Tallahassee, FL",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Barbara Glenn",
+          "address": "Seattle, WA",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Jane Goldberg",
+          "address": "Wilmington, DE",
+          "aggregate": 1500.0,
+          "amount": 1500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Jennifer Gomez",
+          "address": "Colorado Springs, CO",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Lisa B Goodman",
+          "address": "Wilmington, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Janeanne Gorman",
+          "address": "Philadelphia, PA",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Patrick Gossett",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Diana Gould",
+          "address": "Venice, CA",
+          "aggregate": 34.0,
+          "amount": 34.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Edward Grandi",
+          "address": "Washington, DC",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Sharra Greer",
+          "address": "Washington, DC",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Jim Grigsby",
+          "address": "Ward, CO",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Christine Griswold",
+          "address": "Wilmington, DE",
+          "aggregate": 75.0,
+          "amount": 75.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Laurie Guinard",
+          "address": "Newark, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Karen Hagberg",
+          "address": "Penfield, NY",
+          "aggregate": 4.0,
+          "amount": 4.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Karen Hagberg",
+          "address": "Penfield, NY",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Marie Hagen",
+          "address": "Lewes, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Emily Haimes",
+          "address": "Wilmington, DE",
+          "aggregate": 600.0,
+          "amount": 600.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Linda Halbur",
+          "address": "Yorba Linda, CA",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Jon Hall",
+          "address": "Los Angeles, CA",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Michael Hanrahan",
+          "address": "Glen Mills, PA",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Stephen Hanzel",
+          "address": "Lewes, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Katharine Hardin",
+          "address": "Frankford, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Jane Harrah",
+          "address": "Lewes, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Jeanna Harwood",
+          "address": "Mckinney, TX",
+          "aggregate": 35.0,
+          "amount": 35.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Ted Hax",
+          "address": "Redwood City, CA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Danielle Healey",
+          "address": "Houston, TX",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Sara Heineke",
+          "address": "Rochester, MN",
+          "aggregate": 36.0,
+          "amount": 36.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Anthony Heiser",
+          "address": "Millsboro, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Harold Henderson",
+          "address": "Gainesville, FL",
+          "aggregate": 4.0,
+          "amount": 4.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Harvey Hilburgh",
+          "address": "Slate Hill, NY",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Carole Hiller",
+          "address": "Clemmons, NC",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "David Hird",
+          "address": "Naples, FL",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Steve Hirsh",
+          "address": "Studio City, CA",
+          "aggregate": 1500.0,
+          "amount": 1500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Jean Hodges",
+          "address": "Boulder, CO",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Jean Hodges",
+          "address": "Boulder, CO",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Deborah Hoffman",
+          "address": "Halifax, PA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Richard Holden",
+          "address": "Hamburg, NY",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Richard Holden",
+          "address": "Hamburg, NY",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Richard Holden",
+          "address": "Hamburg, NY",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Richard Holden",
+          "address": "Hamburg, NY",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Pamela Hollar",
+          "address": "Raleigh, NC",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Pamela Hollar",
+          "address": "Raleigh, NC",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Pamela Hollar",
+          "address": "Raleigh, NC",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Pamela Hollar",
+          "address": "Raleigh, NC",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Tina Hooton",
+          "address": "Palmer, MA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Melissa Hopkins",
+          "address": "Newark, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Richard Howard",
+          "address": "Wilmington, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Richard Howell",
+          "address": "Denver, CO",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Robyn Howton",
+          "address": "Greenville, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Jason Hudson",
+          "address": "Laurel, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Sue Hughes",
+          "address": "Madison, WI",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Michael Hunt",
+          "address": "Manchester, CT",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Michael Hunt",
+          "address": "Manchester, CT",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Linda A. Hunter",
+          "address": "Wilmington, DE",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Linda A. Hunter",
+          "address": "Wilmington, DE",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Linda A. Hunter",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Mary Huntt",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Mark Hurford",
+          "address": "Wilmington, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Dave Huting",
+          "address": "Philadelphia, PA",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Lien Huynh",
+          "address": "Renton, WA",
+          "aggregate": 34.0,
+          "amount": 34.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Batya Hyman",
+          "address": "Long Neck, DE",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "David Jaeger",
+          "address": "Lewes, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Jay Jakubowski",
+          "address": "Provincetown, MA",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Deanna Jones",
+          "address": "Hillsborough, NC",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Linda Jupin",
+          "address": "Historic New Castle, DE",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Gabriel Kajeckas",
+          "address": "Herndon, VA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Gabriel Kajeckas",
+          "address": "Herndon, VA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Gabriel Kajeckas",
+          "address": "Herndon, VA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Mary F. Kaltreider",
+          "address": "Dover, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Lori Karny",
+          "address": "Los Angeles, CA",
+          "aggregate": 18.0,
+          "amount": 18.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Lori Karny",
+          "address": "Los Angeles, CA",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Jonathan Karpf",
+          "address": "San Jose, CA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Leah Kaspar Knoll",
+          "address": "East Wallingford, VT",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Jeremy Kawachi",
+          "address": "Natick, MA",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Jeremy Kawachi",
+          "address": "Natick, MA",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Sharon Keeler",
+          "address": "Bear, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Sharon Keeler",
+          "address": "Bear, DE",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Patricia Kellen",
+          "address": "Millsboro, DE",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Marie Keller",
+          "address": "Malibu, CA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Linda M. Kent",
+          "address": "Millville, DE",
+          "aggregate": 35.0,
+          "amount": 35.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Linda M. Kent",
+          "address": "Millville, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Dave Keplinger",
+          "address": "Canal Fulton, OH",
+          "aggregate": 125.0,
+          "amount": 125.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Aman Khatwani",
+          "address": "La Canada Flintridge, CA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Sharon Klock",
+          "address": "Fairport, NY",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Lauren Knotts",
+          "address": "Baton Rouge, LA",
+          "aggregate": 20.25,
+          "amount": 20.25,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Timothy Koch",
+          "address": "Middletown, DE",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Jenene Koehler",
+          "address": "Long Beach, CA",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "James Kolb",
+          "address": "Bedford, MA",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Mary T. Kordal",
+          "address": "Lewes, DE",
+          "aggregate": 12.0,
+          "amount": 12.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Mary T. Kordal",
+          "address": "Lewes, DE",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Mary Koser",
+          "address": "Brooklyn, NY",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Guatlian C. Kreamer",
+          "address": "Newark, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Joanna Kropewnicki",
+          "address": "West Grove, PA",
+          "aggregate": 35.0,
+          "amount": 35.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Joanna Kropewnicki",
+          "address": "West Grove, PA",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Philip Kurnit",
+          "address": "Montclair, NJ",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Paula Lafollette",
+          "address": "Hockessin, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Valerie Landsburg",
+          "address": "Rockland, ME",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Eleanor Lange",
+          "address": "Manhasset, NY",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Sheryl Lankford",
+          "address": "Amarillo, TX",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Sarah Lauzen",
+          "address": "Wilmington, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Ted Lauzen",
+          "address": "Wilmington, DE",
+          "aggregate": 350.0,
+          "amount": 350.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "James Lee",
+          "address": "Houston, TX",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "John Lenz",
+          "address": "Wilmington, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Lisa Lessner",
+          "address": "Wilmington, DE",
+          "aggregate": 2026.0,
+          "amount": 2026.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Lisa Levorse",
+          "address": "Pennsauken, NJ",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Ron Lewis",
+          "address": "Selbyville, DE",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Naomi Lokoff",
+          "address": "Glenside, PA",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Susan Lore",
+          "address": "Lewes, DE",
+          "aggregate": 90.0,
+          "amount": 90.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Nancy Lorince",
+          "address": "Bedminster, NJ",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Sara Lovell",
+          "address": "Berkeley, CA",
+          "aggregate": 33.0,
+          "amount": 33.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Brendan Lucey",
+          "address": "Wilmington, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Kirk Luetkehans",
+          "address": "W Hollywood, CA",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Warren Lynn",
+          "address": "Lexington, NE",
+          "aggregate": 35.0,
+          "amount": 35.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Linda Lytle",
+          "address": "Ocean View, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Elsje MacAulay",
+          "address": "Bellingham, MA",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Tyler X. Mahy",
+          "address": "Columbia, MD",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Tyler X. Mahy",
+          "address": "Columbia, MD",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Tyler X. Mahy",
+          "address": "Columbia, MD",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Mary Maloneyhuss",
+          "address": "Wilmington, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Edward Manley",
+          "address": "Chappaqua, NY",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Marie Marley",
+          "address": "South Grafton, MA",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Melissa Martell",
+          "address": "Plainfield, CT",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Linda Maslanka",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Patricia McCarthy",
+          "address": "Lewes, DE",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Ellen McConachie",
+          "address": "Wilmington, DE",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Peggy McDevit",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Kathy McGee",
+          "address": "Lewes, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Elizabeth McGlinchey",
+          "address": "Sacramento, CA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Carol McGrath",
+          "address": "Lewes, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "K.L. McMillan",
+          "address": "San Jose, CA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Michelle McSweeney",
+          "address": "Hanover, MA",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Mary McTavish",
+          "address": "Kenmore, WA",
+          "aggregate": 60.0,
+          "amount": 60.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Stephanie Menei",
+          "address": "Townsend, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Sharon Miken",
+          "address": "Lewes, DE",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Gary Miller",
+          "address": "Harrington, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "William Mohrman",
+          "address": "Lone Tree, CO",
+          "aggregate": 33.0,
+          "amount": 33.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Helen Moore",
+          "address": "Wilmington, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Christine Moritz",
+          "address": "Wilmington, DE",
+          "aggregate": 2026.0,
+          "amount": 2026.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Alisa Morkides",
+          "address": "Wilmington, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Carol Morris",
+          "address": "Lewes, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Rachel Muir",
+          "address": "Arden, NC",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Jeff Mummert",
+          "address": "New York, NY",
+          "aggregate": 35.0,
+          "amount": 35.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "John Munroe",
+          "address": "Magnolia, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Mark Murphy",
+          "address": "Albuquerque, NM",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Shannon Murphy",
+          "address": "Annandale, VA",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Susan Nash",
+          "address": "Salinas, CA",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Kevin Neeson",
+          "address": "San Francisco, CA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Margaret Neidlinger",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Margaret Neidlinger",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Rita Nelson",
+          "address": "Millsboro, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Sharon Newell",
+          "address": "Millsboro, DE",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "John Niederlehner",
+          "address": "Mclean, VA",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Kathy O'Malley",
+          "address": "Florham Park, NJ",
+          "aggregate": 3.0,
+          "amount": 3.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Kathy O'Malley",
+          "address": "Florham Park, NJ",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Kathy O'Malley",
+          "address": "Florham Park, NJ",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Kathy O'Malley",
+          "address": "Florham Park, NJ",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Karen O'Neill Covell",
+          "address": "Syracuse, NY",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Kelly O'Rourke",
+          "address": "Oreland, PA",
+          "aggregate": 1.0,
+          "amount": 1.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Kelly O'Rourke",
+          "address": "Oreland, PA",
+          "aggregate": 1.0,
+          "amount": 1.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Marie O. Olsen Kilian",
+          "address": "Bethany Beach, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Ryan Olsen",
+          "address": "Wilmington, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Vickie Olson",
+          "address": "Georgetown, DE",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Francey Oscherwitz",
+          "address": "Evanston, IL",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Franny Osman",
+          "address": "Acton, MA",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Sandra Pace",
+          "address": "Lewes, DE",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Thomas Panetta",
+          "address": "Lewes, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Thomas Panetta",
+          "address": "Lewes, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Sara Paretsky",
+          "address": "Chicago, IL",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Jacqueline Parker",
+          "address": "Waterford, NY",
+          "aggregate": 30.0,
+          "amount": 30.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Maureen Peters",
+          "address": "Wayland, MA",
+          "aggregate": 2.5,
+          "amount": 2.5,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Janine Peterson",
+          "address": "Lakeland, FL",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Charlotte S. Phillips",
+          "address": "Dover, DE",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Kelly Phillips",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 33.0,
+          "amount": 33.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Russ Phipps",
+          "address": "Lewes, DE",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Leslie Pick",
+          "address": "Columbia, MD",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Christopher Pierson",
+          "address": "Pennington, NJ",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Peter Pileski",
+          "address": "New York, NY",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Elizabeth D. Piner",
+          "address": "Austin, TX",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Robert Pinkham",
+          "address": "Highlands Ranch, CO",
+          "aggregate": 12.5,
+          "amount": 12.5,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Laurel Powell",
+          "address": "Washington, DC",
+          "aggregate": 115.0,
+          "amount": 115.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Chris Powers",
+          "address": "Bethany Beach, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Pat Press",
+          "address": "Bear, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Claire Priester",
+          "address": "Newark, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Anna Prow",
+          "address": "Takoma Park, MD",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Terry Rahmeier",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Kathie Raisler",
+          "address": "Rockaway Beach, OR",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Christine Raitzyk",
+          "address": "Lewes, DE",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Owen Rapaport",
+          "address": "Denver, CO",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Mimi Rayl",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Laurie Reich",
+          "address": "Walnut Creek, CA",
+          "aggregate": 2.5,
+          "amount": 2.5,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "James Reid",
+          "address": "Louisville, KY",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Francs Resheske",
+          "address": "Lewes, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Carol Revak",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Patricia Richardson",
+          "address": "Greenwood, DE",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Melissa Richmond",
+          "address": "Wilmington, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Melissa Richmond",
+          "address": "Wilmington, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Allen Rickert",
+          "address": "Woodway, WA",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Allen Rickert",
+          "address": "Woodway, WA",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Susan Rishik",
+          "address": "Santa Monica, CA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Michael Ritchie",
+          "address": "Wilmington, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Paula Rogovin",
+          "address": "Teaneck, NJ",
+          "aggregate": 150.0,
+          "amount": 150.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Mary Roper",
+          "address": "Wilmington, DE",
+          "aggregate": 90.0,
+          "amount": 90.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Steven Rosch",
+          "address": "Milton, DE",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Louis Rosenthal",
+          "address": "Newtown Square, PA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Marianne Ross",
+          "address": "Lewes, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Pam Rubin",
+          "address": "Poolesville, MD",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Kay Ryan",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Eric Sallee",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Jacqueline Salmon",
+          "address": "Charlottesville, VA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Donald Salvin",
+          "address": "Gibsonia, PA",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Eldon Sanders",
+          "address": "Oregon City, OR",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Linda S. Sasser",
+          "address": "Newark, DE",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Heather Saunders",
+          "address": "Swarthmore, PA",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Janet K. Scapin",
+          "address": "Demarest, NJ",
+          "aggregate": 6.0,
+          "amount": 6.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Robert Scardino",
+          "address": "Oakland Park, FL",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Mary Schieffer",
+          "address": "Milwaukee, WI",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Susan Schmidt",
+          "address": "Boulder, CO",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Robert Schneiderman",
+          "address": "Los Angeles, CA",
+          "aggregate": 400.0,
+          "amount": 400.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Daniel Schrafel",
+          "address": "West Hempstead, NY",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Peggy Schultz",
+          "address": "Newark, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Allie Secor",
+          "address": "Hillsboro, KY",
+          "aggregate": 35.0,
+          "amount": 35.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Donna Shand",
+          "address": "Wilmington, DE",
+          "aggregate": 180.0,
+          "amount": 180.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Marjorie Shannon",
+          "address": "Milton, DE",
+          "aggregate": 90.0,
+          "amount": 90.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Barbara Shepherd",
+          "address": "Easton, PA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Harry Shewbrooks",
+          "address": "Historic New Castle, DE",
+          "aggregate": 20.25,
+          "amount": 20.25,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Robbin Shoemaker",
+          "address": "Bradenton, FL",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Kenneth Sigvardson",
+          "address": "Ocean View, DE",
+          "aggregate": 75.0,
+          "amount": 75.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Stephen Silver",
+          "address": "Kennett Square, PA",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Jennifer Simonds",
+          "address": "Redmond, WA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Elaine H. Singleton",
+          "address": "Wilmington, DE",
+          "aggregate": 2475.0,
+          "amount": 2475.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Dana Smith",
+          "address": "Ventura, CA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Debin Smith",
+          "address": "Fort Lauderdale, FL",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Gregory Smith",
+          "address": "Bellingham, WA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Jeanne Smith",
+          "address": "Bloomington, IN",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "William Speenburgh",
+          "address": "Lewes, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Helen Stein",
+          "address": "Chapel Hill, NC",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Jody Stein",
+          "address": "Dover, DE",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Gregory Stephens",
+          "address": "Lewes, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Norman Steward",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Michael Stosser",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Christine Sudell",
+          "address": "Wilmington, DE",
+          "aggregate": 150.0,
+          "amount": 150.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Elissa Sullivan",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Debra Sutphen",
+          "address": "Rocklin, CA",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Debra Sutphen",
+          "address": "Rocklin, CA",
+          "aggregate": 33.0,
+          "amount": 33.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "John Sykes",
+          "address": "Seattle, WA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Claire E. Sylves",
+          "address": "Newark, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Frank P. Tarney",
+          "address": "Boca Raton, FL",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Emily Taylor",
+          "address": "Brookhaven, GA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Emily Taylor",
+          "address": "Brookhaven, GA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Courtney Tedrowe",
+          "address": "Chicago, IL",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Matthew Temple",
+          "address": "Needham Heights, MA",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Barbara Tenney",
+          "address": "Milton, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Barbara Tenney",
+          "address": "Milton, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Sandra Tepper",
+          "address": "Lake Worth, FL",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Linda Thomas",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Theresa Thorn",
+          "address": "Los Angeles, CA",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Yvonne Ting",
+          "address": "Hockessin, DE",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Diane Torres",
+          "address": "Hillsborough, CA",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Diane Torres",
+          "address": "Hillsborough, CA",
+          "aggregate": 2.5,
+          "amount": 2.5,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Susan Towne",
+          "address": "Austin, TX",
+          "aggregate": 24.0,
+          "amount": 24.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Nicholas Trincia",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Alan Tull",
+          "address": "Austin, TX",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Kate Tullis",
+          "address": "Wilmington, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Pamela Tuohy",
+          "address": "Yardley, PA",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Peter Tuschak",
+          "address": "Wilmington, DE",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Stephanie Tuttle",
+          "address": "Ocean View, DE",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Janice Tyson",
+          "address": "Frankford, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Wendy Urbanowicz",
+          "address": "Vancouver, WA",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Linda Valli",
+          "address": "Silver Spring, MD",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Charles Van Beke",
+          "address": "Knoxville, TN",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Ingrid Van Eckert",
+          "address": "Santa Monica, CA",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Inese Verzemnieks",
+          "address": "Westminster, CO",
+          "aggregate": 30.0,
+          "amount": 30.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Joan Vodar",
+          "address": "Milton, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Mary Vogel",
+          "address": "Silver Spring, MD",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Elizabeth Volk",
+          "address": "Ocean View, DE",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "William Waggener",
+          "address": "Stone Mountain, GA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "William Waggener",
+          "address": "Stone Mountain, GA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Bridget Waitkus",
+          "address": "Mendon, MA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Jesse Walter",
+          "address": "Millsboro, DE",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Jesse Walter",
+          "address": "Millsboro, DE",
+          "aggregate": 20.26,
+          "amount": 20.26,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Brian Warnock",
+          "address": "Frankford, DE",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Prentice Watkins",
+          "address": "Harbeson, DE",
+          "aggregate": 125.0,
+          "amount": 125.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "William Watson",
+          "address": "Hockessin, DE",
+          "aggregate": 32.0,
+          "amount": 32.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Barbara Weatherly",
+          "address": "Lewes, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Lily Weaver",
+          "address": "Soquel, CA",
+          "aggregate": 150.0,
+          "amount": 150.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Steven Webb",
+          "address": "Middletown, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "George Weigel",
+          "address": "Wilmington, DE",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Ellie Weinstein",
+          "address": "Harrisburg, PA",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Charles Wellard",
+          "address": "Lewes, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Nanette Westerman",
+          "address": "Seattle, WA",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Sally Wheeler",
+          "address": "Palm Bay, FL",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Constance Wilkins",
+          "address": "Pelham, MA",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Constance Wilkins",
+          "address": "Pelham, MA",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Constance Wilkins",
+          "address": "Pelham, MA",
+          "aggregate": 36.0,
+          "amount": 36.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "David Willner",
+          "address": "Upper Montclair, NJ",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "David Willner",
+          "address": "Upper Montclair, NJ",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Dave Windley",
+          "address": "Windsor Mill, MD",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Thomas Wirshup",
+          "address": "Portland, OR",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Jin Worthington",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Tom Yanger",
+          "address": "Lincoln, CA",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Gabriel Yoder",
+          "address": "Plentywood, MT",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Thomas Youngblood",
+          "address": "Gaithersburg, MD",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Thomas Youngblood",
+          "address": "Gaithersburg, MD",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Sandra Zlokower",
+          "address": "Hartford, CT",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Air Line Pilots Association PAC",
+          "address": "Mclean, VA",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Amalgamated Transit Union - COPE",
+          "address": "Silver Spring, MD",
+          "aggregate": 5000.0,
+          "amount": 5000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "AFL-CIO Committee on Political Education American Federation of Teachers",
+          "address": "Washington, DC",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "American Network of Community Options and Resources Disability Champions PAC",
+          "address": "Washington, DC",
+          "aggregate": 2666.66,
+          "amount": 2666.66,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "American Physical Therapy Association Physical Therapy Political Action Committee (PT-PAC)",
+          "address": "Alexandria, VA",
+          "aggregate": 2000.0,
+          "amount": 2000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Employees of Northrop Grumman (ENGPAC)",
+          "address": "Falls Church, VA",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Engineers Political Education Committee/ International Union of Operating Engineers",
+          "address": "Washington, DC",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "International Association of Fire Fighters Interested in Registration and Education PAC",
+          "address": "Washington, DC",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "National Emergency Medicine PAC / American College of Emergency Physicians",
+          "address": "Irving, TX",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Inc. Political Action Committee Oracle America",
+          "address": "Washington, DC",
+          "aggregate": 1500.0,
+          "amount": 1500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Teachers Insurance Annuity Association of America PAC (TIAA PAC)",
+          "address": "Washington, DC",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Wakefern Food Corp. Political Action Committee",
+          "address": "Edison, NJ",
+          "aggregate": 4000.0,
+          "amount": 4000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/22/2026",
+          "name": "American Association of Nurse Anesthetists Separate Segregated Fund (CRNA-PAC)",
+          "address": "Rosemont, IL",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610249945201340.pdf"
+        },
+        {
+          "date": "10/22/2026",
+          "name": "The Chemours PAC",
+          "address": "Washington, DC",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610249945201340.pdf"
+        },
+        {
+          "date": "10/23/2026",
+          "name": "Friends For Hansen",
+          "address": "Middletown, DE",
+          "aggregate": 1200.0,
+          "amount": 1200.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610259945203131.pdf"
         }
       ],
       "excludedRows": 0,
-      "sourceFile": "McBride April 2025.pdf; McBride July 2025.pdf; McBride Oct 2025.pdf; McBride 2025.pdf; McBride April 2026.pdf; McBride July 2026.pdf; McBride Aug 2026.pdf; McBride Oct 2026.pdf",
-      "reportLabel": "Federal Election Commission reports",
+      "sourceFile": "McBride April 2025.pdf; McBride July 2025.pdf; McBride Oct 2025.pdf; McBride 2025.pdf; McBride April 2026.pdf; McBride July 2026.pdf; McBride Aug 2026.pdf; McBride Oct 2026.pdf; 202610229940946553.pdf; 202610249945201340.pdf; 202610249945201340.pdf; 202610259945203131.pdf",
+      "reportLabel": "Federal Election Commission reports and 48-hour notices",
       "reportJurisdiction": "Federal Election Commission",
-      "locationChartNote": "Based on mailing addresses for itemized FEC contributions; unitemized federal contributions are excluded from this location chart."
+      "locationChartNote": "Based on mailing addresses for itemized FEC contributions; unitemized federal contributions are excluded from this location chart.",
+      "endingBalanceDate": "10/14/2026"
     },
     {
       "office": "Representative in Congress",
@@ -151095,7 +154931,8 @@
       "sourceFile": "Arminio July 2026.pdf; Arminio Oct 2026.pdf",
       "reportLabel": "Federal Election Commission reports",
       "reportJurisdiction": "Federal Election Commission",
-      "locationChartNote": "Based on mailing addresses for itemized FEC contributions; unitemized federal contributions are excluded from this location chart."
+      "locationChartNote": "Based on mailing addresses for itemized FEC contributions; unitemized federal contributions are excluded from this location chart.",
+      "endingBalanceDate": "09/30/2026"
     },
     {
       "office": "U.S. Senator",
@@ -151110,15 +154947,15 @@
       "committee": "Chris Coons for Delaware",
       "account": "FEC C00475392",
       "reportAvailable": true,
-      "reportDate": "10/15/2026",
+      "reportDate": "10/25/2026",
       "periodStart": "01/01/2025",
-      "periodEnd": "09/30/2026",
-      "totalReceipts": 3725318.18,
+      "periodEnd": "10/22/2026",
+      "totalReceipts": 3849047.89,
       "candidateLoans": 0.0,
-      "totalExpenditures": 1854863.22,
-      "endingBalance": 5016223.68,
-      "itemizedTotal": 3658594.64,
-      "smallContributionsTotal": 66723.54,
+      "totalExpenditures": 1956631.0,
+      "endingBalance": 5031711.21,
+      "itemizedTotal": 3779431.64,
+      "smallContributionsTotal": 69616.25,
       "smallContributionRows": [
         {
           "date": "03/31/2025",
@@ -151183,12 +155020,20 @@
           "aggregate": 6548.81,
           "amount": 6548.81,
           "receiptType": "aggregate-fec-unitemized-contributions"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "TOTAL OF UNITEMIZED FEC CONTRIBUTIONS",
+          "address": "Location unavailable",
+          "aggregate": 2892.71,
+          "amount": 2892.71,
+          "receiptType": "aggregate-fec-unitemized-contributions"
         }
       ],
-      "reportedItemizedTotal": 3658594.64,
+      "reportedItemizedTotal": 3779431.64,
       "itemizedReconciliationGap": 0.0,
-      "delawareTotal": 335010.3,
-      "outsideTotal": 3323584.34,
+      "delawareTotal": 342093.3,
+      "outsideTotal": 3437338.34,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -183614,13 +187459,1000 @@
           "aggregate": 2500.0,
           "amount": 2500.0,
           "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Stephanie McBride",
+          "address": "Newark, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Geraldine J. Jones",
+          "address": "Dover, DE",
+          "aggregate": 4.0,
+          "amount": 4.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Zack Sikes",
+          "address": "Edmond, OK",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Emily Q. Wang",
+          "address": "Philadelphia, PA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Samantha Tov",
+          "address": "Sacramento, CA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Gregory Renfrow",
+          "address": "Memphis, TN",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Jamesha Norwood",
+          "address": "Indianapolis, IN",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Barry Lasala",
+          "address": "Washington, DC",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "John Arnold",
+          "address": "Houston, TX",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Patti McKelvey",
+          "address": "Wilmington, DE",
+          "aggregate": 200.0,
+          "amount": 200.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "William Kelly",
+          "address": "Wilmington, DE",
+          "aggregate": 30.0,
+          "amount": 30.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Catherine L. Spence",
+          "address": "Newark, DE",
+          "aggregate": 150.0,
+          "amount": 150.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "John Cocco",
+          "address": "Newark, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Richard Howard",
+          "address": "Wilmington, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Kathleen Folliard",
+          "address": "Frankford, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Kit Hale",
+          "address": "Roanoke, VA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Emily Q. Wang",
+          "address": "Philadelphia, PA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Jose E. Fernandez",
+          "address": "San Juan, PR",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Bruce Ailion",
+          "address": "Marietta, GA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Corwyn Melette",
+          "address": "Summerville, SC",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Elyse Moore",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Peter Horty",
+          "address": "Wilmington, DE",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "William Dudley",
+          "address": "Easton, MD",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Laurie Williams",
+          "address": "Newark, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Cynthia Smith",
+          "address": "Malvern, PA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Jason Pincomb",
+          "address": "Worcester, MA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Christopher Johnson",
+          "address": "Ellenwood, GA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Renee Cooney",
+          "address": "Franklin, NC",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Maurice Taylor",
+          "address": "North Little Rock, AR",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Anne Canby",
+          "address": "Wilmington, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Mary MaloneyHuss",
+          "address": "Wilmington, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Janice Hyland",
+          "address": "Magnolia, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Philip Syng Reese",
+          "address": "Wilmington, DE",
+          "aggregate": 3600.0,
+          "amount": 3600.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Steven Lamm",
+          "address": "Berkeley Springs, WV",
+          "aggregate": 9.0,
+          "amount": 9.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Helen Moore",
+          "address": "Wilmington, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Walauddin Hoosein",
+          "address": "Elmont, NY",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Carole Maclure",
+          "address": "Olney, MD",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Charles Bellock",
+          "address": "Boulder, CO",
+          "aggregate": 2000.0,
+          "amount": 2000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Ricardo Rivera",
+          "address": "Elk Grove, CA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Lauren Harkins Wiuff",
+          "address": "Memphis, TN",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Wesley Blickenstaff",
+          "address": "Lewes, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "William Moore",
+          "address": "Wilmington, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Jane Goldberg",
+          "address": "Wilmington, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "James Moreno",
+          "address": "Battle Creek, MI",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Laurie Williams",
+          "address": "Newark, DE",
+          "aggregate": 6.0,
+          "amount": 6.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Dawn Carpenter",
+          "address": "Staten Island, NY",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Karl Lee",
+          "address": "San Jose, CA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Jean Deetz",
+          "address": "Somers, MT",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Michael Kessinger",
+          "address": "Toledo, OR",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Linda Pike",
+          "address": "Bethany Beach, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Lyle J. Dykstra",
+          "address": "Newark, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Donna Guretsky",
+          "address": "Newark, DE",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Larry Caroff",
+          "address": "Sunnyvale, CA",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "David Kneip",
+          "address": "Brookings, SD",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Amanda Parmer",
+          "address": "Wilmington, NC",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Pauline Lam",
+          "address": "Alhambra, CA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Asa Fleming",
+          "address": "Raleigh, NC",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "David Gifford",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Joyce Hart",
+          "address": "Portland, OR",
+          "aggregate": 25.0,
+          "amount": 25.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Julio Bragagnolo",
+          "address": "Wilmington, DE",
+          "aggregate": 23.0,
+          "amount": 23.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Maggie Tomkiewicz",
+          "address": "New Bedford, MA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "John Gormley",
+          "address": "Downers Grove, IL",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Pauline Lam",
+          "address": "Alhambra, CA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "09/28/2026",
+          "name": "Steven Demby",
+          "address": "Denver, CO",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Eugene Somma",
+          "address": "Magnolia, DE",
+          "aggregate": 100.0,
+          "amount": 100.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Peter J. Keenan",
+          "address": "Selbyville, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Karen Dettwyler",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/10/2026",
+          "name": "John Hiraoka",
+          "address": "Honolulu, HI",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "09/28/2026",
+          "name": "Joel Appel",
+          "address": "Denver, CO",
+          "aggregate": 2000.0,
+          "amount": 2000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Raj Singh",
+          "address": "Carmichael, CA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Kristy W. Pennington",
+          "address": "Tucker, GA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Sanjay Wagle",
+          "address": "Folsom, CA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Marc Berman",
+          "address": "Chicago, IL",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "09/29/2026",
+          "name": "Leland Alpert",
+          "address": "Cherry Hills Village, CO",
+          "aggregate": 2000.0,
+          "amount": 2000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Patricia DeVoll",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 80.0,
+          "amount": 80.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "James Moreno",
+          "address": "Battle Creek, MI",
+          "aggregate": 15.0,
+          "amount": 15.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "David Gifford",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "Roger Walker",
+          "address": "Newark, DE",
+          "aggregate": 20.0,
+          "amount": 20.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Robert George",
+          "address": "Avondale, PA",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Charles Oppler",
+          "address": "Oakland, NJ",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Sarah Ware",
+          "address": "Chicago, IL",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Sharla Lau",
+          "address": "Fort Smith, AR",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Maurice Taylor",
+          "address": "North Little Rock, AR",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Lester Munson",
+          "address": "Alexandria, VA",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Stephen Achuff",
+          "address": "Lutherville Timonium, MD",
+          "aggregate": 50.0,
+          "amount": 50.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Sam Nunn",
+          "address": "Atlanta, GA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Delores B. McLamb",
+          "address": "Bear, DE",
+          "aggregate": 5.0,
+          "amount": 5.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Robert Abernethy",
+          "address": "Redondo Beach, CA",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "John Hiraoka",
+          "address": "Honolulu, HI",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Jacqueline Herbst",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Chad Fincher",
+          "address": "Mobile, AL",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Vanessa Dirks",
+          "address": "Lubbock, TX",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Deborah Trey",
+          "address": "Kingsland, GA",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Maurice Taylor",
+          "address": "North Little Rock, AR",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/03/2026",
+          "name": "Scott Eisner",
+          "address": "Washington, DC",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Dean Vilone",
+          "address": "Wilmington, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Donald Dempsey",
+          "address": "Wilmington, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Valerie Kratunis",
+          "address": "Hockessin, DE",
+          "aggregate": 10.0,
+          "amount": 10.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Technology Network (TechNet) Federal PAC",
+          "address": "Burlingame, CA",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "American Waterways Operators PAC",
+          "address": "Arlington, VA",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Small Business Investor Alliance PAC",
+          "address": "Washington, DC",
+          "aggregate": 5000.0,
+          "amount": 5000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Corning Incorporated Employees Political Action Committee (COREPAC)",
+          "address": "Washington, DC",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Strong Floor No Ceiling Action PAC",
+          "address": "Washington, DC",
+          "aggregate": 2000.0,
+          "amount": 2000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)",
+          "address": "Reston, VA",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "American Seniors Housing Association (Seniors Housing PAC)",
+          "address": "Washington, DC",
+          "aggregate": 5000.0,
+          "amount": 5000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "MetLife Inc. Employees' Political Participation Fund A - Federal Only",
+          "address": "New York, NY",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "GE Vernova Inc. Political Action Committee",
+          "address": "Washington, DC",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Celanese Corporation Political Action Committee",
+          "address": "Irving, TX",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Rocket Lab Corporation Political Action Committee (Rocket Lab PAC)",
+          "address": "Long Beach, CA",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Phillips 66 PAC",
+          "address": "Washington, DC",
+          "aggregate": 5000.0,
+          "amount": 5000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Honeywell Aerospace US LLC Public Affairs Council (HONA PAC)",
+          "address": "Washington, DC",
+          "aggregate": 5000.0,
+          "amount": 5000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Broadcom Inc. Political Action Committee (Broadcom PAC)",
+          "address": "San Jose, CA",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "CHS Inc. Political Action Committee",
+          "address": "Inver Grove Heights, MN",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Microsoft Corporation Stakeholders Voluntary PAC - MSVPAC",
+          "address": "Redmond, WA",
+          "aggregate": 5000.0,
+          "amount": 5000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Blackrock Funds Services Group LLC Political Action Committee",
+          "address": "New York, NY",
+          "aggregate": 5000.0,
+          "amount": 5000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/09/2026",
+          "name": "LMI Consulting Political Action Committee",
+          "address": "Tysons, VA",
+          "aggregate": 5000.0,
+          "amount": 5000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "31st Democratic District Committee",
+          "address": "Dover, DE",
+          "aggregate": 110.0,
+          "amount": 110.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Hoops PAC",
+          "address": "Portland, OR",
+          "aggregate": 5000.0,
+          "amount": 5000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Inc Political Action Committee S. C. Johnson & Son",
+          "address": "Racine, WI",
+          "aggregate": 2000.0,
+          "amount": 2000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Wakefern Food Corp. Political Action Committee",
+          "address": "Edison, NJ",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Fraternity & Sorority Political Action Committee",
+          "address": "Washington, DC",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/22/2026",
+          "name": "Finseca PAC",
+          "address": "Washington, DC",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610249945201275.pdf"
+        },
+        {
+          "date": "10/22/2026",
+          "name": "Machinists Non Partisan Political League of the International Association of Machinists & Aerospace Workers",
+          "address": "Upper Marlboro, MD",
+          "aggregate": 5000.0,
+          "amount": 5000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610249945201275.pdf"
         }
       ],
       "excludedRows": 0,
-      "sourceFile": "Coons April 2025.pdf; Coons July 2025.pdf; Coons Oct 2025.pdf; Coons 2025 Annual.pdf; Coons April 2026.pdf; Coons July 2026.pdf; Coons Prelim 2026.pdf; Coons Oct 2026.pdf",
-      "reportLabel": "Federal Election Commission reports",
+      "sourceFile": "Coons April 2025.pdf; Coons July 2025.pdf; Coons Oct 2025.pdf; Coons 2025 Annual.pdf; Coons April 2026.pdf; Coons July 2026.pdf; Coons Prelim 2026.pdf; Coons Oct 2026.pdf; 202610229940935637.pdf; 202610249945201275.pdf; 202610249945201275.pdf",
+      "reportLabel": "Federal Election Commission reports and 48-hour notices",
       "reportJurisdiction": "Federal Election Commission",
-      "locationChartNote": "Based on mailing addresses for itemized FEC contributions; unitemized federal contributions are excluded from this location chart."
+      "locationChartNote": "Based on mailing addresses for itemized FEC contributions; unitemized federal contributions are excluded from this location chart.",
+      "endingBalanceDate": "10/14/2026"
     },
     {
       "office": "U.S. Senator",
@@ -183635,15 +188467,15 @@
       "committee": "Dr. Mike Katz for U.S. Senate",
       "account": "FEC C00935163",
       "reportAvailable": true,
-      "reportDate": "10/15/2026",
+      "reportDate": "10/22/2026",
       "periodStart": "01/01/2026",
-      "periodEnd": "09/30/2026",
-      "totalReceipts": 47397.12,
+      "periodEnd": "10/14/2026",
+      "totalReceipts": 61166.12,
       "candidateLoans": 129250.0,
-      "totalExpenditures": 159972.06,
-      "endingBalance": 16675.06,
-      "itemizedTotal": 38720.52,
-      "smallContributionsTotal": 8676.6,
+      "totalExpenditures": 174331.53,
+      "endingBalance": 16084.59,
+      "itemizedTotal": 50392.52,
+      "smallContributionsTotal": 10773.6,
       "smallContributionRows": [
         {
           "date": "03/31/2026",
@@ -183676,12 +188508,20 @@
           "aggregate": 2978.33,
           "amount": 2978.33,
           "receiptType": "aggregate-fec-unitemized-contributions"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "TOTAL OF UNITEMIZED FEC CONTRIBUTIONS",
+          "address": "Location unavailable",
+          "aggregate": 2097.0,
+          "amount": 2097.0,
+          "receiptType": "aggregate-fec-unitemized-contributions"
         }
       ],
-      "reportedItemizedTotal": 38720.52,
+      "reportedItemizedTotal": 50392.52,
       "itemizedReconciliationGap": 0.0,
-      "delawareTotal": 33720.52,
-      "outsideTotal": 5000.0,
+      "delawareTotal": 45142.52,
+      "outsideTotal": 5250.0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -184091,13 +188931,158 @@
           "aggregate": 0.52,
           "amount": 0.52,
           "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Bernadette Deseta Buccini",
+          "address": "Wilmington, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Marianne Drew",
+          "address": "Bethany Beach, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Lawrence A Goff",
+          "address": "Newark, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Henry C Mccann",
+          "address": "Milford, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Benjamin F Jr Rizzo",
+          "address": "New Castle, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/01/2026",
+          "name": "Vincent Baffone",
+          "address": "Newark, DE",
+          "aggregate": 520.0,
+          "amount": 520.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/02/2026",
+          "name": "Francis G Pileggi",
+          "address": "Malvern, PA",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/04/2026",
+          "name": "Mary Cool",
+          "address": "Wilmington, DE",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Chai Gadde",
+          "address": "Wilmington, DE",
+          "aggregate": 1032.0,
+          "amount": 1032.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Hal Kenton",
+          "address": "Wilmington, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/06/2026",
+          "name": "Dominic Papa",
+          "address": "Hockessin, DE",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Mark Rizzo",
+          "address": "New Castle, DE",
+          "aggregate": 520.0,
+          "amount": 520.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Mary Mccrossan",
+          "address": "Wilmington, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/08/2026",
+          "name": "David Murray",
+          "address": "Wilmington, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Joan Adelman",
+          "address": "Wilmington, DE",
+          "aggregate": 500.0,
+          "amount": 500.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Anthony Caronia",
+          "address": "Milton, DE",
+          "aggregate": 600.0,
+          "amount": 600.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Louis Chan",
+          "address": "Bear, DE",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission"
+        },
+        {
+          "date": "10/12/2026",
+          "name": "John Dupont",
+          "address": "Wilmington, DE",
+          "aggregate": 250.0,
+          "amount": 250.0,
+          "source": "Federal Election Commission"
         }
       ],
       "excludedRows": 0,
-      "sourceFile": "Katz August.pdf; Katz July.pdf; Katz Prelim.pdf; Katz October.pdf",
+      "sourceFile": "Katz August.pdf; Katz July.pdf; Katz Prelim.pdf; Katz October.pdf; 202610229945116949.pdf",
       "reportLabel": "Federal Election Commission reports",
       "reportJurisdiction": "Federal Election Commission",
-      "locationChartNote": "Based on mailing addresses for itemized FEC contributions; unitemized federal contributions are excluded from this location chart."
+      "locationChartNote": "Based on mailing addresses for itemized FEC contributions; unitemized federal contributions are excluded from this location chart.",
+      "endingBalanceDate": "10/14/2026"
     }
   ],
   "unmatchedCandidateReports": [
