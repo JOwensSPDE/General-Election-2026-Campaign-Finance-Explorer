@@ -571,8 +571,11 @@ def outside_dataset(pdf_dir: Path, candidate_payload: dict) -> dict:
             group["unallocatedCandidateSupport"] = [
                 by_name[name]["id"] for name in COMMON_GROUND_UNALLOCATED_SUPPORT
             ]
+            unallocated_amount = round(
+                group["reportedExpenditures"] - group["candidateAttributed"], 2
+            )
             group["unallocatedSupportNote"] = (
-                "The filings name six candidates in grouped expenditures totaling $75,032.20 "
+                f"The filings name supported candidates in grouped expenditures totaling ${unallocated_amount:,.2f} "
                 "but do not provide candidate-level amounts."
             )
     groups.sort(key=lambda g: (g["entityType"], g["organization"]))

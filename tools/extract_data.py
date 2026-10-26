@@ -267,7 +267,9 @@ def extract(pdf: Path) -> dict:
         if is_small_contributions_total(d["name"])
         or re.search(r"\bDelaware\b", d["address"], re.I)
     ), 2)
-    out_state = round(itemized - in_state, 2)
+    # Small-contribution subtotals are added to Delaware but are not part of
+    # the itemized donor sum, so do not subtract them from out-of-state gifts.
+    out_state = round(itemized - (in_state - small_contributions), 2)
     for donor in donors:
         if is_small_contributions_total(donor["name"]):
             donor["name"] = SMALL_CONTRIBUTIONS_LABEL

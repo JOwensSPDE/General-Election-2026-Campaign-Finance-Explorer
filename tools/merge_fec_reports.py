@@ -149,6 +149,14 @@ REPORTS = {
             ("McBride Aug 2026.pdf", "07/01/2026", "08/26/2026"),
             ("McBride Oct 2026.pdf", "08/27/2026", "09/30/2026"),
         ],
+        "updateFiles": [
+            ("202610229940946553.pdf", "10/01/2026", "10/14/2026"),
+        ],
+        "notices": [
+            {"sourceFile": "202610249945201340.pdf", "date": "10/22/2026", "name": "American Association of Nurse Anesthetists Separate Segregated Fund (CRNA-PAC)", "address": "Rosemont, IL", "amount": 2500.00},
+            {"sourceFile": "202610249945201340.pdf", "date": "10/22/2026", "name": "The Chemours PAC", "address": "Washington, DC", "amount": 2500.00},
+            {"sourceFile": "202610259945203131.pdf", "date": "10/23/2026", "name": "Friends For Hansen", "address": "Middletown, DE", "amount": 1200.00},
+        ],
     },
     "us-house-joseph-dr-joe-arminio": {
         "committee": "Citizens for Joe Arminio",
@@ -167,6 +175,9 @@ REPORTS = {
             ("Katz Prelim.pdf", "07/01/2026", "08/26/2026"),
             ("Katz October.pdf", "08/27/2026", "09/30/2026"),
         ],
+        "updateFiles": [
+            ("202610229945116949.pdf", "10/01/2026", "10/14/2026"),
+        ],
     },
     "us-sen-chris-coons": {
         "committee": "Chris Coons for Delaware",
@@ -181,11 +192,18 @@ REPORTS = {
             ("Coons Prelim 2026.pdf", "07/01/2026", "08/26/2026"),
             ("Coons Oct 2026.pdf", "08/27/2026", "09/30/2026"),
         ],
+        "updateFiles": [
+            ("202610229940935637.pdf", "10/01/2026", "10/14/2026"),
+        ],
+        "notices": [
+            {"sourceFile": "202610249945201275.pdf", "date": "10/22/2026", "name": "Finseca PAC", "address": "Washington, DC", "amount": 1000.00},
+            {"sourceFile": "202610249945201275.pdf", "date": "10/22/2026", "name": "Machinists Non Partisan Political League of the International Association of Machinists & Aerospace Workers", "address": "Upper Marlboro, MD", "amount": 5000.00},
+        ],
     },
 }
 
 
-def merge(dataset: dict, katz_dir: Path, coons_dir: Path, house_dir: Path) -> dict:
+def merge(dataset: dict, katz_dir: Path, coons_dir: Path, house_dir: Path, update_dir: Path) -> dict:
     directories = {
         "us-sen-michael-dr-mike-katz": katz_dir,
         "us-sen-chris-coons": coons_dir,
@@ -198,8 +216,10 @@ def merge(dataset: dict, katz_dir: Path, coons_dir: Path, house_dir: Path) -> di
         totals = []
         donors = []
         small_rows = []
-        for filename, start, end in config["files"]:
-            path = directories[candidate_id] / filename
+        full_reports = config["files"] + config.get("updateFiles", [])
+        update_names = {filename for filename, _, _ in config.get("updateFiles", [])}
+        for filename, start, end in full_reports:
+            path = (update_dir if filename in update_names else directories[candidate_id]) / filename
             report = summary(path)
             report.update({"filename": filename, "start": start, "end": end})
             totals.append(report)
@@ -213,15 +233,23 @@ def merge(dataset: dict, katz_dir: Path, coons_dir: Path, house_dir: Path) -> di
                     "amount": report["unitemized"],
                     "receiptType": "aggregate-fec-unitemized-contributions",
                 })
-        contribution_total = round(sum(report["contributions"] for report in totals), 2)
+        notice_rows = [{
+            "date": row["date"], "name": row["name"], "address": row["address"],
+            "aggregate": row["amount"], "amount": row["amount"],
+            "source": "Federal Election Commission 48-hour notice",
+            "sourceFile": row["sourceFile"],
+        } for row in config.get("notices", [])]
+        donors.extend(notice_rows)
+        notice_total = round(sum(row["amount"] for row in notice_rows), 2)
+        contribution_total = round(sum(report["contributions"] for report in totals) + notice_total, 2)
         displayed_total = round(sum(row["amount"] for row in donors + small_rows), 2)
         gap = round(contribution_total - displayed_total, 2)
         candidate.update({
             "committee": config["committee"],
             "account": config["account"],
-            "reportDate": "10/15/2026",
-            "periodStart": config["files"][0][1],
-            "periodEnd": config["files"][-1][2],
+            "reportDate": "10/25/2026" if notice_rows else "10/22/2026" if config.get("updateFiles") else "10/15/2026",
+            "periodStart": full_reports[0][1],
+            "periodEnd": notice_rows[-1]["date"] if notice_rows else full_reports[-1][2],
             "totalReceipts": contribution_total,
             "candidateLoans": round(sum(report["candidateLoans"] for report in totals), 2),
             "totalExpenditures": round(sum(report["expenditures"] for report in totals), 2),
@@ -236,20 +264,21 @@ def merge(dataset: dict, katz_dir: Path, coons_dir: Path, house_dir: Path) -> di
             "unitemizedOrOther": gap,
             "donors": donors,
             "excludedRows": 0,
-            "sourceFile": "; ".join(filename for filename, _, _ in config["files"]),
+            "sourceFile": "; ".join([filename for filename, _, _ in full_reports] + [row["sourceFile"] for row in config.get("notices", [])]),
             "reportAvailable": True,
-            "reportLabel": "Federal Election Commission reports",
+            "reportLabel": "Federal Election Commission reports and 48-hour notices" if notice_rows else "Federal Election Commission reports",
             "reportJurisdiction": "Federal Election Commission",
             "locationChartNote": "Based on mailing addresses for itemized FEC contributions; unitemized federal contributions are excluded from this location chart.",
+            "endingBalanceDate": totals[-1]["end"],
         })
     dataset["generated"] = datetime.now().date().isoformat()
     return dataset
 
 
 def main():
-    source, katz_dir, coons_dir, house_dir, output = map(Path, sys.argv[1:6])
+    source, katz_dir, coons_dir, house_dir, update_dir, output = map(Path, sys.argv[1:7])
     dataset = json.loads(source.read_text())
-    result = merge(dataset, katz_dir, coons_dir, house_dir)
+    result = merge(dataset, katz_dir, coons_dir, house_dir, update_dir)
     output.write_text(json.dumps(result, indent=2) + "\n")
     for candidate_id in REPORTS:
         candidate = next(c for c in result["candidates"] if c["id"] == candidate_id)
