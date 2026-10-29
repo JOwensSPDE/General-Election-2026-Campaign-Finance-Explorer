@@ -112,8 +112,8 @@ def main() -> None:
     current["candidates"].sort(key=lambda c: (c["race"], c["candidate"]))
     current["generated"] = datetime.now().date().isoformat()
     current["candidateCoverage"] = (
-        "Supplied 2025 annual, 2026 30-day primary and 2026 8-day primary reports, "
-        "combined only across non-overlapping reporting periods"
+        "Supplied 2025 annual and applicable 2026 Delaware pre-election reports, "
+        "plus applicable federal reports; state periods are combined only when non-overlapping."
     )
     output_path.write_text(json.dumps(current, indent=2), encoding="utf-8")
     print(

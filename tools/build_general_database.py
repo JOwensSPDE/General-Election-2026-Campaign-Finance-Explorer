@@ -64,6 +64,7 @@ ACCOUNT_TO_CANDIDATE = {
     "01006697": "Stephen P. Ondich",
     "01006711": "Austin Cassidy",
     "01006738": "Tori Parker",
+    "01006741": "Mara Gorman",
     "01001340": "Daniel B. Short",
     "01002132": "Ed Osienski",
     "01002266": "Ciro Poppiti",
@@ -116,6 +117,7 @@ ACCOUNT_TO_CANDIDATE = {
     "01006731": "Tanya Hettler",
     "01006729": "Hildi Bachtle",
     "01006733": "Brent Burdge",
+    "01006734": "Shane Stoneman",
     "01006736": "Enala A. Mwashitete",
     "01006735": "Lisa McInnis",
     "01006698": "Janyce Colmery",
@@ -425,6 +427,34 @@ def dsea_allocations(raw_text: str, candidates: list[dict]) -> list[tuple[dict, 
     return allocations
 
 
+SENATE_MAJORITY_ALIASES = {
+    "dan cruce": "Dan Cruce",
+    "shay frisby": "Shay Frisby",
+    "mara gorman": "Mara Gorman",
+    "nicole poore": "Nicole Poore",
+    "kyra hoffner": "Kyra L. Hoffner",
+    "nish lodhavia": "Nisha Lodhavia",
+    "nisha lodhavia": "Nisha Lodhavia",
+}
+
+
+def senate_majority_allocations(raw_text: str, candidates: list[dict]) -> list[tuple[dict, float]]:
+    """Extract candidate amounts printed in Senate Majority Caucus grouped rows."""
+    by_name = {candidate["candidate"]: candidate for candidate in candidates}
+    allocations = []
+    pattern = (
+        r"(Dan Cruce|Shay Frisby|Mara Gorman|Nicole Poore|Kyra Hoffner|"
+        r"Nish(?:a)?\s*(?:\|\s*)?Lodhavia),?\s*(?:\|\s*)?SD\s*\d+\s*:\s*"
+        r"(?:\|\s*)?\$?\s*([\d,]+(?:\.\d+)?)"
+    )
+    for label, amount in re.findall(pattern, raw_text, re.I):
+        official = SENATE_MAJORITY_ALIASES.get(normalized(label))
+        candidate = by_name.get(official or "")
+        if candidate:
+            allocations.append((candidate, float(amount.replace(",", ""))))
+    return allocations
+
+
 def outside_dataset(pdf_dir: Path, candidate_payload: dict) -> dict:
     candidates = candidate_payload["candidates"]
     reports = [parse_report(pdf) for pdf in sorted(pdf_dir.glob("*.pdf"))]
@@ -495,6 +525,35 @@ def outside_dataset(pdf_dir: Path, candidate_payload: dict) -> dict:
             excluded.append({"sourceFile": report["sourceFile"], "reason": "third-party advertiser reported no expenditures"})
             continue
         for index, row in enumerate(report["expenditures"]):
+            if report["account"] == "04005615":
+                split_allocations = senate_majority_allocations(row["rawText"], candidates)
+                if not split_allocations or abs(sum(amount for _, amount in split_allocations) - row["amount"]) > .01:
+                    issues.append({
+                        "account": report["account"], "sourceFile": report["sourceFile"],
+                        "reason": "Senate Majority Caucus candidate allocations did not reconcile and were left unattributed.",
+                        "amount": row["amount"], "rawText": row["rawText"],
+                    })
+                    continue
+                key = hashlib.sha1(report["sourceFile"].encode()).hexdigest()[:8]
+                for split_index, (candidate, amount) in enumerate(split_allocations):
+                    allocations.append({
+                        "id": f"tpa-{report['account']}-{key}-{index}-{split_index}-{candidate['id']}",
+                        "candidateId": candidate["id"],
+                        "candidateName": candidate["candidate"],
+                        "targetCandidateId": None,
+                        "position": "support",
+                        "allocationType": "independent-spending",
+                        "amount": amount,
+                        "date": row["date"],
+                        "organization": report["organization"],
+                        "account": report["account"],
+                        "activity": "Digital advertising",
+                        "payee": row["payee"],
+                        "sourceFile": report["sourceFile"],
+                        "reportPeriodEnd": report["periodEnd"],
+                        "note": "Candidate amount printed in the filing's grouped expenditure description.",
+                    })
+                continue
             if report["account"] == "04003188":
                 split_allocations = dsea_allocations(row["rawText"], candidates)
                 if not split_allocations or abs(sum(amount for _, amount in split_allocations) - row["amount"]) > .01:
