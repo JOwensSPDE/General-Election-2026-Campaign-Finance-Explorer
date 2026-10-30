@@ -230,9 +230,9 @@
       "account": "02003042",
       "organization": "BlueGoldPAC",
       "entityType": "PAC",
-      "reportedExpenditures": 5515.0,
-      "candidateAttributed": 5500.0,
-      "reportCount": 1
+      "reportedExpenditures": 45092.07,
+      "candidateAttributed": 7500.0,
+      "reportCount": 2
     },
     {
       "account": "02005278",
@@ -579,6 +579,14 @@
       "reportCount": 3
     },
     {
+      "account": "03000704",
+      "organization": "Independent Party of Delaware",
+      "entityType": "PAC",
+      "reportedExpenditures": 37.18,
+      "candidateAttributed": 0,
+      "reportCount": 1
+    },
+    {
       "account": "02006443",
       "organization": "Justice for All",
       "entityType": "PAC",
@@ -638,9 +646,9 @@
       "account": "03000632",
       "organization": "Libertarian Party of Delaware",
       "entityType": "PAC",
-      "reportedExpenditures": 10.39,
+      "reportedExpenditures": 18.39,
       "candidateAttributed": 0,
-      "reportCount": 1
+      "reportCount": 2
     },
     {
       "account": "02000505",
@@ -697,6 +705,14 @@
       "reportedExpenditures": 1203.0,
       "candidateAttributed": 1200.0,
       "reportCount": 2
+    },
+    {
+      "account": "02003792",
+      "organization": "Plan For Sussex",
+      "entityType": "PAC",
+      "reportedExpenditures": 2500.0,
+      "candidateAttributed": 600.0,
+      "reportCount": 1
     },
     {
       "account": "02000549",
@@ -870,9 +886,9 @@
       "account": "02000510",
       "organization": "The PAC",
       "entityType": "PAC",
-      "reportedExpenditures": 7200.0,
-      "candidateAttributed": 5100.0,
-      "reportCount": 1
+      "reportedExpenditures": 10800.0,
+      "candidateAttributed": 8700.0,
+      "reportCount": 2
     },
     {
       "account": "02006713",
@@ -913,6 +929,14 @@
       "reportedExpenditures": 11000.02,
       "candidateAttributed": 7600.0,
       "reportCount": 2
+    },
+    {
+      "account": "03004696",
+      "organization": "Western Sussex Democratic Committee",
+      "entityType": "PAC",
+      "reportedExpenditures": 149.99,
+      "candidateAttributed": 0,
+      "reportCount": 1
     },
     {
       "account": "02006438",
@@ -1028,9 +1052,9 @@
       "account": "04003885",
       "organization": "NRA Political Victory Fund - 3rd Party Advertiser",
       "entityType": "Third-party advertiser",
-      "reportedExpenditures": 1711.7,
-      "candidateAttributed": 1711.7,
-      "reportCount": 1
+      "reportedExpenditures": 1811.12,
+      "candidateAttributed": 1811.12,
+      "reportCount": 2
     },
     {
       "account": "04006745",
@@ -3363,6 +3387,108 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-02000510-90ecb380-0",
+      "candidateId": "rd36-bryan-william-shupe",
+      "candidateName": "Bryan William Shupe",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/21/2026",
+      "organization": "The PAC",
+      "account": "02000510",
+      "activity": "Direct PAC donation",
+      "payee": "Committee to Elect Bryan Shupe",
+      "sourceFile": "CampaignFinanceReport_Prelim_510_1274_4242474b-efdb-4b87-a0db-3762ed134e26.pdf",
+      "reportPeriodEnd": "10/26/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02000510-90ecb380-1",
+      "candidateId": "rd11-jeffrey-n-spiegelman",
+      "candidateName": "Jeffrey N. Spiegelman",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/21/2026",
+      "organization": "The PAC",
+      "account": "02000510",
+      "activity": "Direct PAC donation",
+      "payee": "Friends for Jeff Spiegelman",
+      "sourceFile": "CampaignFinanceReport_Prelim_510_1274_4242474b-efdb-4b87-a0db-3762ed134e26.pdf",
+      "reportPeriodEnd": "10/26/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02000510-90ecb380-2",
+      "candidateId": "rd20-alonna-berry",
+      "candidateName": "Alonna Berry",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/21/2026",
+      "organization": "The PAC",
+      "account": "02000510",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Alonna Berry",
+      "sourceFile": "CampaignFinanceReport_Prelim_510_1274_4242474b-efdb-4b87-a0db-3762ed134e26.pdf",
+      "reportPeriodEnd": "10/26/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02000510-90ecb380-3",
+      "candidateId": "rd38-carlie-carey",
+      "candidateName": "Carlie Carey",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/21/2026",
+      "organization": "The PAC",
+      "account": "02000510",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Carlie Carey",
+      "sourceFile": "CampaignFinanceReport_Prelim_510_1274_4242474b-efdb-4b87-a0db-3762ed134e26.pdf",
+      "reportPeriodEnd": "10/26/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02000510-90ecb380-4",
+      "candidateId": "ag-kathy-jennings",
+      "candidateName": "Kathy Jennings",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/21/2026",
+      "organization": "The PAC",
+      "account": "02000510",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Kathy Jennings",
+      "sourceFile": "CampaignFinanceReport_Prelim_510_1274_4242474b-efdb-4b87-a0db-3762ed134e26.pdf",
+      "reportPeriodEnd": "10/26/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02000510-90ecb380-5",
+      "candidateId": "sd14-kyra-l-hoffner",
+      "candidateName": "Kyra L. Hoffner",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/21/2026",
+      "organization": "The PAC",
+      "account": "02000510",
+      "activity": "Direct PAC donation",
+      "payee": "Friends to Elect Kyra Hoffner",
+      "sourceFile": "CampaignFinanceReport_Prelim_510_1274_4242474b-efdb-4b87-a0db-3762ed134e26.pdf",
+      "reportPeriodEnd": "10/26/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-02000518-ef9f6398-2",
       "candidateId": "ncc-rod-david-tackett",
       "candidateName": "David Tackett",
@@ -5335,6 +5461,74 @@
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
     {
+      "id": "pac-02003042-dd519821-1",
+      "candidateId": "rd12-steve-pickering",
+      "candidateName": "Steve Pickering",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/05/2026",
+      "organization": "BlueGoldPAC",
+      "account": "02003042",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of Steve Pickering",
+      "sourceFile": "CampaignFinanceReport_Prelim_335055_1274_30efcf51-30c2-45a7-8bff-81b346ae2a98.pdf",
+      "reportPeriodEnd": "10/26/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02003042-dd519821-0",
+      "candidateId": "rd8-gary-taylor",
+      "candidateName": "Gary Taylor",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/07/2026",
+      "organization": "BlueGoldPAC",
+      "account": "02003042",
+      "activity": "Direct PAC donation",
+      "payee": "Friends for Gary Taylor",
+      "sourceFile": "CampaignFinanceReport_Prelim_335055_1274_30efcf51-30c2-45a7-8bff-81b346ae2a98.pdf",
+      "reportPeriodEnd": "10/26/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02003042-dd519821-3",
+      "candidateId": "rd41-john-atkins",
+      "candidateName": "John Atkins",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/08/2026",
+      "organization": "BlueGoldPAC",
+      "account": "02003042",
+      "activity": "Direct PAC donation",
+      "payee": "Friends to Elect John Atkins",
+      "sourceFile": "CampaignFinanceReport_Prelim_335055_1274_30efcf51-30c2-45a7-8bff-81b346ae2a98.pdf",
+      "reportPeriodEnd": "10/26/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02003042-dd519821-2",
+      "candidateId": "rd6-tanya-hettler",
+      "candidateName": "Tanya Hettler",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 200.0,
+      "date": "10/09/2026",
+      "organization": "BlueGoldPAC",
+      "account": "02003042",
+      "activity": "Direct PAC donation",
+      "payee": "Friends to elect Dr. Tanya Hettler",
+      "sourceFile": "CampaignFinanceReport_Prelim_335055_1274_30efcf51-30c2-45a7-8bff-81b346ae2a98.pdf",
+      "reportPeriodEnd": "10/26/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
       "id": "pac-02003208-1ce2d6a0-4",
       "candidateId": "sd7-chris-rowe",
       "candidateName": "Chris Rowe",
@@ -5467,6 +5661,23 @@
       "activity": "Direct PAC donation",
       "payee": "Friends of Nisha Lodhavia",
       "sourceFile": "CampaignFinanceReport_Prelim_394504_1274_d25c2ba1-94b8-46fc-9144-983762dfdc56.pdf",
+      "reportPeriodEnd": "10/26/2026",
+      "note": "PAC expenditure paid directly to the named candidate committee."
+    },
+    {
+      "id": "pac-02003792-36befc8b-0",
+      "candidateId": "sc5-john-l-rieley",
+      "candidateName": "John L. Rieley",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "direct-pac-contribution",
+      "amount": 600.0,
+      "date": "10/20/2026",
+      "organization": "Plan For Sussex",
+      "account": "02003792",
+      "activity": "Direct PAC donation",
+      "payee": "Friends of John Rieley",
+      "sourceFile": "CampaignFinanceReport_Prelim_409570_1274_1e041f15-33dc-4f0c-9711-84ce3e505cc1.pdf",
       "reportPeriodEnd": "10/26/2026",
       "note": "PAC expenditure paid directly to the named candidate committee."
     },
@@ -9534,6 +9745,23 @@
       "note": ""
     },
     {
+      "id": "tpa-04003885-6446dcb1-0-rd36-bryan-william-shupe",
+      "candidateId": "rd36-bryan-william-shupe",
+      "candidateName": "Bryan William Shupe",
+      "targetCandidateId": null,
+      "position": "support",
+      "allocationType": "independent-spending",
+      "amount": 99.42,
+      "date": "10/29/2026",
+      "organization": "NRA Political Victory Fund - 3rd Party Advertiser",
+      "account": "04003885",
+      "activity": "Candidate-associated expenditure",
+      "payee": "LLC i360",
+      "sourceFile": "CampaignFinanceReport_Prelim_446295_315_9a52286d-bcd8-48bd-8b3a-757592a17628.pdf",
+      "reportPeriodEnd": "10/30/2026",
+      "note": ""
+    },
+    {
       "id": "tpa-04004463-b92f2c4b-0-rd41-ryan-stuckey",
       "candidateId": "rd41-ryan-stuckey",
       "candidateName": "Ryan Stuckey",
@@ -12040,6 +12268,46 @@
     {
       "sourceFile": "CampaignFinanceReport_Prelim_763415_315_f3bf3030-43f6-4d17-b44d-bfa8b6a3d0a2.pdf",
       "reason": "third-party advertiser reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_1289_1274_1122dc88-7b27-4ae7-9088-6e18f50c8bdb.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_1698_1274_5b54152e-2296-4907-beaa-80f97e71506c.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_341925_1274_4da66f15-947b-4fa5-ba74-923a3cd3a76c.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_410974_1274_ffc80386-54b0-418b-9a9d-c55a52acf96d.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_476595_1274_58ea2741-f54c-4e1b-9e78-ca6cdff45a05.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_575459_1274_a35d0777-227a-4c6b-a7f2-c3816a573d2f.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_575460_1274_56438916-95be-4444-80d8-448ef7eae5d6.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_644195_1274_ab911e46-8ce6-4e85-8d6b-902624a261fe.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_684_1274_cfcc5187-5246-4553-9e63-53520cd79e26.pdf",
+      "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_753422_1274_43887de1-1de1-4d2e-a5c9-ae55505d7e0b.pdf",
+      "reason": "PAC or political committee reported no expenditures"
     }
   ]
 }
