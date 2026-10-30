@@ -412,6 +412,11 @@ COMMON_GROUND_UNALLOCATED_SUPPORT = [
     'Mary "Penny" Kubin',
 ]
 
+BLUEGOLD_UNALLOCATED_SUPPORT = [
+    "Jamar Money",
+    'Mary "Penny" Kubin',
+]
+
 
 def dsea_allocations(raw_text: str, candidates: list[dict]) -> list[tuple[dict, float]]:
     """Extract the candidate-level amounts printed inside DSEA's grouped rows."""
@@ -583,8 +588,12 @@ def outside_dataset(pdf_dir: Path, candidate_payload: dict) -> dict:
                         "note": "Candidate amount printed in the filing's grouped expenditure description.",
                     })
                 continue
+            if report["account"] == "04003531" and re.search(r"\bMoney\s+and\s+Kubin\b", row["rawText"], re.I):
+                # The filing provides one combined amount for both candidates.
+                # Preserve the association at group level without inventing a split.
+                continue
             matches = recipient_matches(row["rawText"], candidates)
-            if report["account"] == "04006743" and len(matches) > 1:
+            if report["account"] in {"04006743", "04003531"} and len(matches) > 1:
                 # The filing names the candidates associated with each grouped
                 # expenditure but does not allocate a dollar amount among them.
                 # Preserve the association without inventing candidate totals.
@@ -639,6 +648,15 @@ def outside_dataset(pdf_dir: Path, candidate_payload: dict) -> dict:
             group["unallocatedSupportNote"] = (
                 f"The filings name supported candidates in grouped expenditures totaling ${unallocated_amount:,.2f} "
                 "but do not provide candidate-level amounts."
+            )
+        if group["account"] == "04003531":
+            by_name = {candidate["candidate"]: candidate for candidate in candidates}
+            group["unallocatedCandidateSupport"] = [
+                by_name[name]["id"] for name in BLUEGOLD_UNALLOCATED_SUPPORT
+            ]
+            group["unallocatedSupportNote"] = (
+                "The filing ties a $22,502.07 grouped expenditure to Jamar Money and Penny Kubin "
+                "without providing candidate-level amounts. A separate $15,000 expenditure names no candidate."
             )
     groups.sort(key=lambda g: (g["entityType"], g["organization"]))
     allocations.sort(key=lambda a: (a["account"], a["date"], a["id"]))
