@@ -20447,20 +20447,20 @@
       "account": "01005517",
       "raceId": "RD18",
       "race": "State House District 18",
-      "reportDate": "10/06/2026",
+      "reportDate": "10/30/2026",
       "periodStart": "01/01/2026",
-      "periodEnd": "10/04/2026",
-      "totalReceipts": 1285.0,
+      "periodEnd": "10/26/2026",
+      "totalReceipts": 1485.0,
       "candidateLoans": 0,
-      "totalExpenditures": 1854.6,
-      "endingBalance": 10202.0,
-      "itemizedTotal": 1285.0,
+      "totalExpenditures": 5454.6,
+      "endingBalance": 6802.0,
+      "itemizedTotal": 1485.0,
       "smallContributionsTotal": 0.0,
       "smallContributionRows": [],
-      "reportedItemizedTotal": 1285.0,
+      "reportedItemizedTotal": 1485.0,
       "itemizedReconciliationGap": 0.0,
-      "delawareTotal": 685.0,
-      "outsideTotal": 600,
+      "delawareTotal": 885.0,
+      "outsideTotal": 600.0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -20483,16 +20483,50 @@
           "address": "Delaware",
           "aggregate": 85.0,
           "amount": 85.0
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Kris Doe",
+          "address": "arroyo grande, Delaware",
+          "aggregate": 200.0,
+          "amount": 200.0
         }
       ],
       "excludedRows": 0,
-      "sourceFile": "CampaignFinanceReport_Prelim_574490_1273_c9edf514-184f-436b-863c-6e5516b9911e.pdf",
+      "sourceFile": "CampaignFinanceReport_Prelim_574490_1274_e0018f5b-1685-41e6-99d2-38c2b4e629b6.pdf",
       "office": "State Representative District 18",
       "county": "New Castle",
       "party": "Democratic",
       "status": "Qualified",
       "filed": "5/22/2026",
-      "reportAvailable": true
+      "reportAvailable": true,
+      "current2026Receipts": 1485.0,
+      "filingPeriods": [
+        {
+          "periodStart": "01/01/2026",
+          "periodEnd": "10/04/2026",
+          "reportDate": "10/06/2026",
+          "sourceFile": "CampaignFinanceReport_Prelim_574490_1273_c9edf514-184f-436b-863c-6e5516b9911e.pdf",
+          "totalReceipts": 1285.0,
+          "candidateLoans": 0,
+          "totalExpenditures": 1854.6,
+          "smallContributionsTotal": 0.0
+        },
+        {
+          "periodStart": "10/05/2026",
+          "periodEnd": "10/26/2026",
+          "reportDate": "10/30/2026",
+          "sourceFile": "CampaignFinanceReport_Prelim_574490_1274_e0018f5b-1685-41e6-99d2-38c2b4e629b6.pdf",
+          "totalReceipts": 200.0,
+          "candidateLoans": 0,
+          "totalExpenditures": 3600.0,
+          "smallContributionsTotal": 0.0
+        }
+      ],
+      "sourceFiles": [
+        "CampaignFinanceReport_Prelim_574490_1273_c9edf514-184f-436b-863c-6e5516b9911e.pdf",
+        "CampaignFinanceReport_Prelim_574490_1274_e0018f5b-1685-41e6-99d2-38c2b4e629b6.pdf"
+      ]
     },
     {
       "id": "rd19-janyce-colmery",
@@ -29507,20 +29541,20 @@
       "account": "01006732",
       "raceId": "RD3",
       "race": "State House District 3",
-      "reportDate": "10/12/2026",
+      "reportDate": "10/30/2026",
       "periodStart": "07/01/2026",
-      "periodEnd": "10/04/2026",
-      "totalReceipts": 5200.0,
+      "periodEnd": "10/26/2026",
+      "totalReceipts": 5324.0,
       "candidateLoans": 0,
-      "totalExpenditures": 1660.0,
-      "endingBalance": 5200.0,
-      "itemizedTotal": 5200.0,
+      "totalExpenditures": 1735.0,
+      "endingBalance": 5249.0,
+      "itemizedTotal": 5324.0,
       "smallContributionsTotal": 0.0,
       "smallContributionRows": [],
-      "reportedItemizedTotal": 5200.0,
+      "reportedItemizedTotal": 5324.0,
       "itemizedReconciliationGap": 0.0,
-      "delawareTotal": 4600.0,
-      "outsideTotal": 600,
+      "delawareTotal": 4724.0,
+      "outsideTotal": 600.0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -29564,16 +29598,64 @@
           "address": "Dover, Delaware",
           "aggregate": 600.0,
           "amount": 600.0
+        },
+        {
+          "date": "10/13/2026",
+          "name": "TOTAL OF CONTRIBUTIONS NOT EXCEEDING $100",
+          "address": "Delaware",
+          "aggregate": 24.0,
+          "amount": 24.0
+        },
+        {
+          "date": "10/15/2026",
+          "name": "TOTAL OF CONTRIBUTIONS NOT EXCEEDING $100",
+          "address": "Delaware",
+          "aggregate": 50.0,
+          "amount": 50.0
+        },
+        {
+          "date": "10/16/2026",
+          "name": "TOTAL OF CONTRIBUTIONS NOT EXCEEDING $100",
+          "address": "Delaware",
+          "aggregate": 50.0,
+          "amount": 50.0
         }
       ],
       "excludedRows": 0,
-      "sourceFile": "CampaignFinanceReport_Prelim_756516_1273_1562ada3-7680-4f29-8680-36d3902a713b.pdf",
+      "sourceFile": "CampaignFinanceReport_Prelim_756516_1274_9a8a34a6-1e59-46a9-bd94-be398d7f1064.pdf",
       "office": "State Representative District 3",
       "county": "New Castle",
       "party": "Republican",
       "status": "Qualified",
       "filed": "7/10/2026",
-      "reportAvailable": true
+      "reportAvailable": true,
+      "current2026Receipts": 5324.0,
+      "filingPeriods": [
+        {
+          "periodStart": "07/01/2026",
+          "periodEnd": "10/04/2026",
+          "reportDate": "10/12/2026",
+          "sourceFile": "CampaignFinanceReport_Prelim_756516_1273_1562ada3-7680-4f29-8680-36d3902a713b.pdf",
+          "totalReceipts": 5200.0,
+          "candidateLoans": 0,
+          "totalExpenditures": 1660.0,
+          "smallContributionsTotal": 0.0
+        },
+        {
+          "periodStart": "10/05/2026",
+          "periodEnd": "10/26/2026",
+          "reportDate": "10/30/2026",
+          "sourceFile": "CampaignFinanceReport_Prelim_756516_1274_9a8a34a6-1e59-46a9-bd94-be398d7f1064.pdf",
+          "totalReceipts": 124.0,
+          "candidateLoans": 0,
+          "totalExpenditures": 75.0,
+          "smallContributionsTotal": 0.0
+        }
+      ],
+      "sourceFiles": [
+        "CampaignFinanceReport_Prelim_756516_1273_1562ada3-7680-4f29-8680-36d3902a713b.pdf",
+        "CampaignFinanceReport_Prelim_756516_1274_9a8a34a6-1e59-46a9-bd94-be398d7f1064.pdf"
+      ]
     },
     {
       "id": "rd30-wm-shannon-morris",

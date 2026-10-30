@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-30",
-  "methodology": "General-election third-party spending and PAC direct donations are reported separately from candidate fundraising.",
+  "methodology": "Third-party advertiser allocations remain separate from candidate fundraising. Only PACs with reported expenditures above zero are public; direct PAC donations are identified separately and are not added to independent outside-spending totals.",
   "groups": [
     {
       "account": "03002710",
@@ -742,9 +742,9 @@
       "account": "02000601",
       "organization": "Progressive Democrats for Delaware, Inc.",
       "entityType": "PAC",
-      "reportedExpenditures": 56662.95,
+      "reportedExpenditures": 69662.95,
       "candidateAttributed": 1200.0,
-      "reportCount": 2
+      "reportCount": 3
     },
     {
       "account": "02006118",
@@ -1059,10 +1059,10 @@
     {
       "account": "04006745",
       "organization": "Save Our Sussex Third Party Advertiser",
-      "entityType": "Third-party advertiser",
-      "reportedExpenditures": 27409.71,
-      "candidateAttributed": 27409.71,
-      "reportCount": 6
+      "reportedExpenditures": 29708.71,
+      "candidateAttributed": 29708.71,
+      "reportCount": 7,
+      "entityType": "Third-party advertiser"
     },
     {
       "account": "04006739",
@@ -11273,6 +11273,111 @@
       "sourceFile": "CampaignFinanceReport_Prelim_763415_315_edc5d712-455d-4114-bfc9-72b7f21a67ff.pdf",
       "reportPeriodEnd": "10/27/2026",
       "note": ""
+    },
+    {
+      "id": "04006745-93240d22-0-sc4-justine-cuccia",
+      "candidateId": "sc4-justine-cuccia",
+      "targetCandidateId": null,
+      "position": "associated",
+      "amount": 907.0,
+      "date": "10/30/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Coastal Point Coastal Point",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_16d776be-9a8b-4dde-a050-c720eb63701a.pdf",
+      "reportPeriodEnd": "10/30/2026",
+      "note": ""
+    },
+    {
+      "id": "04006745-93240d22-1-rd4-gregg-lindner",
+      "candidateId": "rd4-gregg-lindner",
+      "targetCandidateId": null,
+      "position": "associated",
+      "amount": 195.0,
+      "date": "10/30/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Coastal Point Coastal Point",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_16d776be-9a8b-4dde-a050-c720eb63701a.pdf",
+      "reportPeriodEnd": "10/30/2026",
+      "note": ""
+    },
+    {
+      "id": "04006745-93240d22-2-rd38-maureen-madden",
+      "candidateId": "rd38-maureen-madden",
+      "targetCandidateId": null,
+      "position": "associated",
+      "amount": 195.0,
+      "date": "10/30/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Coastal Point Coastal Point",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_16d776be-9a8b-4dde-a050-c720eb63701a.pdf",
+      "reportPeriodEnd": "10/30/2026",
+      "note": ""
+    },
+    {
+      "id": "04006745-93240d22-3-rd41-ryan-stuckey",
+      "candidateId": "rd41-ryan-stuckey",
+      "targetCandidateId": null,
+      "position": "associated",
+      "amount": 502.0,
+      "date": "10/30/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Coastal Point Coastal Point",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_16d776be-9a8b-4dde-a050-c720eb63701a.pdf",
+      "reportPeriodEnd": "10/30/2026",
+      "note": ""
+    },
+    {
+      "id": "04006745-93240d22-4-sc5-jill-hicks",
+      "candidateId": "sc5-jill-hicks",
+      "targetCandidateId": null,
+      "position": "associated",
+      "amount": 200.0,
+      "date": "10/30/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Meta Platforms, Inc. Meta Platforms,",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_16d776be-9a8b-4dde-a050-c720eb63701a.pdf",
+      "reportPeriodEnd": "10/30/2026",
+      "note": ""
+    },
+    {
+      "id": "04006745-93240d22-5-rd41-ryan-stuckey",
+      "candidateId": "rd41-ryan-stuckey",
+      "targetCandidateId": null,
+      "position": "associated",
+      "amount": 100.0,
+      "date": "10/30/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Meta Platforms, Inc. Meta Platforms,",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_16d776be-9a8b-4dde-a050-c720eb63701a.pdf",
+      "reportPeriodEnd": "10/30/2026",
+      "note": ""
+    },
+    {
+      "id": "04006745-93240d22-6-sc4-justine-cuccia",
+      "candidateId": "sc4-justine-cuccia",
+      "targetCandidateId": null,
+      "position": "associated",
+      "amount": 200.0,
+      "date": "10/30/2026",
+      "organization": "Save Our Sussex Third Party Advertiser",
+      "account": "04006745",
+      "activity": "Candidate-associated expenditure",
+      "payee": "Meta Platforms, Inc. Meta Platforms,",
+      "sourceFile": "CampaignFinanceReport_Prelim_763415_315_16d776be-9a8b-4dde-a050-c720eb63701a.pdf",
+      "reportPeriodEnd": "10/30/2026",
+      "note": ""
     }
   ],
   "reviewIssues": [
@@ -12308,6 +12413,18 @@
     {
       "sourceFile": "CampaignFinanceReport_Prelim_753422_1274_43887de1-1de1-4d2e-a5c9-ae55505d7e0b.pdf",
       "reason": "PAC or political committee reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_608502_1274_c4703206-ff50-401e-afd5-c8b4d6c93f28.pdf",
+      "reason": "PAC reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_737710_1274_ec6e585c-7f89-4a04-80a0-6a442f49411d.pdf",
+      "reason": "PAC reported no expenditures"
+    },
+    {
+      "sourceFile": "CampaignFinanceReport_Prelim_753422_1274_43887de1-1de1-4d2e-a5c9-ae55505d7e0b (1).pdf",
+      "reason": "PAC reported no expenditures"
     }
   ]
 }
