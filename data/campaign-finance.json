@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29",
+  "generated": "2026-10-30",
   "election": "2026 General Election",
   "reportType": "30-day general-election reports",
   "candidateSource": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html",
@@ -10464,20 +10464,20 @@
       "account": "01006025",
       "raceId": "RD10",
       "race": "State House District 10",
-      "reportDate": "10/07/2026",
+      "reportDate": "10/29/2026",
       "periodStart": "01/01/2026",
-      "periodEnd": "10/04/2026",
-      "totalReceipts": 24531.0,
+      "periodEnd": "10/26/2026",
+      "totalReceipts": 34214.0,
       "candidateLoans": 0,
-      "totalExpenditures": 8587.54,
-      "endingBalance": 47440.76,
-      "itemizedTotal": 24531.0,
+      "totalExpenditures": 14787.79,
+      "endingBalance": 50923.51,
+      "itemizedTotal": 34214.0,
       "smallContributionsTotal": 0.0,
       "smallContributionRows": [],
-      "reportedItemizedTotal": 24531.0,
+      "reportedItemizedTotal": 34214.0,
       "itemizedReconciliationGap": 0.0,
-      "delawareTotal": 18105.0,
-      "outsideTotal": 6426,
+      "delawareTotal": 24696.0,
+      "outsideTotal": 9518.0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -11697,16 +11697,470 @@
           "address": "Wilmington, Delaware",
           "aggregate": 600.0,
           "amount": 600.0
+        },
+        {
+          "date": "10/05/2026",
+          "name": "Adam Fox",
+          "address": "Wilmington, Delaware",
+          "aggregate": 200.0,
+          "amount": 50.0
+        },
+        {
+          "date": "10/22/2026",
+          "name": "American Property Casualty Insurance Association",
+          "address": "Chicago, Illinois",
+          "aggregate": 300.0,
+          "amount": 300.0
+        },
+        {
+          "date": "10/20/2026",
+          "name": "Bradford Glazier",
+          "address": "Wilmington, Delaware",
+          "aggregate": 250.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/22/2026",
+          "name": "Brett Saddler",
+          "address": "Claymont, Delaware",
+          "aggregate": 100.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/15/2026",
+          "name": "Brian Eng",
+          "address": "Wilmington, Delaware",
+          "aggregate": 325.0,
+          "amount": 200.0
+        },
+        {
+          "date": "10/22/2026",
+          "name": "Brian Jordan",
+          "address": "Wilmington, Delaware",
+          "aggregate": 150.0,
+          "amount": 150.0
+        },
+        {
+          "date": "10/18/2026",
+          "name": "Cameron Zerbe",
+          "address": "Wilmington, Delaware",
+          "aggregate": 50.0,
+          "amount": 50.0
+        },
+        {
+          "date": "10/22/2026",
+          "name": "Candace Roseo",
+          "address": "Wilmington, Delaware",
+          "aggregate": 50.0,
+          "amount": 50.0
+        },
+        {
+          "date": "10/12/2026",
+          "name": "Charles Freel",
+          "address": "Wilmington, Delaware",
+          "aggregate": 300.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Charles Stanton",
+          "address": "Wilmington, Delaware",
+          "aggregate": 325.0,
+          "amount": 25.0
+        },
+        {
+          "date": "10/11/2026",
+          "name": "Cheryl Gaudette",
+          "address": "Ocean, New Jersey",
+          "aggregate": 36.0,
+          "amount": 36.0
+        },
+        {
+          "date": "10/24/2026",
+          "name": "Committee to elect John Cartier to N.C.C.C. (New",
+          "address": "Wilmington, Delaware",
+          "aggregate": 150.0,
+          "amount": 150.0
+        },
+        {
+          "date": "10/22/2026",
+          "name": "Cornerstone Government Affairs, Inc.",
+          "address": "Washington, District Of Columbia",
+          "aggregate": 600.0,
+          "amount": 300.0
+        },
+        {
+          "date": "10/15/2026",
+          "name": "David Walsh",
+          "address": "Wilmington, Delaware",
+          "aggregate": 200.0,
+          "amount": 200.0
+        },
+        {
+          "date": "10/16/2026",
+          "name": "Delaware Building & Constructon Trades/ PAC",
+          "address": "Newark, Delaware",
+          "aggregate": 600.0,
+          "amount": 600.0
+        },
+        {
+          "date": "10/24/2026",
+          "name": "Delaware Chiropractic Society - PAC",
+          "address": "Smyrna, Delaware",
+          "aggregate": 200.0,
+          "amount": 200.0
+        },
+        {
+          "date": "10/24/2026",
+          "name": "Doug Fasick",
+          "address": "Oxford, Pennsylvania",
+          "aggregate": 150.0,
+          "amount": 150.0
+        },
+        {
+          "date": "10/24/2026",
+          "name": "Dr. Scott Rosenthal",
+          "address": "Kennett Square, Pennsylvania",
+          "aggregate": 350.0,
+          "amount": 150.0
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Edward Freel",
+          "address": "Wilmington, Delaware",
+          "aggregate": 400.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/24/2026",
+          "name": "George B Schreppler III",
+          "address": "Townsend, Delaware",
+          "aggregate": 350.0,
+          "amount": 150.0
+        },
+        {
+          "date": "10/10/2026",
+          "name": "Highmark PAC",
+          "address": "Camp Hill, Pennsylvania",
+          "aggregate": 450.0,
+          "amount": 450.0
+        },
+        {
+          "date": "10/17/2026",
+          "name": "Iris Vinokur",
+          "address": "Wilmington, Delaware",
+          "aggregate": 50.0,
+          "amount": 50.0
+        },
+        {
+          "date": "10/15/2026",
+          "name": "Jacob Horner",
+          "address": "Sorrento, Florida",
+          "aggregate": 100.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/21/2026",
+          "name": "Janice Grackin",
+          "address": "Wilmington, Delaware",
+          "aggregate": 500.0,
+          "amount": 300.0
+        },
+        {
+          "date": "10/09/2026",
+          "name": "Janna Craig",
+          "address": "Fairfax, Virginia",
+          "aggregate": 50.0,
+          "amount": 50.0
+        },
+        {
+          "date": "10/16/2026",
+          "name": "Jeannette Wilt",
+          "address": "Wilmington, Delaware",
+          "aggregate": 250.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Jeffrey L Moyer",
+          "address": "Wilmington, Delaware",
+          "aggregate": 400.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/16/2026",
+          "name": "Jennifer Steinberg",
+          "address": "Wilmington, Delaware",
+          "aggregate": 146.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/16/2026",
+          "name": "Jerome Heisler",
+          "address": "Chadds Ford, Pennsylvania",
+          "aggregate": 600.0,
+          "amount": 600.0
+        },
+        {
+          "date": "10/21/2026",
+          "name": "Jon Sheehan",
+          "address": "Wilmington, Delaware",
+          "aggregate": 50.0,
+          "amount": 50.0
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Jordan Seemans",
+          "address": "Wilmington, Delaware",
+          "aggregate": 250.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Joseph Fitzgerald",
+          "address": "Wilmington, Delaware",
+          "aggregate": 300.0,
+          "amount": 300.0
+        },
+        {
+          "date": "10/16/2026",
+          "name": "Joshua Heisler",
+          "address": "Chadds Ford, Pennsylvania",
+          "aggregate": 600.0,
+          "amount": 600.0
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Kathy Bloom",
+          "address": "Wilmington, Delaware",
+          "aggregate": 416.0,
+          "amount": 180.0
+        },
+        {
+          "date": "10/15/2026",
+          "name": "Katie Grasso",
+          "address": "Swedesboro, New Jersey",
+          "aggregate": 50.0,
+          "amount": 50.0
+        },
+        {
+          "date": "10/22/2026",
+          "name": "Kimberly MB Gomes",
+          "address": "Middletown, Delaware",
+          "aggregate": 350.0,
+          "amount": 200.0
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Kristin Dwyer",
+          "address": "Wilmington, Delaware",
+          "aggregate": 200.0,
+          "amount": 200.0
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Laird Stabler",
+          "address": "Montchanin, Delaware",
+          "aggregate": 100.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/22/2026",
+          "name": "Lauren Vella",
+          "address": "Wilmington, Delaware",
+          "aggregate": 100.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/22/2026",
+          "name": "Lisa Moreland",
+          "address": "White Hall, Maryland",
+          "aggregate": 50.0,
+          "amount": 50.0
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Lydia York",
+          "address": "Wilmington, Delaware",
+          "aggregate": 100.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Marcus Henry",
+          "address": "Wilmington, Delaware",
+          "aggregate": 600.0,
+          "amount": 600.0
+        },
+        {
+          "date": "10/21/2026",
+          "name": "Mark Weinberg",
+          "address": "Wilmington, Delaware",
+          "aggregate": 425.0,
+          "amount": 150.0
+        },
+        {
+          "date": "10/16/2026",
+          "name": "Mary Davis",
+          "address": "Dover, Delaware",
+          "aggregate": 100.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/20/2026",
+          "name": "Mary Fox",
+          "address": "Wilmington, Delaware",
+          "aggregate": 100.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Matthew Sean Criscimagna",
+          "address": "Wilmington, Delaware",
+          "aggregate": 200.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/16/2026",
+          "name": "Michael Kalman",
+          "address": "Little Falls, New Jersey",
+          "aggregate": 200.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/17/2026",
+          "name": "Pamela Susman",
+          "address": "Voorhees, New Jersey",
+          "aggregate": 150.0,
+          "amount": 50.0
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Paul Heath",
+          "address": "Warwick, Maryland",
+          "aggregate": 100.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/23/2026",
+          "name": "Rachel Turney",
+          "address": "Wilmington, Delaware",
+          "aggregate": 200.0,
+          "amount": 50.0
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Richard Derman",
+          "address": "Wilmington, Delaware",
+          "aggregate": 100.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/18/2026",
+          "name": "Richard Levy",
+          "address": "Wilmington, Delaware",
+          "aggregate": 50.0,
+          "amount": 50.0
+        },
+        {
+          "date": "10/13/2026",
+          "name": "Sara Wagner",
+          "address": "Wilmington, Delaware",
+          "aggregate": 150.0,
+          "amount": 150.0
+        },
+        {
+          "date": "10/15/2026",
+          "name": "Sarah Wootten",
+          "address": "Laurel, Delaware",
+          "aggregate": 500.0,
+          "amount": 200.0
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Sean Finnigan",
+          "address": "Wilmington, Delaware",
+          "aggregate": 500.0,
+          "amount": 350.0
+        },
+        {
+          "date": "10/22/2026",
+          "name": "Smith Capitol Advisors LLC",
+          "address": "Middletown, Delaware",
+          "aggregate": 350.0,
+          "amount": 200.0
+        },
+        {
+          "date": "10/21/2026",
+          "name": "Sonja Seglin",
+          "address": "Chicago, Illinois",
+          "aggregate": 126.0,
+          "amount": 6.0
+        },
+        {
+          "date": "10/19/2026",
+          "name": "Steve McGuire",
+          "address": "Newark, Delaware",
+          "aggregate": 100.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/14/2026",
+          "name": "Taylor Hawk",
+          "address": "Wilmington, Delaware",
+          "aggregate": 100.0,
+          "amount": 100.0
+        },
+        {
+          "date": "10/17/2026",
+          "name": "Tracy Dickerson",
+          "address": "Newark, Delaware",
+          "aggregate": 30.0,
+          "amount": 30.0
+        },
+        {
+          "date": "10/25/2026",
+          "name": "Yair Robinson",
+          "address": "Wilmington, Delaware",
+          "aggregate": 138.0,
+          "amount": 6.0
         }
       ],
       "excludedRows": 0,
-      "sourceFile": "CampaignFinanceReport_Prelim_641416_1273_7e0684ed-e85e-4726-848a-bdfbf084662f.pdf",
+      "sourceFile": "CampaignFinanceReport_Prelim_641416_1274_49964fdb-8e8d-4b69-80d6-a2482135042c.pdf",
       "office": "State Representative District 10",
       "county": "New Castle",
       "party": "Democratic",
       "status": "Qualified",
       "filed": "2/12/2026",
-      "reportAvailable": true
+      "reportAvailable": true,
+      "current2026Receipts": 34214.0,
+      "filingPeriods": [
+        {
+          "periodStart": "01/01/2026",
+          "periodEnd": "10/04/2026",
+          "reportDate": "10/07/2026",
+          "sourceFile": "CampaignFinanceReport_Prelim_641416_1273_7e0684ed-e85e-4726-848a-bdfbf084662f.pdf",
+          "totalReceipts": 24531.0,
+          "candidateLoans": 0,
+          "totalExpenditures": 8587.54,
+          "smallContributionsTotal": 0.0
+        },
+        {
+          "periodStart": "10/05/2026",
+          "periodEnd": "10/26/2026",
+          "reportDate": "10/29/2026",
+          "sourceFile": "CampaignFinanceReport_Prelim_641416_1274_49964fdb-8e8d-4b69-80d6-a2482135042c.pdf",
+          "totalReceipts": 9683.0,
+          "candidateLoans": 0,
+          "totalExpenditures": 6200.25,
+          "smallContributionsTotal": 0.0
+        }
+      ],
+      "sourceFiles": [
+        "CampaignFinanceReport_Prelim_641416_1273_7e0684ed-e85e-4726-848a-bdfbf084662f.pdf",
+        "CampaignFinanceReport_Prelim_641416_1274_49964fdb-8e8d-4b69-80d6-a2482135042c.pdf"
+      ]
     },
     {
       "id": "rd11-jeffrey-n-spiegelman",
@@ -31782,15 +32236,15 @@
       "account": "01006685",
       "raceId": "RD36",
       "race": "State House District 36",
-      "reportDate": "10/06/2026",
+      "reportDate": "10/29/2026",
       "periodStart": "06/23/2026",
-      "periodEnd": "10/04/2026",
-      "totalReceipts": 7386.75,
+      "periodEnd": "10/26/2026",
+      "totalReceipts": 7999.75,
       "candidateLoans": 1000.0,
-      "totalExpenditures": 5176.93,
-      "endingBalance": 3209.82,
-      "itemizedTotal": 7350.75,
-      "smallContributionsTotal": 36.0,
+      "totalExpenditures": 5288.52,
+      "endingBalance": 3711.23,
+      "itemizedTotal": 7950.75,
+      "smallContributionsTotal": 49.0,
       "smallContributionRows": [
         {
           "date": "10/04/2026",
@@ -31799,11 +32253,19 @@
           "aggregate": 36.0,
           "amount": 36.0,
           "receiptType": "aggregate-small-contributions"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "TOTAL OF CONTRIBUTIONS NOT EXCEEDING $100",
+          "address": "Delaware",
+          "aggregate": 13.0,
+          "amount": 13.0,
+          "receiptType": "aggregate-small-contributions"
         }
       ],
-      "reportedItemizedTotal": 7350.75,
+      "reportedItemizedTotal": 7950.75,
       "itemizedReconciliationGap": 0.0,
-      "delawareTotal": 6724.0,
+      "delawareTotal": 7337.0,
       "outsideTotal": 662.75,
       "unitemizedOrOther": 0.0,
       "donors": [
@@ -31967,16 +32429,50 @@
           "address": "Delaware",
           "aggregate": 18.0,
           "amount": 18.0
+        },
+        {
+          "date": "10/07/2026",
+          "name": "Eastern Sussex Democrats",
+          "address": "Rehoboth Beach, Delaware",
+          "aggregate": 600.0,
+          "amount": 600.0
         }
       ],
       "excludedRows": 0,
-      "sourceFile": "CampaignFinanceReport_Prelim_735195_1273_173c7902-1270-4654-bb68-3a1831cb42b2.pdf",
+      "sourceFile": "CampaignFinanceReport_Prelim_735195_1274_41fc94ee-ab15-4c1b-a430-15b2a66e80b2.pdf",
       "office": "State Representative District 36",
       "county": "Sussex",
       "party": "Democratic",
       "status": "Qualified",
       "filed": "6/24/2026",
-      "reportAvailable": true
+      "reportAvailable": true,
+      "current2026Receipts": 7999.75,
+      "filingPeriods": [
+        {
+          "periodStart": "06/23/2026",
+          "periodEnd": "10/04/2026",
+          "reportDate": "10/06/2026",
+          "sourceFile": "CampaignFinanceReport_Prelim_735195_1273_173c7902-1270-4654-bb68-3a1831cb42b2.pdf",
+          "totalReceipts": 7386.75,
+          "candidateLoans": 1000.0,
+          "totalExpenditures": 5176.93,
+          "smallContributionsTotal": 36.0
+        },
+        {
+          "periodStart": "10/05/2026",
+          "periodEnd": "10/26/2026",
+          "reportDate": "10/29/2026",
+          "sourceFile": "CampaignFinanceReport_Prelim_735195_1274_41fc94ee-ab15-4c1b-a430-15b2a66e80b2.pdf",
+          "totalReceipts": 613.0,
+          "candidateLoans": 0,
+          "totalExpenditures": 111.59,
+          "smallContributionsTotal": 13.0
+        }
+      ],
+      "sourceFiles": [
+        "CampaignFinanceReport_Prelim_735195_1273_173c7902-1270-4654-bb68-3a1831cb42b2.pdf",
+        "CampaignFinanceReport_Prelim_735195_1274_41fc94ee-ab15-4c1b-a430-15b2a66e80b2.pdf"
+      ]
     },
     {
       "id": "rd36-bryan-william-shupe",
@@ -42061,20 +42557,20 @@
       "account": "01004789",
       "raceId": "SD13",
       "race": "State Senate District 13",
-      "reportDate": "10/07/2026",
+      "reportDate": "10/29/2026",
       "periodStart": "01/01/2026",
-      "periodEnd": "10/04/2026",
+      "periodEnd": "10/26/2026",
       "totalReceipts": 1350.0,
       "candidateLoans": 0,
-      "totalExpenditures": 34654.41,
-      "endingBalance": -18250.29,
+      "totalExpenditures": 35693.17,
+      "endingBalance": -19289.05,
       "itemizedTotal": 1350.0,
       "smallContributionsTotal": 0.0,
       "smallContributionRows": [],
       "reportedItemizedTotal": 1350.0,
       "itemizedReconciliationGap": 0.0,
       "delawareTotal": 1350.0,
-      "outsideTotal": 0,
+      "outsideTotal": 0.0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -42121,13 +42617,40 @@
         }
       ],
       "excludedRows": 0,
-      "sourceFile": "CampaignFinanceReport_Prelim_502345_1273_ba53d7dd-f624-4f3b-8feb-37bed5358e28.pdf",
+      "sourceFile": "CampaignFinanceReport_Prelim_502345_1274_6073e97b-14d9-4705-8089-0f0b81b9967e.pdf",
       "office": "State Senator District 13",
       "county": "New Castle",
       "party": "Democratic",
       "status": "Qualified",
       "filed": "5/27/2026",
-      "reportAvailable": true
+      "reportAvailable": true,
+      "current2026Receipts": 1350.0,
+      "filingPeriods": [
+        {
+          "periodStart": "01/01/2026",
+          "periodEnd": "10/04/2026",
+          "reportDate": "10/07/2026",
+          "sourceFile": "CampaignFinanceReport_Prelim_502345_1273_ba53d7dd-f624-4f3b-8feb-37bed5358e28.pdf",
+          "totalReceipts": 1350.0,
+          "candidateLoans": 0,
+          "totalExpenditures": 34654.41,
+          "smallContributionsTotal": 0.0
+        },
+        {
+          "periodStart": "10/05/2026",
+          "periodEnd": "10/26/2026",
+          "reportDate": "10/29/2026",
+          "sourceFile": "CampaignFinanceReport_Prelim_502345_1274_6073e97b-14d9-4705-8089-0f0b81b9967e.pdf",
+          "totalReceipts": 0.0,
+          "candidateLoans": 0,
+          "totalExpenditures": 1038.76,
+          "smallContributionsTotal": 0.0
+        }
+      ],
+      "sourceFiles": [
+        "CampaignFinanceReport_Prelim_502345_1273_ba53d7dd-f624-4f3b-8feb-37bed5358e28.pdf",
+        "CampaignFinanceReport_Prelim_502345_1274_6073e97b-14d9-4705-8089-0f0b81b9967e.pdf"
+      ]
     },
     {
       "id": "sd14-kyra-l-hoffner",
@@ -57536,14 +58059,14 @@
       "committee": "McBride for Delaware Inc.",
       "account": "FEC C00843763",
       "reportAvailable": true,
-      "reportDate": "10/25/2026",
+      "reportDate": "10/28/2026",
       "periodStart": "01/01/2025",
-      "periodEnd": "10/23/2026",
-      "totalReceipts": 5317407.0,
+      "periodEnd": "10/26/2026",
+      "totalReceipts": 5334157.0,
       "candidateLoans": 0.0,
       "totalExpenditures": 2891026.12,
       "endingBalance": 2326039.16,
-      "itemizedTotal": 3869612.78,
+      "itemizedTotal": 3886362.78,
       "smallContributionsTotal": 1447794.22,
       "smallContributionRows": [
         {
@@ -57619,10 +58142,10 @@
           "receiptType": "aggregate-fec-unitemized-contributions"
         }
       ],
-      "reportedItemizedTotal": 3869612.78,
+      "reportedItemizedTotal": 3886362.78,
       "itemizedReconciliationGap": 0.0,
-      "delawareTotal": 905963.38,
-      "outsideTotal": 2963649.4,
+      "delawareTotal": 913213.38,
+      "outsideTotal": 2973149.4,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -171131,10 +171654,100 @@
           "amount": 1200.0,
           "source": "Federal Election Commission 48-hour notice",
           "sourceFile": "202610259945203131.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Kristen Browde",
+          "address": "Miami, FL",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610289945262063.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Bill Dillon",
+          "address": "Lynnfield, MA",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610289945262063.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "William Lafferty",
+          "address": "Greenville, DE",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610289945262063.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Bonnie Loeb",
+          "address": "Chevy Chase, MD",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610289945262063.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Lori Palmer",
+          "address": "Winter Springs, FL",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610289945262063.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Charles Renfro",
+          "address": "New York, NY",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610289945262063.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Wayne Ting",
+          "address": "Santa Fe, NM",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610289945262063.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Avrim Topel",
+          "address": "Wilmington, DE",
+          "aggregate": 2025.0,
+          "amount": 2025.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610289945262063.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Julian Yap",
+          "address": "Brooklyn, NY",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610289945262063.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Christopher Yochim",
+          "address": "Milton, DE",
+          "aggregate": 1725.0,
+          "amount": 1725.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610289945262063.pdf"
         }
       ],
       "excludedRows": 0,
-      "sourceFile": "McBride April 2025.pdf; McBride July 2025.pdf; McBride Oct 2025.pdf; McBride 2025.pdf; McBride April 2026.pdf; McBride July 2026.pdf; McBride Aug 2026.pdf; McBride Oct 2026.pdf; 202610229940946553.pdf; 202610249945201340.pdf; 202610249945201340.pdf; 202610259945203131.pdf",
+      "sourceFile": "McBride April 2025.pdf; McBride July 2025.pdf; McBride Oct 2025.pdf; McBride 2025.pdf; McBride April 2026.pdf; McBride July 2026.pdf; McBride Aug 2026.pdf; McBride Oct 2026.pdf; 202610229940946553.pdf; 202610249945201340.pdf; 202610249945201340.pdf; 202610259945203131.pdf; 202610289945262063.pdf; 202610289945262063.pdf; 202610289945262063.pdf; 202610289945262063.pdf; 202610289945262063.pdf; 202610289945262063.pdf; 202610289945262063.pdf; 202610289945262063.pdf; 202610289945262063.pdf; 202610289945262063.pdf",
       "reportLabel": "Federal Election Commission reports and 48-hour notices",
       "reportJurisdiction": "Federal Election Commission",
       "locationChartNote": "Based on mailing addresses for itemized FEC contributions; unitemized federal contributions are excluded from this location chart.",
@@ -171153,14 +171766,14 @@
       "committee": "Chris Coons for Delaware",
       "account": "FEC C00475392",
       "reportAvailable": true,
-      "reportDate": "10/25/2026",
+      "reportDate": "10/29/2026",
       "periodStart": "01/01/2025",
-      "periodEnd": "10/22/2026",
-      "totalReceipts": 3849047.89,
+      "periodEnd": "10/27/2026",
+      "totalReceipts": 3891047.89,
       "candidateLoans": 0.0,
       "totalExpenditures": 1956631.0,
       "endingBalance": 5031711.21,
-      "itemizedTotal": 3779431.64,
+      "itemizedTotal": 3821431.64,
       "smallContributionsTotal": 69616.25,
       "smallContributionRows": [
         {
@@ -171236,10 +171849,10 @@
           "receiptType": "aggregate-fec-unitemized-contributions"
         }
       ],
-      "reportedItemizedTotal": 3779431.64,
+      "reportedItemizedTotal": 3821431.64,
       "itemizedReconciliationGap": 0.0,
-      "delawareTotal": 342093.3,
-      "outsideTotal": 3437338.34,
+      "delawareTotal": 349593.3,
+      "outsideTotal": 3471838.34,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -204651,10 +205264,154 @@
           "amount": 5000.0,
           "source": "Federal Election Commission 48-hour notice",
           "sourceFile": "202610249945201275.pdf"
+        },
+        {
+          "date": "10/25/2026",
+          "name": "Ben Bordelon",
+          "address": "Raceland, LA",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271539.pdf"
+        },
+        {
+          "date": "10/25/2026",
+          "name": "Lyndon Olson",
+          "address": "Waco, TX",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271539.pdf"
+        },
+        {
+          "date": "10/25/2026",
+          "name": "David McBride",
+          "address": "Wilmington, DE",
+          "aggregate": 2000.0,
+          "amount": 2000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271539.pdf"
+        },
+        {
+          "date": "10/25/2026",
+          "name": "Joseph Rhoades",
+          "address": "Wilmington, DE",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271539.pdf"
+        },
+        {
+          "date": "10/25/2026",
+          "name": "Rhett Ruggerio",
+          "address": "Rehoboth Beach, DE",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271539.pdf"
+        },
+        {
+          "date": "10/25/2026",
+          "name": "Charles Cascarilla",
+          "address": "Miami, FL",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271539.pdf"
+        },
+        {
+          "date": "10/25/2026",
+          "name": "Bartholomew J. Dalton",
+          "address": "Wilmington, DE",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271539.pdf"
+        },
+        {
+          "date": "10/25/2026",
+          "name": "Curtis Mahoney",
+          "address": "Atherton, CA",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271539.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Amgen Inc. Political Action Committee",
+          "address": "Washington, DC",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271552.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Liberty Mutual Insurance Company - PAC",
+          "address": "Boston, MA",
+          "aggregate": 1000.0,
+          "amount": 1000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271552.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Abbott Laboratories Employee Political Action Committee",
+          "address": "Abbott Park, IL",
+          "aggregate": 5000.0,
+          "amount": 5000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271552.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "David Trone",
+          "address": "Potomac, MD",
+          "aggregate": 3000.0,
+          "amount": 3000.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271552.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Anna Marie Parisi-Trone",
+          "address": "Potomac, MD",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271552.pdf"
+        },
+        {
+          "date": "10/26/2026",
+          "name": "Robert Trone",
+          "address": "Potomac, MD",
+          "aggregate": 3500.0,
+          "amount": 3500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945271552.pdf"
+        },
+        {
+          "date": "10/27/2026",
+          "name": "Political Action Committee of the International Alliance of Theatrical Stage Employees",
+          "address": "New York, NY",
+          "aggregate": 2500.0,
+          "amount": 2500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945297999.pdf"
+        },
+        {
+          "date": "10/27/2026",
+          "name": "Pet Food Institute PAC (Pet PAC)",
+          "address": "Washington, DC",
+          "aggregate": 1500.0,
+          "amount": 1500.0,
+          "source": "Federal Election Commission 48-hour notice",
+          "sourceFile": "202610299945297999.pdf"
         }
       ],
       "excludedRows": 0,
-      "sourceFile": "Coons April 2025.pdf; Coons July 2025.pdf; Coons Oct 2025.pdf; Coons 2025 Annual.pdf; Coons April 2026.pdf; Coons July 2026.pdf; Coons Prelim 2026.pdf; Coons Oct 2026.pdf; 202610229940935637.pdf; 202610249945201275.pdf; 202610249945201275.pdf",
+      "sourceFile": "Coons April 2025.pdf; Coons July 2025.pdf; Coons Oct 2025.pdf; Coons 2025 Annual.pdf; Coons April 2026.pdf; Coons July 2026.pdf; Coons Prelim 2026.pdf; Coons Oct 2026.pdf; 202610229940935637.pdf; 202610249945201275.pdf; 202610249945201275.pdf; 202610299945271539.pdf; 202610299945271539.pdf; 202610299945271539.pdf; 202610299945271539.pdf; 202610299945271539.pdf; 202610299945271539.pdf; 202610299945271539.pdf; 202610299945271539.pdf; 202610299945271552.pdf; 202610299945271552.pdf; 202610299945271552.pdf; 202610299945271552.pdf; 202610299945271552.pdf; 202610299945271552.pdf; 202610299945297999.pdf; 202610299945297999.pdf",
       "reportLabel": "Federal Election Commission reports and 48-hour notices",
       "reportJurisdiction": "Federal Election Commission",
       "locationChartNote": "Based on mailing addresses for itemized FEC contributions; unitemized federal contributions are excluded from this location chart.",
