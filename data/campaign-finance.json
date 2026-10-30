@@ -19007,14 +19007,14 @@
       "account": "01006736",
       "raceId": "RD16",
       "race": "State House District 16",
-      "reportDate": "10/04/2026",
+      "reportDate": "10/30/2026",
       "periodStart": "09/18/2026",
-      "periodEnd": "10/04/2026",
-      "totalReceipts": 742.25,
+      "periodEnd": "10/26/2026",
+      "totalReceipts": 1342.25,
       "candidateLoans": 0,
-      "totalExpenditures": 884.36,
-      "endingBalance": -142.11,
-      "itemizedTotal": 670.25,
+      "totalExpenditures": 1855.87,
+      "endingBalance": -513.62,
+      "itemizedTotal": 1270.25,
       "smallContributionsTotal": 72.0,
       "smallContributionRows": [
         {
@@ -19026,10 +19026,10 @@
           "receiptType": "aggregate-small-contributions"
         }
       ],
-      "reportedItemizedTotal": 670.25,
+      "reportedItemizedTotal": 1270.25,
       "itemizedReconciliationGap": 0.0,
-      "delawareTotal": 742.25,
-      "outsideTotal": 0,
+      "delawareTotal": 1342.25,
+      "outsideTotal": 0.0,
       "unitemizedOrOther": 0.0,
       "donors": [
         {
@@ -19052,16 +19052,50 @@
           "address": "New Castle, Delaware",
           "aggregate": 100.0,
           "amount": 100.0
+        },
+        {
+          "date": "10/10/2026",
+          "name": "MARY MCCROSSAN",
+          "address": "WILMINGTON, Delaware",
+          "aggregate": 600.0,
+          "amount": 600.0
         }
       ],
       "excludedRows": 0,
-      "sourceFile": "CampaignFinanceReport_Prelim_757132_1273_7bf07983-6f5a-43fd-a8f3-110e8815e245.pdf",
+      "sourceFile": "CampaignFinanceReport_Prelim_757132_1274_2c83bbeb-408b-49d5-a243-1d03dfc12d91 (1).pdf",
       "office": "State Representative District 16",
       "county": "New Castle",
       "party": "Republican",
       "status": "Qualified",
       "filed": "8/28/2026",
-      "reportAvailable": true
+      "reportAvailable": true,
+      "current2026Receipts": 1342.25,
+      "filingPeriods": [
+        {
+          "periodStart": "09/18/2026",
+          "periodEnd": "10/04/2026",
+          "reportDate": "10/04/2026",
+          "sourceFile": "CampaignFinanceReport_Prelim_757132_1273_7bf07983-6f5a-43fd-a8f3-110e8815e245.pdf",
+          "totalReceipts": 742.25,
+          "candidateLoans": 0,
+          "totalExpenditures": 884.36,
+          "smallContributionsTotal": 72.0
+        },
+        {
+          "periodStart": "10/05/2026",
+          "periodEnd": "10/26/2026",
+          "reportDate": "10/30/2026",
+          "sourceFile": "CampaignFinanceReport_Prelim_757132_1274_2c83bbeb-408b-49d5-a243-1d03dfc12d91 (1).pdf",
+          "totalReceipts": 600.0,
+          "candidateLoans": 0,
+          "totalExpenditures": 971.51,
+          "smallContributionsTotal": 0.0
+        }
+      ],
+      "sourceFiles": [
+        "CampaignFinanceReport_Prelim_757132_1273_7bf07983-6f5a-43fd-a8f3-110e8815e245.pdf",
+        "CampaignFinanceReport_Prelim_757132_1274_2c83bbeb-408b-49d5-a243-1d03dfc12d91 (1).pdf"
+      ]
     },
     {
       "id": "rd16-pamela-salaam",
