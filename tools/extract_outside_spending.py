@@ -55,6 +55,11 @@ CANDIDATE_PATTERNS = {
     "trs-smith": r"Michael(?:\s+Alexander)?\s+Smith",
     "trs-lauzen": r"(?:Ted|Theodore)\s+Lauzen",
     "ag-jennings": r"Kathleen\s+Jennings",
+    "sc4-justine-cuccia": r"Justine\s+Cuccia",
+    "sc5-jill-hicks": r"Jill\s+Hicks",
+    "rd4-gregg-lindner": r"Gregg\s+Lindner",
+    "rd38-maureen-madden": r"Maureen(?:\s+\"Mo\")?\s+Madden",
+    "rd41-ryan-stuckey": r"Ryan\s+Stuckey",
 }
 
 # Rows that allocate one vendor payment among multiple named candidates.
