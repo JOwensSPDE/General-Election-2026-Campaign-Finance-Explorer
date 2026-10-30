@@ -13,7 +13,7 @@ const normalize = value => String(value ?? '').toLowerCase().normalize('NFD').re
 async function init() {
   try {
     const [response, outsideResponse] = await Promise.all([
-      fetch('data/campaign-finance.json?v=14'), fetch('data/outside-spending.json?v=14')
+      fetch('data/campaign-finance.json?v=15'), fetch('data/outside-spending.json?v=15')
     ]);
     if (!response.ok || !outsideResponse.ok) throw new Error(`Data request failed`);
     const [payload, outside] = await Promise.all([response.json(), outsideResponse.json()]);
