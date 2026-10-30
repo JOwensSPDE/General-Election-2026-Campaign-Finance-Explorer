@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29",
+  "generated": "2026-10-30",
   "methodology": "General-election third-party spending and PAC direct donations are reported separately from candidate fundraising.",
   "groups": [
     {
@@ -937,6 +937,19 @@
       "reportedExpenditures": 103999.13,
       "candidateAttributed": 0,
       "reportCount": 3
+    },
+    {
+      "account": "04003531",
+      "organization": "BlueGoldPAC - 3rd Party Advertisers",
+      "entityType": "Third-party advertiser",
+      "reportedExpenditures": 37502.07,
+      "candidateAttributed": 0,
+      "reportCount": 1,
+      "unallocatedCandidateSupport": [
+        "rd9-jamar-money",
+        "rd27-mary-penny-kubin"
+      ],
+      "unallocatedSupportNote": "The filing ties a $22,502.07 grouped expenditure to Jamar Money and Penny Kubin without providing candidate-level amounts. A separate $15,000 expenditure names no candidate."
     },
     {
       "account": "04006103",
@@ -11062,6 +11075,13 @@
       "reason": "Independent expenditure could not be matched to exactly one qualified candidate.",
       "amount": 22999.71,
       "rawText": "10/21/2026 Pivot Group, Inc. The 712 H Street NE, Unit #606, Washington, $141,220.35 $22,999.71 | District Of Columbia, 20002"
+    },
+    {
+      "account": "04003531",
+      "sourceFile": "CampaignFinanceReport_Prelim_390250_315_20dd5dae-5b05-4e03-84fb-da8063b949fe.pdf",
+      "reason": "Independent expenditure could not be matched to exactly one qualified candidate.",
+      "amount": 15000.0,
+      "rawText": "10/26/2026 JLK Political Strategies 1021 E Cary St, Suite 2002, Richmond, $15,000.00 $15,000.00 | Virginia, 23219 | Mailing, texting services, connected tv, | and media/digital services"
     }
   ],
   "excludedReports": [
